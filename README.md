@@ -1,7 +1,18 @@
-### Hi there 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/waitnoww/waitnoww/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/waitnoww/count.svg" />
+</p>
+
+## About me
+
+I'm waitnoww. An SoftWare Tester at [DouyuTV](https://www.douyu.com) 
 
 <!--
-**waitnoww/waitnoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
