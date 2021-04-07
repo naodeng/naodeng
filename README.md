@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm waitnoww. An SoftWare Tester at [DouyuTV](https://www.douyu.com) 
+I'm waitnoww. An QA at [ThoughtWorks](https://www.thoughtworks.com) 
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
