@@ -1,10 +1,10 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/waitnoww/waitnoww/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/naodeng/naodeng/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/waitnoww/count.svg" />
+  <img src="https://profile-counter.glitch.me/naodeng/count.svg" />
 </p>
 
 ## About me
