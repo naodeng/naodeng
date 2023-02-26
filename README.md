@@ -8,8 +8,6 @@
   <img src="https://profile-counter.glitch.me/naodeng/count.svg" />
 </p>
 
-- 🔭 I’m currently working on [hugo-ladder](https://github.com/guangzhengli/hugo-theme-ladder)
-
 - 🌱 I’m currently learning **Playwright**
 
 
