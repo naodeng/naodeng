@@ -1,27 +1,36 @@
-# Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/naodeng/naodeng/master/resources/banner.png" alt="Hello world">
+<h1 align="center">Hi 👋, I'm naodeng</h1>
+<h3 align="center">A Quality Analyst, Not A Quality Assurance</h3>
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/naodeng/count.svg" />
 </p>
 
-## About me
+- 🔭 I’m currently working on [hugo-ladder](https://github.com/guangzhengli/hugo-theme-ladder)
 
-I'm waitnoww. An QA at [ThoughtWorks](https://www.thoughtworks.com) 
+- 🌱 I’m currently learning **Playwright**
 
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📝 I regularly write articles on [https://naodeng.tech/](https://naodeng.tech)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **dengnao@gmail.com**
+
+- ⚡ Fun fact **Quality Analyst**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Playwright Get Started](https://naodeng.tech/post/playwright-get-started/)
+- [Cypress UI 自动化测试框架学习（6）- 用例编辑和脚本录制工具 Cypress Studio 介绍](https://naodeng.tech/post/cypress-demo6/)
+- [Cypress UI 自动化测试框架学习（5）- 命令大全](https://naodeng.tech/post/cypress-demo5/)
+<!-- BLOG-POST-LIST:END -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=naodeng&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/naodeng0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naodeng0_0" height="30" width="40" /></a>
+<a href="/https://naodeng.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.tech" height="30" width="40" /></a>
+</p>
