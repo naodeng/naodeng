@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [apitest-postman-tutorials](https://github.com/naodeng/apitest-postman-tutorials)
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning [Playwright](https://playwright.dev/docs/intro)
 
 - 📝 I regularly write articles on [https://naodeng.tech/](https://naodeng.tech)
 
