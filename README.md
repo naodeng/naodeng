@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [postman替换工具bruno使用介绍](https://naodeng.tech/post/introduction_of_bruno/)
 - [接口测试简介](https://naodeng.tech/post/introduction_of_api_test/)
 - [Playwright Get Started](https://naodeng.tech/post/playwright-get-started/)
 - [Cypress UI 自动化测试框架学习（6）- 用例编辑和脚本录制工具 Cypress Studio 介绍](https://naodeng.tech/post/cypress-demo6/)
