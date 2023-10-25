@@ -20,7 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [gatling 性能测试工具入门介绍](https://naodeng.tech/post/gatling-tool-intro1/))
+- [gatling 性能测试工具入门介绍](https://naodeng.tech/post/gatling-tool-intro1/)
 - [postman替代工具bruno使用介绍](https://naodeng.tech/post/introduction_of_bruno/)
 - [接口测试简介](https://naodeng.tech/post/introduction_of_api_test/)
 - [Playwright Get Started](https://naodeng.tech/post/playwright-get-started/)
