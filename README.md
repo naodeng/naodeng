@@ -34,6 +34,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naodeng0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naodeng0_0" height="30" width="40" /></a>
-<a href="/https://naodeng.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.tech" height="30" width="40" /></a>
-<a href="/https://naodeng.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://naodeng.medium.com" height="30" width="40" /></a>
+<a href="https://naodeng.tech/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.tech/index.xml" height="30" width="40" /></a>
+<a href="https://naodeng.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://naodeng.medium.com" height="30" width="40" /></a>
 </p>
