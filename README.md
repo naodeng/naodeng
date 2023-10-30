@@ -20,11 +20,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [gatling 性能测试工具进阶用法：CI/CD 集成](https://naodeng.tech/post/gatling-tool-intro-ci-cd-integration/)
 - [gatling 性能测试工具进阶用法：报告解析和场景设置](https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
 - [gatling 性能测试工具：从 0 到 1 搭建自己的 Gatling 工程](https://naodeng.tech/post/gatling-tool-intro2/)
 - [gatling 性能测试工具入门介绍](https://naodeng.tech/post/gatling-tool-intro1/)
 - [postman替代工具bruno使用介绍](https://naodeng.tech/post/introduction_of_bruno/)
-- [接口测试简介](https://naodeng.tech/post/introduction_of_api_test/)
 - [Playwright Get Started](https://naodeng.tech/post/playwright-get-started/)
 <!-- BLOG-POST-LIST:END -->
 
