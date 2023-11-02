@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
-- 🌱 I’m currently learning [RestAssured](https://rest-assured.io/)
+- 🌱 I’m currently learning [SuperTest](https://www.npmjs.com/package/supertest)
 
 - 📝 I regularly write articles on [https://naodeng.tech/](https://naodeng.tech)
 
@@ -20,12 +20,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [REST Assured 教程：从 0 到 1 搭建 REST Assured 接口自动化测试项目](https://naodeng.tech/post/rest-assured-tutorial-building-your-own-project-from-0-to-1/)
+- [REST Assured 教程：入门介绍和环境搭建准备]([https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
 - [gatling 性能测试工具进阶用法：CI/CD 集成](https://naodeng.tech/post/gatling-tool-intro-ci-cd-integration/)
 - [gatling 性能测试工具进阶用法：报告解析和场景设置](https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
 - [gatling 性能测试工具：从 0 到 1 搭建自己的 Gatling 工程](https://naodeng.tech/post/gatling-tool-intro2/)
 - [gatling 性能测试工具入门介绍](https://naodeng.tech/post/gatling-tool-intro1/)
 - [postman替代工具bruno使用介绍](https://naodeng.tech/post/introduction_of_bruno/)
-- [Playwright Get Started](https://naodeng.tech/post/playwright-get-started/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
