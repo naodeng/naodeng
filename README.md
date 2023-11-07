@@ -21,13 +21,18 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [REST Assured 教程：从 0 到 1 搭建 REST Assured 接口自动化测试项目](https://naodeng.tech/post/rest-assured-tutorial-building-your-own-project-from-0-to-1/)
-- [REST Assured 教程：入门介绍和环境搭建准备](https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
-- [gatling 性能测试工具进阶用法：CI/CD 集成](https://naodeng.tech/post/gatling-tool-intro-ci-cd-integration/)
-- [gatling 性能测试工具进阶用法：报告解析和场景设置](https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
-- [gatling 性能测试工具：从 0 到 1 搭建自己的 Gatling 工程](https://naodeng.tech/post/gatling-tool-intro2/)
-- [gatling 性能测试工具入门介绍](https://naodeng.tech/post/gatling-tool-intro1/)
-- [postman替代工具bruno使用介绍](https://naodeng.tech/post/introduction_of_bruno/)
+- [Supertest Tutorial: Advanced Usage - Integration CI CD and Github action](https://naodeng.tech/post-en/supertest-tutorial-advance-usage-integration-ci-cd-and-github-action-en/)
+- [Supertest Tutorial: Building a Supertest API Automation Test project from 0 to 1](https://naodeng.tech/post-en/supertest-tutorial-building-your-own-project-from-0-to-1-en/)
+- [Supertest Tutorial: Getting Started and Setting Up Your Environment](https://naodeng.tech/post-en/supertest-tutorial-getting-started-and-own-environment-preparation-en/)
+- [REST Assured Tutorial: Advanced Usage - Integration CI CD and Integration Allure Report](https://naodeng.tech/post-en/rest-assured-tutorial-advance-usage-integration-ci-cd-and-allure-report-en/)
+- [REST Assured Tutorial: Advanced Usage - Validating Responses and Logging, Filters, File Uploads](https://naodeng.tech/post-en/rest-assured-tutorial-advance-usage-verifying-response-and-logging-en/)
+- [REST Assured Tutorial: Building a REST Assured API Automation Test project from 0 to 1](https://naodeng.tech/post-en/rest-assured-tutorial-building-your-own-project-from-0-to-1-en/)
+- [REST Assured Tutorial: Getting Started and Setting Up Your Environment](https://naodeng.tech/post-en/rest-assured-tutorial-and-environment-preparation-en/)
+- [Gatling tutorial and advanced usage: CI/CD Integration](https://naodeng.tech/post-en/gatling-tool-tutorial-ci-cd-integration-en/)
+- [Gatling tutorial and advanced usage: Test report analysis and Performance Scenario Setting](https://naodeng.tech/post-en/gatling-tool-tutorial-advanced-usage-en/)
+- [gatling tutorial: building your own gatling project from 0 to 1](https://naodeng.tech/post-en/gatling-tool-tutorial2-en/)
+- [Gatling tutorial: Getting Started](https://naodeng.tech/post-en/gatling-tool-tutorial1-en/)
+- [Introducing Bruno for Replacement Postman](https://naodeng.tech/post-en/introduction_of_bruno-en/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
