@@ -44,3 +44,5 @@
 <a href="https://naodeng.tech/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.tech/index.xml" height="30" width="40" /></a>
 <a href="https://naodeng.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://naodeng.medium.com" height="30" width="40" /></a>
 </p>
+
+![KDiAFo](https://cdn.jsdelivr.net/gh/naodeng/blogimg@master/uPic/KDiAFo.png)
