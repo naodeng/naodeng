@@ -38,6 +38,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naodeng&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+# Donations
+
+If you like my work, you can buy me a coffee.
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://www.buymeacoffee.com/naodeng" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;"></a>
+<!-- markdownlint-enable MD033 -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naodeng0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naodeng0_0" height="30" width="40" /></a>
