@@ -11,7 +11,7 @@
 
 - 🔭 我当前工作在 [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
-- 🌱 我正在学习 [SuperTest](https://www.npmjs.com/package/supertest)
+- 🌱 我正在学习 [Pytest](https://docs.pytest.org/en/7.4.x/)
 
 - 📝 我定期在 [https://naodeng.tech/](https://naodeng.tech) 上撰写文章
 
