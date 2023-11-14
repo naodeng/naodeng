@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
-- 🌱 I’m currently learning [SuperTest](https://www.npmjs.com/package/supertest)
+- 🌱 I’m currently learning [Pytest](https://docs.pytest.org/en/7.4.x/))
 
 - 📝 I regularly write articles on [https://naodeng.tech/](https://naodeng.tech)
 
