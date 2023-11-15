@@ -21,18 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Supertest Tutorial: Advanced Usage - Integration CI CD and Github action](https://naodeng.tech/post-en/supertest-tutorial-advance-usage-integration-ci-cd-and-github-action-en/)
-- [Supertest Tutorial: Building a Supertest API Automation Test project from 0 to 1](https://naodeng.tech/post-en/supertest-tutorial-building-your-own-project-from-0-to-1-en/)
-- [Supertest Tutorial: Getting Started and Setting Up Your Environment](https://naodeng.tech/post-en/supertest-tutorial-getting-started-and-own-environment-preparation-en/)
-- [REST Assured Tutorial: Advanced Usage - Integration CI CD and Integration Allure Report](https://naodeng.tech/post-en/rest-assured-tutorial-advance-usage-integration-ci-cd-and-allure-report-en/)
-- [REST Assured Tutorial: Advanced Usage - Validating Responses and Logging, Filters, File Uploads](https://naodeng.tech/post-en/rest-assured-tutorial-advance-usage-verifying-response-and-logging-en/)
-- [REST Assured Tutorial: Building a REST Assured API Automation Test project from 0 to 1](https://naodeng.tech/post-en/rest-assured-tutorial-building-your-own-project-from-0-to-1-en/)
-- [REST Assured Tutorial: Getting Started and Setting Up Your Environment](https://naodeng.tech/post-en/rest-assured-tutorial-and-environment-preparation-en/)
-- [Gatling tutorial and advanced usage: CI/CD Integration](https://naodeng.tech/post-en/gatling-tool-tutorial-ci-cd-integration-en/)
-- [Gatling tutorial and advanced usage: Test report analysis and Performance Scenario Setting](https://naodeng.tech/post-en/gatling-tool-tutorial-advanced-usage-en/)
-- [gatling tutorial: building your own gatling project from 0 to 1](https://naodeng.tech/post-en/gatling-tool-tutorial2-en/)
-- [Gatling tutorial: Getting Started](https://naodeng.tech/post-en/gatling-tool-tutorial1-en/)
-- [Introducing Bruno for Replacement Postman](https://naodeng.tech/post-en/introduction_of_bruno-en/)
+- [Pytest Tutorial Series](https://naodeng.tech/series/pytest-guide/)
+- [Supertest Tutorial Series](https://naodeng.tech/series/supertest-guide/)
+- [REST Assured Tutorial Series](https://naodeng.tech/series/rest-assured-guide/)
+- [Gatling tutorial Series](https://naodeng.tech/series/gatling-guide/)
+- [Introducing Bruno for Replacement Postman](https://naodeng.tech/posts/api-automation-testing/introduction_of_bruno/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
