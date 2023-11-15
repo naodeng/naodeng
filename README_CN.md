@@ -21,18 +21,11 @@
 
 ### 最近发布的博客
 <!-- BLOG-POST-LIST:START -->
-- [Supertest 教程：进阶用法 - 集成 CI/CD 和 Github action](https://naodeng.tech/post/supertest-tutorial-advance-usage-integration-ci-cd-and-github-action/)
-- [Supertest 教程：从 0 到 1 搭建 Supertest 接口自动化测试项目](https://naodeng.tech/post/supertest-tutorial-building-your-own-project-from-0-to-1/)
-- [Supertest 教程：入门介绍和环境搭建准备](https://naodeng.tech/post/supertest-tutorial-getting-started-and-own-environment-preparation/)
-- [REST Assured 教程：进阶用法 - 集成 CI/CD 和集成 allure 测试报告](https://naodeng.tech/post/rest-assured-tutorial-advance-usage-integration-ci-cd-and-allure-report/)
-- [REST Assured 教程：进阶用法 - 验证响应和日志记录，过滤器，文件上传](https://naodeng.tech/post/rest-assured-tutorial-advance-usage-verifying-response-and-logging/)
-- [REST Assured 教程：从 0 到 1 搭建 REST Assured 接口自动化测试项目](https://naodeng.tech/post/rest-assured-tutorial-building-your-own-project-from-0-to-1/)
-- [REST Assured 教程：入门介绍和环境搭建准备](https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
-- [gatling 性能测试工具进阶用法：CI/CD 集成](https://naodeng.tech/post/gatling-tool-intro-ci-cd-integration/)
-- [gatling 性能测试工具进阶用法：报告解析和场景设置](https://naodeng.tech/post/gatling-tool-intro-advanced-usage/)
-- [gatling 性能测试工具：从 0 到 1 搭建自己的 Gatling 工程](https://naodeng.tech/post/gatling-tool-intro2/)
-- [gatling 性能测试工具入门介绍](https://naodeng.tech/post/gatling-tool-intro1/)
-- [postman替代工具bruno使用介绍](https://naodeng.tech/post/introduction_of_bruno/)
+- [Pytest 教程系列](https://naodeng.tech/zh/zhseries/pytest-%E6%95%99%E7%A8%8B/)
+- [Supertest 教程系列](https://naodeng.tech/zh/zhseries/supertest-%E6%95%99%E7%A8%8B/)
+- [REST Assured 教程系列](https://naodeng.tech/zh/zhseries/rest-assured-%E6%95%99%E7%A8%8B/)
+- [Gatling 教程系列](https://naodeng.tech/zh/zhseries/gatling-%E6%95%99%E7%A8%8B/)
+- [postman 替换工具 bruno 使用介绍](https://naodeng.tech/zh/posts/api-automation-testing/introduction_of_bruno/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
@@ -45,6 +38,7 @@
 <!-- markdownlint-disable MD033 -->
 <a href="https://www.buymeacoffee.com/naodeng" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;"></a>
 <!-- markdownlint-enable MD033 -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T1R4YB2)
 
 <h3 align="left">联系我:</h3>
 <p align="left">
