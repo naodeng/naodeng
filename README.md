@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Pytest Tutorial Series](https://naodeng.tech/series/pytest-guide/)
-- [Supertest Tutorial Series](https://naodeng.tech/series/supertest-guide/)
-- [REST Assured Tutorial Series](https://naodeng.tech/series/rest-assured-guide/)
-- [Gatling tutorial Series](https://naodeng.tech/series/gatling-guide/)
+- [Pytest Tutorial Series](https://naodeng.tech/series/pytest-api-automation-testing-tutorial/)
+- [Supertest Tutorial Series](https://naodeng.tech/series/supertest-api-automation-testing-tutorial/)
+- [REST Assured Tutorial Series](https://naodeng.tech/series/rest-assured-api-automation-testing-tutorial/)
+- [Gatling tutorial Series](https://naodeng.tech/series/gatling-performance-testing-tutorial/)
 - [Introducing Bruno for Replacement Postman](https://naodeng.tech/posts/api-automation-testing/introduction_of_bruno/)
 <!-- BLOG-POST-LIST:END -->
 
