@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Postman Tutorial Series](https://naodeng.tech/series/postman-api-automation-testing-tutorial/)
 - [Pytest Tutorial Series](https://naodeng.tech/series/pytest-api-automation-testing-tutorial/)
 - [Supertest Tutorial Series](https://naodeng.tech/series/supertest-api-automation-testing-tutorial/)
 - [REST Assured Tutorial Series](https://naodeng.tech/series/rest-assured-api-automation-testing-tutorial/)
