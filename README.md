@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Airtest**
 
-- 📝 I regularly write articles on [https://naodeng.tech/](https://naodeng.tech)
+- 📝 I regularly write articles on [https://naodeng.com.cn/](https://naodeng.com.cn)
 
 - 📫 How to reach me **dengnao@gmail.com**
 
@@ -21,12 +21,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Postman API Automation Testing Tutorial Series](https://naodeng.tech/series/postman-api-automation-testing-tutorial/)
-- [Pytest API Automation Testing Tutorial Series](https://naodeng.tech/series/pytest-api-automation-testing-tutorial/)
-- [Supertest API Automation Testing Tutorial Series](https://naodeng.tech/series/supertest-api-automation-testing-tutorial/)
-- [REST Assured API Automation Testing Tutorial Series](https://naodeng.tech/series/rest-assured-api-automation-testing-tutorial/)
-- [Gatling Performance Testing tutorial Series](https://naodeng.tech/series/gatling-performance-testing-tutorial/)
-- [Introducing Bruno for Replacement Postman](https://naodeng.tech/posts/api-automation-testing/introduction_of_bruno/)
+- [Postman API Automation Testing Tutorial Series](https://naodeng.com.cn/series/postman-api-automation-testing-tutorial/)
+- [Pytest API Automation Testing Tutorial Series](https://naodeng.com.cn/series/pytest-api-automation-testing-tutorial/)
+- [Supertest API Automation Testing Tutorial Series](https://naodeng.com.cn/series/supertest-api-automation-testing-tutorial/)
+- [REST Assured API Automation Testing Tutorial Series](https://naodeng.com.cn/series/rest-assured-api-automation-testing-tutorial/)
+- [Gatling Performance Testing tutorial Series](https://naodeng.com.cn/series/gatling-performance-testing-tutorial/)
+- [Introducing Bruno for Replacement Postman](https://naodeng.com.cn/posts/api-automation-testing/introduction_of_bruno/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
@@ -45,7 +45,7 @@ If you like my work, you can buy me a coffee.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naodeng0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naodeng0_0" height="30" width="40" /></a>
-<a href="https://naodeng.tech/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.tech/index.xml" height="30" width="40" /></a>
+<a href="https://naodeng.com.cn/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.com.cn/index.xml" height="30" width="40" /></a>
 <a href="https://naodeng.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://naodeng.medium.com" height="30" width="40" /></a>
 </p>
 
