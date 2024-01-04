@@ -13,7 +13,7 @@
 
 - 🌱 我正在学习 **Airtest**
 
-- 📝 我定期在 [https://naodeng.tech/](https://naodeng.tech) 上撰写文章
+- 📝 我定期在 [https://naodeng.com.cn/](https://naodeng.com.cn) 上撰写文章
 
 - 📫 如何联系我 **dengnao@gmail.com**
 
@@ -21,12 +21,12 @@
 
 ### 最近发布的博客
 <!-- BLOG-POST-LIST:START -->
-- [Postman 接口自动化测试教程系列](https://naodeng.tech/zh/zhseries/postman-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [Pytest 接口自动化测试教程系列](https://naodeng.tech/zh/zhseries/pytest-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [Supertest 接口自动化测试教程系列](https://naodeng.tech/zh/zhseries/supertest-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [REST Assured 接口自动化测试教程系列](https://naodeng.tech/zh/zhseries/rest-assured-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [Gatling 性能测试教程系列](https://naodeng.tech/zh/zhseries/gatling-%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [postman 替换工具 bruno 使用介绍](https://naodeng.tech/zh/posts/api-automation-testing/introduction_of_bruno/)
+- [Postman 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/postman-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
+- [Pytest 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/pytest-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
+- [Supertest 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/supertest-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
+- [REST Assured 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/rest-assured-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
+- [Gatling 性能测试教程系列](https://naodeng.com.cn/zh/zhseries/gatling-%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
+- [postman 替换工具 bruno 使用介绍](https://naodeng.com.cn/zh/posts/api-automation-testing/introduction_of_bruno/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
@@ -44,7 +44,7 @@
 <h3 align="left">联系我:</h3>
 <p align="left">
 <a href="https://twitter.com/naodeng0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naodeng0_0" height="30" width="40" /></a>
-<a href="https://naodeng.tech/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.tech/index.xml" height="30" width="40" /></a>
+<a href="https://naodeng.com.cn/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://naodeng.com.cn/index.xml" height="30" width="40" /></a>
 <a href="https://naodeng.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://naodeng.medium.com" height="30" width="40" /></a>
 </p>
 
