@@ -11,7 +11,7 @@
 
 - 🔭 我当前工作在 [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
-- 🌱 我正在学习 **Airtest**
+- 🌱 我正在学习 **k6**
 
 - 📝 我定期在 [https://naodeng.com.cn/](https://naodeng.com.cn) 上撰写文章
 
