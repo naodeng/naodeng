@@ -9,9 +9,9 @@
   <img src="https://profile-counter.glitch.me/naodeng/count.svg" />
 </p>
 
-- 🔭 我当前工作在 [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
+- 🔭 我当前工作在 [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories) 和[QA Wiki](https://github.com/naodeng/QAWiki)
 
-- 🌱 我正在学习 **k6**
+- 🌱 我正在学习 **Playwright**
 
 - 📝 我定期在 [https://naodeng.com.cn/](https://naodeng.com.cn) 上撰写文章
 
