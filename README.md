@@ -7,9 +7,9 @@
   <img src="https://profile-counter.glitch.me/naodeng/count.svg" />
 </p>
 
-- 🔭 I’m currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
+- 🔭 I’m currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories) and [QA Wiki](https://github.com/naodeng/QAWiki)
 
-- 🌱 I’m currently learning **K6**
+- 🌱 I’m currently learning **Playwright**
 
 - 📝 I regularly write articles on [https://naodeng.com.cn/](https://naodeng.com.cn)
 
