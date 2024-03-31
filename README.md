@@ -1,6 +1,6 @@
 <div align="right"><strong><a href="./README_CN.md">🇨🇳中文</a></strong>  | <strong>🇬🇧English</strong></div>
 
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nao+Deng" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm **Nao Deng**</h1>
 <h3 align="center">A Quality Analyst, Not A Quality Assurance</h3>
 
 <p align="center"> 
