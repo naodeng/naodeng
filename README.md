@@ -23,7 +23,14 @@
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Awesome QA Prompt: Using AI to Make Testing Work Better](https://naodeng.com.cn/posts/ai-testing/introduction_of_awesome_qa_prompt/)- [30 Days of AI in Testing Challenge: Day 26: Investigate strategies to minimise the carbon footprint of AI in testing](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-26-investigate-strategies-to-minimise-the-carbon-footprint-of-ai-in-testing/)- [30 Days of AI in Testing Challenge: Day 25: Explore AI-driven security testing and share potential use cases](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-25-explore-ai-driven-security-testing-and-share-potential-use-cases/)- [30 Days of AI in Testing Challenge: Day 24: Investigate code explanation techniques and share your insights](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-24-investigate-code-explanation-techniques-and-share-your-insights/)- [30 Days of AI in Testing Challenge: Day 23: Assess AI effectiveness in visual testing and discuss the advantages](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-23-assess-ai-effectiveness-in-visual-testing-and-discuss-the-advantages/)- [30 Days of AI in Testing Challenge: Day 22: Reflect on what skills a team needs to succeed with AI-assisted testing](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-22-reflect-on-what-skills-a-team-needs-to-succeed-with-ai-assisted-testing/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Awesome QA Prompt: Using AI to Make Testing Work Better](https://naodeng.com.cn/posts/ai-testing/introduction_of_awesome_qa_prompt/)
+- [30 Days of AI in Testing Challenge: Day 26: Investigate strategies to minimise the carbon footprint of AI in testing](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-26-investigate-strategies-to-minimise-the-carbon-footprint-of-ai-in-testing/)
+- [30 Days of AI in Testing Challenge: Day 25: Explore AI-driven security testing and share potential use cases](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-25-explore-ai-driven-security-testing-and-share-potential-use-cases/)
+- [30 Days of AI in Testing Challenge: Day 24: Investigate code explanation techniques and share your insights](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-24-investigate-code-explanation-techniques-and-share-your-insights/)
+- [30 Days of AI in Testing Challenge: Day 23: Assess AI effectiveness in visual testing and discuss the advantages](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-23-assess-ai-effectiveness-in-visual-testing-and-discuss-the-advantages/)
+- [30 Days of AI in Testing Challenge: Day 22: Reflect on what skills a team needs to succeed with AI-assisted testing](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-22-reflect-on-what-skills-a-team-needs-to-succeed-with-ai-assisted-testing/)
+<!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://naodeng.com.cn)
 
