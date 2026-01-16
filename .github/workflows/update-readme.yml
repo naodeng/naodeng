@@ -49,3 +49,5 @@ jobs:
           commit_message: "Updated with latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
+          readme_path: "./README.md"
+          disable_sort: false

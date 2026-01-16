@@ -25,27 +25,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-**近期文章：**
-
-- [Postman 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/postman-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [Pytest 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/pytest-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [Supertest 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/supertest-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [REST Assured 接口自动化测试教程系列](https://naodeng.com.cn/zh/zhseries/rest-assured-%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-- [Gatling 性能测试教程系列](https://naodeng.com.cn/zh/zhseries/gatling-%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B/)
-
 [查看所有文章](https://naodeng.com.cn)
-
----
-
-## GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naodeng&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub 统计" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naodeng&theme=tokyonight&hide_border=true&layout=compact&locale=cn" alt="最常用语言" />
-</p>
 
 ---
 

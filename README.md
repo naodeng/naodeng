@@ -22,29 +22,10 @@
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Awesome QA Prompt: Using AI to Make Testing Work Better](https://naodeng.com.cn/posts/ai-testing/introduction_of_awesome_qa_prompt/)- [30 Days of AI in Testing Challenge: Day 26: Investigate strategies to minimise the carbon footprint of AI in testing](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-26-investigate-strategies-to-minimise-the-carbon-footprint-of-ai-in-testing/)- [30 Days of AI in Testing Challenge: Day 25: Explore AI-driven security testing and share potential use cases](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-25-explore-ai-driven-security-testing-and-share-potential-use-cases/)- [30 Days of AI in Testing Challenge: Day 24: Investigate code explanation techniques and share your insights](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-24-investigate-code-explanation-techniques-and-share-your-insights/)- [30 Days of AI in Testing Challenge: Day 23: Assess AI effectiveness in visual testing and discuss the advantages](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-23-assess-ai-effectiveness-in-visual-testing-and-discuss-the-advantages/)- [30 Days of AI in Testing Challenge: Day 22: Reflect on what skills a team needs to succeed with AI-assisted testing](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-22-reflect-on-what-skills-a-team-needs-to-succeed-with-ai-assisted-testing/)<!-- BLOG-POST-LIST:END -->
-
-**Recent Articles:**
-
-- [Postman API Automation Testing Tutorial Series](https://naodeng.com.cn/series/postman-api-automation-testing-tutorial/)
-- [Pytest API Automation Testing Tutorial Series](https://naodeng.com.cn/series/pytest-api-automation-testing-tutorial/)
-- [Supertest API Automation Testing Tutorial Series](https://naodeng.com.cn/series/supertest-api-automation-testing-tutorial/)
-- [REST Assured API Automation Testing Tutorial Series](https://naodeng.com.cn/series/rest-assured-api-automation-testing-tutorial/)
-- [Gatling Performance Testing Tutorial Series](https://naodeng.com.cn/series/gatling-performance-testing-tutorial/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://naodeng.com.cn)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naodeng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naodeng&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 
@@ -106,7 +87,7 @@ If you find my work helpful:
 ## Connect
 
 <p align="center">
-  <a href="https://twitter.com/inaodeng"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://twitter.com/naodeng0_0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://naodeng.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://naodeng.com.cn"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:dengnao@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>

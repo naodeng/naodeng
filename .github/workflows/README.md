@@ -8,22 +8,34 @@
 
 **功能：**
 - 自动生成 GitHub 贡献蛇形动画
-- 自动更新最新博客文章列表
+- 自动更新英文版 README 的最新博客文章列表
 
 **触发条件：**
 - 每天 UTC 时间 00:00 自动运行
 - 手动触发（workflow_dispatch）
 - 推送到 main/master 分支时
 
-**生成内容：**
-- `github-contribution-grid-snake.svg` - 浅色主题蛇形图
-- `github-contribution-grid-snake-dark.svg` - 深色主题蛇形图
-- `github-contribution-grid-snake.gif` - 动画 GIF 版本
+**博客文章更新：**
+- RSS Feed: `https://naodeng.com.cn/index.xml`
+- 最大文章数: 6 篇
+- 更新位置: `README.md` 中的 `<!-- BLOG-POST-LIST:START -->` 和 `<!-- BLOG-POST-LIST:END -->` 之间
 
-**所需权限：**
-- `contents: write` - 用于提交更新
+### 2. Update README CN (`update-readme-cn.yml`)
 
-### 2. GitHub Profile Summary (`profile-summary.yml`)
+**功能：**
+- 自动更新中文版 README 的最新博客文章列表
+
+**触发条件：**
+- 每天 UTC 时间 00:00 自动运行
+- 手动触发（workflow_dispatch）
+- 推送到 main/master 分支时
+
+**博客文章更新：**
+- RSS Feed: `https://naodeng.com.cn/zh/index.xml`
+- 最大文章数: 6 篇
+- 更新位置: `README_CN.md` 中的 `<!-- BLOG-POST-LIST:START -->` 和 `<!-- BLOG-POST-LIST:END -->` 之间
+
+### 3. GitHub Profile Summary (`profile-summary.yml`)
 
 **功能：**
 - 更新 GitHub 统计数据卡片
@@ -38,12 +50,14 @@
 
 ## 🔧 配置说明
 
-### 博客文章更新
+### 博客文章格式
 
-博客文章通过 RSS feed 自动获取：
-- Feed URL: `https://naodeng.com.cn/index.xml`
-- 最大文章数: 6 篇
-- 更新位置: README.md 中的 `<!-- BLOG-POST-LIST:START -->` 和 `<!-- BLOG-POST-LIST:END -->` 之间
+工作流使用以下模板格式化博客文章：
+```
+- [$title]($url)
+```
+
+这会生成标准的 Markdown 列表格式，每篇文章占一行。
 
 ### 蛇形动画
 
@@ -59,16 +73,18 @@ https://raw.githubusercontent.com/naodeng/naodeng/output/github-contribution-gri
 3. 点击 "Run workflow" 按钮
 4. 选择分支并确认运行
 
-## 📊 工作流状态徽章
+## 🐛 故障排查
 
-可以在 README 中添加以下徽章来显示工作流状态：
+### 博客文章格式混乱
 
-```markdown
-![Update README](https://github.com/naodeng/naodeng/actions/workflows/update-readme.yml/badge.svg)
-![Profile Summary](https://github.com/naodeng/naodeng/actions/workflows/profile-summary.yml/badge.svg)
-```
+**问题：** 博客文章列表显示在一行，没有换行
 
-## 🔍 故障排查
+**原因：** `blog-post-workflow` 的输出格式问题
+
+**解决方案：**
+1. 确保 README 中只有 `<!-- BLOG-POST-LIST:START -->` 和 `<!-- BLOG-POST-LIST:END -->` 标记
+2. 不要在标记之间手动添加内容
+3. 手动触发工作流重新生成
 
 ### 工作流失败
 
@@ -82,12 +98,7 @@ https://raw.githubusercontent.com/naodeng/naodeng/output/github-contribution-gri
 1. 确认 RSS feed 格式正确
 2. 检查 README 中是否包含正确的注释标记
 3. 查看工作流日志中的详细错误信息
-
-### 蛇形动画未显示
-
-1. 确认 `output` 分支已创建
-2. 检查图片 URL 是否正确
-3. 等待几分钟让 GitHub Pages 更新
+4. 手动触发工作流测试
 
 ## 📝 自定义配置
 
@@ -103,9 +114,18 @@ schedule:
 
 ### 修改博客文章数量
 
-在 `update-readme.yml` 中修改 `max_post_count` 参数：
+在工作流文件中修改 `max_post_count` 参数：
 ```yaml
 max_post_count: 10  # 显示 10 篇最新文章
+```
+
+### 修改文章模板
+
+在工作流文件中修改 `template` 参数：
+```yaml
+template: "- [$title]($url)"  # 标准列表格式
+template: "- 📝 [$title]($url)"  # 带 emoji
+template: "[$title]($url)"  # 无列表符号
 ```
 
 ## 🔐 安全注意事项
@@ -119,4 +139,4 @@ max_post_count: 10  # 显示 10 篇最新文章
 - [GitHub Actions 文档](https://docs.github.com/en/actions)
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 - [Snake Animation Generator](https://github.com/Platane/snk)
-- [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+
