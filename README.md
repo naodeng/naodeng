@@ -4,7 +4,7 @@
 <h3 align="center">A Quality Analyst, Not A Quality Assurance</h3>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/naodeng/count.svg" />
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnaodeng%2Fnaodeng&label=Visitors&countColor=%23263759&style=flat)
 </p>
 
 - 🔭 I’m currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories) and [QA Wiki](https://github.com/naodeng/QAWiki)
