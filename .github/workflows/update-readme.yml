@@ -45,7 +45,8 @@ jobs:
         with:
           feed_list: "https://naodeng.com.cn/index.xml"
           max_post_count: 6
-          template: "- [$title]($url)"
+          template: "- [$title]($url)
+"
           commit_message: "Updated with latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
