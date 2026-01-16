@@ -17,6 +17,7 @@
 - 正在学习 **Playwright** 和 **AI 辅助测试**
 - 定期在 [naodeng.com.cn](https://naodeng.com.cn) 发布技术文章
 - 联系方式：**dengnao@gmail.com**
+- Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
 
 ---
 
