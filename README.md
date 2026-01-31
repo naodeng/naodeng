@@ -15,7 +15,7 @@
 
 - Currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories) and [QA Wiki](https://github.com/naodeng/QAWiki)
 - Currently learning **Playwright** and **AI-assisted Testing**
-- I regularly write articles on [naodeng.com.cn](https://naodeng.com.cn)
+- I regularly write articles on [https://inaodeng.com](https://inaodeng.com)
 - How to reach me: **dengnao@gmail.com**
 - Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
 
@@ -96,7 +96,7 @@ If you find my work helpful:
 <p align="center">
   <a href="https://twitter.com/inaodeng"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://naodeng.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://naodeng.com.cn"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://inaodeng.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:dengnao@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
