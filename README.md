@@ -45,6 +45,10 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-DC382D?style=for-the-badge&logo=scala&logoColor=white)
 
 **Languages**
 
@@ -52,11 +56,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Web & Docs**
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=for-the-badge&logo=vitepress&logoColor=white)
 
 **DevOps**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
