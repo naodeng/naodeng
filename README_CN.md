@@ -24,12 +24,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome QA Prompt：用AI重新定义软件测试的未来](https://naodeng.com.cn/zh/posts/ai-testing/introduction_of_awesome_qa_prompt/)
-- [软件测试术语分享:Backward Compatibility 向后兼容性](https://naodeng.com.cn/zh/posts/qa-glossary-wiki/qa-glossary-wiki-backward-compatibility/)
-- [软件测试术语分享:Back-to-Back Testing 背靠背测试](https://naodeng.com.cn/zh/posts/qa-glossary-wiki/qa-glossary-wiki-back-to-back-testing/)
-- [软件测试术语分享:Availability Testing 可用性测试](https://naodeng.com.cn/zh/posts/qa-glossary-wiki/qa-glossary-wiki-availability-testing/)
-- [30 天 AI 测试挑战活动：第二十六天：研究在 AI 测试中最大限度地减少碳足迹的策略](https://naodeng.com.cn/zh/posts/event/30-days-of-ai-in-testing-day-26-investigate-strategies-to-minimise-the-carbon-footprint-of-ai-in-testing/)
-- [30 天 AI 测试挑战活动：第二十五天：探索人工智能驱动的安全测试并分享潜在用例](https://naodeng.com.cn/zh/posts/event/30-days-of-ai-in-testing-day-25-explore-ai-driven-security-testing-and-share-potential-use-cases/)
+- [Awesome QA Prompt：用AI重新定义软件测试的未来](https://inaodeng.com/zh-cn/blog/ai-testing/introduction_of_awesome_qa_prompt/)
+- [软件测试术语分享:Backward Compatibility 向后兼容性](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-backward-compatibility/)
+- [软件测试术语分享:Back-to-Back Testing 背靠背测试](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-back-to-back-testing/)
+- [软件测试术语分享:Availability Testing 可用性测试](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-availability-testing/)
+- [30 天 AI 测试挑战活动：第三十一天：可视化人工智能在测试领域的未来](https://inaodeng.com/zh-cn/blog/event/30-days-of-ai-in-testing-day-31-bonus-visualise-the-future-of-ai-in-testing/)
+- [30 天 AI 测试挑战活动：第三十天：设想你的 AI 测试助手会为你做什么](https://inaodeng.com/zh-cn/blog/event/30-days-of-ai-in-testing-day-30-consider-what-your-ai-test-buddy-would-do-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
