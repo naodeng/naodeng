@@ -15,7 +15,7 @@
 
 - 当前工作在 [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories) 和 [QA Wiki](https://github.com/naodeng/QAWiki)
 - 正在学习 **Playwright** 和 **AI 辅助测试**
-- 定期在 [naodeng.com.cn](https://naodeng.com.cn) 发布技术文章
+- 定期在 [inaodeng.com](https://inaodeng.com) 发布技术文章
 - 联系方式：**dengnao@gmail.com**
 - Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
 
@@ -32,7 +32,7 @@
 - [30 天 AI 测试挑战活动：第二十五天：探索人工智能驱动的安全测试并分享潜在用例](https://naodeng.com.cn/zh/posts/event/30-days-of-ai-in-testing-day-25-explore-ai-driven-security-testing-and-share-potential-use-cases/)
 <!-- BLOG-POST-LIST:END -->
 
-[查看所有文章](https://naodeng.com.cn)
+[查看所有文章](https://inaodeng.com)
 
 ---
 

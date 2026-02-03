@@ -32,7 +32,7 @@
 - [30 Days of AI in Testing Challenge: Day 22: Reflect on what skills a team needs to succeed with AI-assisted testing](https://naodeng.com.cn/posts/event/30-days-of-ai-in-testing-day-22-reflect-on-what-skills-a-team-needs-to-succeed-with-ai-assisted-testing/)
 <!-- BLOG-POST-LIST:END -->
 
-[View all articles](https://naodeng.com.cn)
+[View all articles](https://inaodeng.com)
 
 ---
 

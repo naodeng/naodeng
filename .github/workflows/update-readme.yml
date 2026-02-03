@@ -24,7 +24,7 @@ jobs:
       - name: Update English Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://naodeng.com.cn/index.xml"
+          feed_list: "https://inaodeng.com/en/rss.xml"
           max_post_count: 6
           commit_message: "Updated with latest blog posts"
           committer_username: "github-actions[bot]"
@@ -33,7 +33,7 @@ jobs:
       - name: Update Chinese Blog Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://naodeng.com.cn/zh/index.xml"
+          feed_list: "https://inaodeng.com/zh-cn/rss.xml"
           max_post_count: 6
           commit_message: "Updated Chinese README with latest blog posts"
           committer_username: "github-actions[bot]"
