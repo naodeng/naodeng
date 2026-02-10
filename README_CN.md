@@ -104,6 +104,19 @@
 
 ---
 
+## 感谢支持者
+
+感谢以下支持者的鼓励与支持：
+
+<p align="center">
+  <a href="#" title="18773050607">
+    <img src="https://pic1.afdiancdn.com/default/avatar/avatar-yellow.png?imageView2/1/w/240/h/240" alt="18773050607" width="60" height="60" style="border-radius: 50%;" /><br />
+    <sub><b>18773050607</b></sub>
+  </a>
+</p>
+
+---
+
 ## 联系我
 
 <p align="center">
