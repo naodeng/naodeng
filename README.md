@@ -24,12 +24,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome QA Skills: Using AI to Make Testing Work Better](https://inaodeng.com/en/blog/ai-testing/introduction_of_awesome_qa_skills/)
 - [Awesome QA Prompt: Using AI to Make Testing Work Better](https://inaodeng.com/en/blog/ai-testing/introduction_of_awesome_qa_prompt/)
 - [30 Days of AI in Testing Challenge: Day 31 Bonus: Visualise the future of AI in testing](https://inaodeng.com/en/blog/event/30-days-of-ai-in-testing-day-31-bonus-visualise-the-future-of-ai-in-testing/)
 - [30 Days of AI in Testing Challenge: Day 30: Consider what your AI Test Buddy would do for you](https://inaodeng.com/en/blog/event/30-days-of-ai-in-testing-day-30-consider-what-your-ai-test-buddy-would-do-for-you/)
 - [30 Days of AI in Testing Challenge: Day 29: Share whose work is influencing your AI in testing approach](https://inaodeng.com/en/blog/event/30-days-of-ai-in-testing-day-29-share-whose-work-is-influencing-your-ai-in-testing-approach/)
 - [30 Days of AI in Testing Challenge: Day 28: Build your own AI Tools](https://inaodeng.com/en/blog/event/30-days-of-ai-in-testing-day-28-build-your-own-ai-tools/)
-- [30 Days of AI in Testing Challenge: Day 27: Assess your team’s readiness to adopt AI-assisted testing](https://inaodeng.com/en/blog/event/30-days-of-ai-in-testing-day-27-assess-your-teams-readiness-to-adopt-ai-assisted-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
