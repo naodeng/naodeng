@@ -13,11 +13,25 @@
 
 ## About Me
 
-- Currently working on [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories) and [QA Wiki](https://github.com/naodeng/QAWiki)
-- Currently learning **Playwright** and **AI-assisted Testing**
+- Currently building practical QA resources around
+  [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills),
+  [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt),
+  [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki),
+  and [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
+- Focused on **AI-assisted Testing**, **QA workflows**,
+  and **practical testing knowledge sharing**
 - I regularly write articles on [https://inaodeng.com](https://inaodeng.com)
 - How to reach me: **dengnao@gmail.com**
 - Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
+
+---
+
+## Current GitHub Focus
+
+- Building QA workflow skills for Cursor, Claude Code, and OpenCode
+- Expanding AI prompt collections for testing work
+- Growing Chinese QA learning resources and glossary content
+- Maintaining starter projects for hands-on automation testing learning
 
 ---
 
@@ -58,6 +72,15 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+**AI & Prompting**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=opencollective&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![AI Testing](https://img.shields.io/badge/AI_Testing-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 **Web & Docs**
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
@@ -75,17 +98,25 @@
 
 ## Featured Projects
 
+### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
+
+QA workflow skills built for AI coding assistants,
+covering practical testing tasks and daily QA work.
+
+### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
+
+A prompt collection for QA professionals to support
+testing work across the software delivery lifecycle.
+
+### [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki)
+
+A Chinese QA glossary and learning resource
+for building practical testing understanding.
+
 ### [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
-Collection of automation testing starter projects with various frameworks and languages.
-
-### [QA Wiki](https://github.com/naodeng/QAWiki)
-
-Comprehensive quality assurance knowledge base covering testing methodologies and best practices.
-
-### [Awesome QA Prompt](https://github.com/naodeng/awesome-qa-prompt)
-
-Curated collection of AI prompts for QA and testing scenarios.
+Starter projects for UI, API, and performance testing
+across different frameworks and languages.
 
 ---
 
