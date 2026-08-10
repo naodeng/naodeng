@@ -13,13 +13,14 @@
 
 ## 关于我
 
-- 当前主要在维护和扩展
+- 当前主要在维护和扩展双语 QA 资源，
+  包括
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)、
   [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)、
   [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki)
   以及 [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 - 目前重点放在 **AI 辅助测试**、**QA 工作流**、
-  和 **测试知识内容沉淀**
+  **提示词设计** 和 **测试知识内容沉淀**
 - 定期在 [inaodeng.com](https://inaodeng.com) 发布技术文章
 - 联系方式：**dengnao@gmail.com**
 - Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
@@ -28,9 +29,12 @@
 
 ## 当前 GitHub 重点方向
 
-- 持续补充适配 Cursor、Claude Code 和 OpenCode 的 QA 技能
-- 扩展面向测试工作的 AI 提示词内容
-- 完善中文 QA 术语和学习资料内容
+- 持续补充适配 Codex、Cursor、Claude Code、
+  Kiro、OpenCode 和 Trae 的双语 QA 技能
+- 扩展带有工作流、框架版和平台版的
+  QA 提示词内容
+- 完善中文 QA 术语、学习资料和
+  便于翻译维护的内容结构
 - 维护适合上手实践的自动化测试起步项目
 
 ---
@@ -76,10 +80,13 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-3B82F6?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=opencollective&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-0EA5E9?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![提示工程](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![AI 辅助测试](https://img.shields.io/badge/AI_Testing-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white)
+![skill-up](https://img.shields.io/badge/skill--up-E11D48?style=for-the-badge)
 
 **Web 与文档**
 
@@ -100,18 +107,18 @@
 
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
-面向 AI 编码助手的 QA 工作流技能集合，
-覆盖常见测试任务和日常质量工作。
+一个双语 AI 测试技能库，
+包含 4 个工作流、26 类测试技能、安装脚本和评测能力。
 
 ### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
 
-面向 QA 从业者的提示词集合，
-帮助支持软件交付流程中的各类测试工作。
+一个面向 QA 的提示词库，
+覆盖 15 个测试模块和 3 个工作流，并提供多种版本形态。
 
 ### [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki)
 
-中文 QA 术语和学习资料项目，
-帮助系统积累更实用的测试认知。
+一个中文 QA 术语和学习资料项目，
+带有索引化词条、内容脚本和翻译支持。
 
 ### [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 

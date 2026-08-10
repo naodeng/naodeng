@@ -13,13 +13,13 @@
 
 ## About Me
 
-- Currently building practical QA resources around
+- Currently building bilingual QA resources around
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills),
   [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt),
   [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki),
   and [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 - Focused on **AI-assisted Testing**, **QA workflows**,
-  and **practical testing knowledge sharing**
+  **prompt design**, and **practical testing knowledge sharing**
 - I regularly write articles on [https://inaodeng.com](https://inaodeng.com)
 - How to reach me: **dengnao@gmail.com**
 - Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
@@ -28,9 +28,12 @@
 
 ## Current GitHub Focus
 
-- Building QA workflow skills for Cursor, Claude Code, and OpenCode
-- Expanding AI prompt collections for testing work
-- Growing Chinese QA learning resources and glossary content
+- Building bilingual QA skills for Codex, Cursor, Claude Code,
+  Kiro, OpenCode, and Trae
+- Expanding QA prompt libraries with workflow, framework,
+  and platform-specific variants
+- Growing Chinese QA learning resources, glossary content,
+  and translation-friendly structures
 - Maintaining starter projects for hands-on automation testing learning
 
 ---
@@ -76,10 +79,13 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-3B82F6?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=opencollective&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-0EA5E9?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Testing](https://img.shields.io/badge/AI_Testing-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white)
+![skill-up](https://img.shields.io/badge/skill--up-E11D48?style=for-the-badge)
 
 **Web & Docs**
 
@@ -100,18 +106,18 @@
 
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
-QA workflow skills built for AI coding assistants,
-covering practical testing tasks and daily QA work.
+A bilingual AI testing skills library with 4 workflows,
+26 testing-type skills, install scripts, and eval-ready checks.
 
 ### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
 
-A prompt collection for QA professionals to support
-testing work across the software delivery lifecycle.
+A QA prompt library covering 15 testing modules and 3 workflows,
+with standard, framework, and platform-specific variants.
 
 ### [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki)
 
-A Chinese QA glossary and learning resource
-for building practical testing understanding.
+A Chinese QA glossary with indexed terms,
+content automation scripts, and translation support.
 
 ### [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
 
