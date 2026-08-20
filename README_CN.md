@@ -44,12 +44,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [质量工作台 dsh-qa：把 AI 测试工作台装进 DeepSeek Harness](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-ai-testing-workbench/)
+- [从需求分析到发布归档：一个测试项目如何用 dsh-qa 走完全流程](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-test-project-full-lifecycle/)
 - [Awesome QA Skills：用 AI 让测试工作更稳更快](https://inaodeng.com/zh-cn/blog/ai-testing/introduction_of_awesome_qa_skills/)
 - [Awesome QA Prompt：用AI重新定义软件测试的未来](https://inaodeng.com/zh-cn/blog/ai-testing/introduction_of_awesome_qa_prompt/)
 - [软件测试术语分享:Backward Compatibility 向后兼容性](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-backward-compatibility/)
 - [软件测试术语分享:Back-to-Back Testing 背靠背测试](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-back-to-back-testing/)
-- [软件测试术语分享:Availability Testing 可用性测试](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-availability-testing/)
-- [30 天 AI 测试挑战活动：第三十一天：可视化人工智能在测试领域的未来](https://inaodeng.com/zh-cn/blog/event/30-days-of-ai-in-testing-day-31-bonus-visualise-the-future-of-ai-in-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
