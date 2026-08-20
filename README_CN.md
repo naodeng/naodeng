@@ -13,13 +13,13 @@
 
 ## 关于我
 
-- 当前主要在维护和扩展双语 QA 资源，
-  包括
+- 当前主要在做双语 QA 资源、AI 测试工具
+  和学习型站点，包括
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)、
-  [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)、
-  [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki)
-  以及 [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
-- 目前重点放在 **AI 辅助测试**、**QA 工作流**、
+  [dsh-qa](https://github.com/naodeng/dsh-qa)、
+  [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
+  以及 [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
+- 目前重点放在 **AI 辅助测试**、**QA 工作台**、
   **提示词设计** 和 **测试知识内容沉淀**
 - 定期在 [inaodeng.com](https://inaodeng.com) 发布技术文章
 - 联系方式：**dengnao@gmail.com**
@@ -29,13 +29,15 @@
 
 ## 当前 GitHub 重点方向
 
-- 持续补充适配 Codex、Cursor、Claude Code、
-  Kiro、OpenCode 和 Trae 的双语 QA 技能
-- 扩展带有工作流、框架版和平台版的
-  QA 提示词内容
-- 完善中文 QA 术语、学习资料和
-  便于翻译维护的内容结构
-- 维护适合上手实践的自动化测试起步项目
+- 持续把 `dsh-qa` 做成面向 DeepSeek Harness 的
+  QA 工作台插件，覆盖需求、用例、缺陷、报告、
+  看板和日历等 AI 辅助质量流程
+- 维护适配 Codex、Cursor、Claude Code、
+  Kiro、OpenCode 和 Trae 的双语 QA 技能与提示词
+- 持续建设 [inaodeng.com](https://inaodeng.com)
+  这个双语测试站点，补充学习路径、术语内容和系列文章
+- 发布更聚焦的 QA 学习计划，
+  包括英语、Playwright 和 AI Agent 方向
 
 ---
 
@@ -80,6 +82,7 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-2563EB?style=for-the-badge)
 ![Kiro](https://img.shields.io/badge/Kiro-3B82F6?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=opencollective&logoColor=white)
 ![Trae](https://img.shields.io/badge/Trae-0EA5E9?style=for-the-badge)
@@ -108,22 +111,33 @@
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
 一个双语 AI 测试技能库，
-包含 4 个工作流、26 类测试技能、安装脚本和评测能力。
+包含 4 个工作流、25 类测试技能、安装脚本和评测能力。
+
+### [dsh-qa](https://github.com/naodeng/dsh-qa)
+
+一个面向 DeepSeek Harness 的本地 QA 工作台插件，
+覆盖 AI 辅助需求、用例、缺陷、里程碑、报告、
+看板和日历视图。
+
+### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
+
+一个双语测试博客和学习站点，
+围绕自动化实践、测试百科、系列文章和可搜索资源展开。
 
 ### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
 
 一个面向 QA 的提示词库，
 覆盖 15 个测试模块和 3 个工作流，并提供多种版本形态。
 
-### [QA-Glossary-Wiki](https://github.com/naodeng/QA-Glossary-Wiki)
+### [30-day-qa-english-learning-plan](https://github.com/naodeng/30-day-qa-english-learning-plan)
 
-一个中文 QA 术语和学习资料项目，
-带有索引化词条、内容脚本和翻译支持。
+一个双语 30 天 QA 英语学习计划，
+覆盖工程英语、AI 辅助测试、Agents、MCP、评测和技术表达。
 
-### [Automation-Test-Starter](https://github.com/orgs/Automation-Test-Starter/repositories)
+### [30-day-qa-playwright-learning-plan](https://github.com/naodeng/30-day-qa-playwright-learning-plan)
 
-覆盖界面测试、接口测试和性能测试的
-多语言自动化测试起步项目集合。
+一个 30 天 Playwright 学习路径，
+覆盖定位器、夹具、POM、API 测试、Mock、Trace 和 CI/CD。
 
 ---
 
