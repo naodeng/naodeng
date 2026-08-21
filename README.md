@@ -16,6 +16,7 @@
 - Currently building bilingual QA resources, AI testing tools,
   and learning sites around
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills),
+  [skills](https://github.com/naodeng/skills),
   [dsh-qa](https://github.com/naodeng/dsh-qa),
   [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn),
   and [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
@@ -29,15 +30,18 @@
 
 ## Current GitHub Focus
 
+- Building reusable Codex Skills for structured workflows,
+  including Markdown-first 30-day learning plan projects
 - Building `dsh-qa` as a QA workbench plugin for DeepSeek Harness,
   covering AI-assisted requirements, test cases, defects, reports,
   kanban, and calendar workflows
+- Publishing hands-on learning plans for DeepSeek QA and AI Agent
+  engineering, covering APIs, tool calling, MCP, RAG, evals,
+  and multi-agent collaboration
 - Maintaining bilingual QA skills and prompts for Codex, Cursor,
   Claude Code, Kiro, OpenCode, and Trae
 - Growing [inaodeng.com](https://inaodeng.com) as a bilingual testing site
   with structured learning paths, glossary content, and blog series
-- Publishing focused QA learning plans for English, Playwright,
-  and AI agent practice
 
 ---
 
@@ -82,7 +86,12 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-0F766E?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-2563EB?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
+![LLM Evals](https://img.shields.io/badge/LLM_Evals-B45309?style=for-the-badge)
 ![Kiro](https://img.shields.io/badge/Kiro-3B82F6?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=opencollective&logoColor=white)
 ![Trae](https://img.shields.io/badge/Trae-0EA5E9?style=for-the-badge)
@@ -111,13 +120,31 @@
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
 A bilingual AI testing skills library with 4 workflows,
-25 testing-type skills, install scripts, and eval-ready checks.
+25 testing-type skills, 58 skill folders with language parity,
+install scripts, and eval-ready checks.
+
+### [skills](https://github.com/naodeng/skills)
+
+A reusable Codex Skills collection, including a Skill for creating
+Markdown-first bilingual 30-day learning plan projects.
 
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 A local QA workbench plugin for DeepSeek Harness,
 covering AI-assisted requirements, cases, defects,
 milestones, reports, kanban, and calendar views.
+
+### [30-day-qa-deepseek-learning-plan](https://github.com/naodeng/30-day-qa-deepseek-learning-plan)
+
+A hands-on 30-day DeepSeek learning plan for QA engineers and
+AI-agent builders, covering APIs, tool calling, evals,
+DeepSeek Harness, and a QA Agent capstone.
+
+### [ai_agent_30_day_learning_plan](https://github.com/naodeng/ai_agent_30_day_learning_plan)
+
+A 30-day AI Agent learning plan covering agent loops,
+context engineering, memory, RAG, tools, MCP, evals,
+and multi-agent collaboration.
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 
@@ -129,18 +156,6 @@ structured series, and searchable QA resources.
 
 A QA prompt library covering 15 testing modules and 3 workflows,
 with standard, framework, and platform-specific variants.
-
-### [30-day-qa-english-learning-plan](https://github.com/naodeng/30-day-qa-english-learning-plan)
-
-A bilingual 30-day QA English learning plan for engineers,
-covering software engineering English, AI-assisted testing,
-agents, MCP, evals, and technical speaking.
-
-### [30-day-qa-playwright-learning-plan](https://github.com/naodeng/30-day-qa-playwright-learning-plan)
-
-A 30-day Playwright learning path for QA engineers,
-covering locators, fixtures, POM, API testing,
-mocking, trace, and CI/CD practice.
 
 ---
 

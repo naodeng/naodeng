@@ -16,6 +16,7 @@
 - 当前主要在做双语 QA 资源、AI 测试工具
   和学习型站点，包括
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)、
+  [skills](https://github.com/naodeng/skills)、
   [dsh-qa](https://github.com/naodeng/dsh-qa)、
   [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
   以及 [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
@@ -29,15 +30,17 @@
 
 ## 当前 GitHub 重点方向
 
+- 建设可复用的 Codex Skills，支持结构化工作流，
+  包括以 Markdown 为核心的双语 30 天学习计划项目
 - 持续把 `dsh-qa` 做成面向 DeepSeek Harness 的
   QA 工作台插件，覆盖需求、用例、缺陷、报告、
   看板和日历等 AI 辅助质量流程
+- 发布 DeepSeek QA 和 AI Agent 工程实践学习计划，
+  覆盖 API、工具调用、MCP、RAG、评测和多 Agent 协作
 - 维护适配 Codex、Cursor、Claude Code、
   Kiro、OpenCode 和 Trae 的双语 QA 技能与提示词
 - 持续建设 [inaodeng.com](https://inaodeng.com)
   这个双语测试站点，补充学习路径、术语内容和系列文章
-- 发布更聚焦的 QA 学习计划，
-  包括英语、Playwright 和 AI Agent 方向
 
 ---
 
@@ -82,7 +85,12 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-0F766E?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-2563EB?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0891B2?style=for-the-badge)
+![LLM Evals](https://img.shields.io/badge/LLM_Evals-B45309?style=for-the-badge)
 ![Kiro](https://img.shields.io/badge/Kiro-3B82F6?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=opencollective&logoColor=white)
 ![Trae](https://img.shields.io/badge/Trae-0EA5E9?style=for-the-badge)
@@ -111,13 +119,30 @@
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
 一个双语 AI 测试技能库，
-包含 4 个工作流、25 类测试技能、安装脚本和评测能力。
+包含 4 个工作流、25 类测试技能、58 个保持中英文一致的技能目录、
+安装脚本和评测能力。
+
+### [skills](https://github.com/naodeng/skills)
+
+一个可复用的 Codex Skills 集合，
+包含用于创建 Markdown 双语 30 天学习计划项目的 Skill。
 
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 一个面向 DeepSeek Harness 的本地 QA 工作台插件，
 覆盖 AI 辅助需求、用例、缺陷、里程碑、报告、
 看板和日历视图。
+
+### [30-day-qa-deepseek-learning-plan](https://github.com/naodeng/30-day-qa-deepseek-learning-plan)
+
+一个面向 QA 工程师和 AI Agent 构建者的
+DeepSeek 30 天实战学习计划，覆盖 API、工具调用、评测、
+DeepSeek Harness 和 QA Agent 综合实践。
+
+### [ai_agent_30_day_learning_plan](https://github.com/naodeng/ai_agent_30_day_learning_plan)
+
+一个 30 天 AI Agent 学习计划，覆盖 Agent 循环、
+上下文工程、记忆、RAG、工具、MCP、评测和多 Agent 协作。
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 
@@ -128,16 +153,6 @@
 
 一个面向 QA 的提示词库，
 覆盖 15 个测试模块和 3 个工作流，并提供多种版本形态。
-
-### [30-day-qa-english-learning-plan](https://github.com/naodeng/30-day-qa-english-learning-plan)
-
-一个双语 30 天 QA 英语学习计划，
-覆盖工程英语、AI 辅助测试、Agents、MCP、评测和技术表达。
-
-### [30-day-qa-playwright-learning-plan](https://github.com/naodeng/30-day-qa-playwright-learning-plan)
-
-一个 30 天 Playwright 学习路径，
-覆盖定位器、夹具、POM、API 测试、Mock、Trace 和 CI/CD。
 
 ---
 
