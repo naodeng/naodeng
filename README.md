@@ -48,12 +48,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [dsh-qa: An AI Testing Workbench Inside DeepSeek Harness](https://inaodeng.com/en/blog/ai-testing/dsh-qa-ai-testing-workbench/)
-- [From Requirements to Release: Running a Full Test Project with dsh-qa](https://inaodeng.com/en/blog/ai-testing/dsh-qa-test-project-full-lifecycle/)
-- [Awesome QA Skills: Using AI to Make Testing Work Better](https://inaodeng.com/en/blog/ai-testing/introduction_of_awesome_qa_skills/)
-- [Awesome QA Prompt: Using AI to Make Testing Work Better](https://inaodeng.com/en/blog/ai-testing/introduction_of_awesome_qa_prompt/)
-- [30 Days of AI in Testing Challenge: Day 31 Bonus: Visualise the future of AI in testing](https://inaodeng.com/en/blog/event/30-days-of-ai-in-testing-day-31-bonus-visualise-the-future-of-ai-in-testing/)
-- [30 Days of AI in Testing Challenge: Day 30: Consider what your AI Test Buddy would do for you](https://inaodeng.com/en/blog/event/30-days-of-ai-in-testing-day-30-consider-what-your-ai-test-buddy-would-do-for-you/)
+- [Acceptance Criteria Review: Review membership-upgrade acceptance criteria for ambiguity, missing states, unverifiable language, and conflicting rules](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
+- [Requirement Gap Analysis: Analyze membership-upgrade requirements for rule gaps, undefined states, exception paths, and open decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
+- [Testability Analysis: Assess whether membership upgrades expose observable state, stable control points, constructible data, and verifiable results](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
+- [Release Testing Workflow, putting testing into the delivery rhythm](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
+- [Find the holes before writing the cases](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
+- [Requirements Analysis Plus, keeping traceability across multiple inputs](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
