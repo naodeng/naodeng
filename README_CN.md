@@ -47,12 +47,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [质量工作台 dsh-qa：把 AI 测试工作台装进 DeepSeek Harness](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-ai-testing-workbench/)
-- [从需求分析到发布归档：一个测试项目如何用 dsh-qa 走完全流程](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-test-project-full-lifecycle/)
-- [Awesome QA Skills：用 AI 让测试工作更稳更快](https://inaodeng.com/zh-cn/blog/ai-testing/introduction_of_awesome_qa_skills/)
-- [Awesome QA Prompt：用AI重新定义软件测试的未来](https://inaodeng.com/zh-cn/blog/ai-testing/introduction_of_awesome_qa_prompt/)
-- [软件测试术语分享:Backward Compatibility 向后兼容性](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-backward-compatibility/)
-- [软件测试术语分享:Back-to-Back Testing 背靠背测试](https://inaodeng.com/zh-cn/blog/qa-glossary-wiki/qa-glossary-wiki-back-to-back-testing/)
+- [验收标准评审：审阅会员升级验收标准，找出歧义、缺失状态、不可验证的描述和业务规则冲突](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
+- [需求缺口分析：分析会员升级需求中的规则缺口、未定义状态、异常路径和待确认决策](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
+- [可测试性分析：评估会员升级功能是否具备可观察状态、稳定控制点、可构造数据和可验证结果](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
+- [发布测试工作流程，把测试放进真实交付节奏](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
+- [用例先别急着写，需求里的漏洞要先找出来](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
+- [需求分析加强版，多份材料怎样保持来源追踪](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
