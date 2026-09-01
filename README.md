@@ -48,12 +48,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Acceptance Criteria Review: Review membership-upgrade acceptance criteria for ambiguity, missing states, unverifiable language, and conflicting rules](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
-- [Requirement Gap Analysis: Analyze membership-upgrade requirements for rule gaps, undefined states, exception paths, and open decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
-- [Testability Analysis: Assess whether membership upgrades expose observable state, stable control points, constructible data, and verifiable results](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
-- [Release Testing Workflow, putting testing into the delivery rhythm](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
-- [Find the holes before writing the cases](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
-- [Requirements Analysis Plus, keeping traceability across multiple inputs](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
+- [Acceptance Criteria Review: Identify ambiguous, missing, and unverifiable acceptance conditions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
+- [Requirement Gap Analysis: Find rule gaps, exception paths, and undefined states](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
+- [Testability Analysis: Determine whether requirements are truly testable, controllable, and verifiable](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
+- [Release Testing Workflow: Complete testing from release preparation to production verification](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
+- [Requirements Analysis: Find requirement issues before designing tests](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
+- [Requirements Analysis Plus: Trace requirement sources, differences, and changes across documents](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
