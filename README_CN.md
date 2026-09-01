@@ -47,12 +47,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [验收标准评审：审阅会员升级验收标准，找出歧义、缺失状态、不可验证的描述和业务规则冲突](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
-- [需求缺口分析：分析会员升级需求中的规则缺口、未定义状态、异常路径和待确认决策](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
-- [可测试性分析：评估会员升级功能是否具备可观察状态、稳定控制点、可构造数据和可验证结果](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
-- [发布测试工作流程，把测试放进真实交付节奏](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
-- [用例先别急着写，需求里的漏洞要先找出来](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
-- [需求分析加强版，多份材料怎样保持来源追踪](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
+- [验收标准评审：找出歧义、缺失与不可验证的验收条件](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
+- [需求缺口分析：发现规则缺口、异常路径与未定义状态](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
+- [可测试性分析：判断需求是否真正可测、可控、可验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
+- [发布测试工作流：从发布准备到上线验证的完整测试实践](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
+- [需求分析：测试设计之前，先把需求里的问题找出来](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
+- [需求分析加强版：跨多份材料追踪需求来源、差异与变更](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
