@@ -47,12 +47,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [测试策略：开测之前，先把范围、风险与质量门禁讲清楚](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy/)
+- [测试策略加强版：让范围、风险与证据真正可追溯](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-plus/)
+- [测试策略评审：基于证据审查范围、风险与发布门禁](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-review/)
 - [验收标准评审：找出歧义、缺失与不可验证的验收条件](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
 - [需求缺口分析：发现规则缺口、异常路径与未定义状态](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
 - [可测试性分析：判断需求是否真正可测、可控、可验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
-- [发布测试工作流：从发布准备到上线验证的完整测试实践](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
-- [需求分析：测试设计之前，先把需求里的问题找出来](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
-- [需求分析加强版：跨多份材料追踪需求来源、差异与变更](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
