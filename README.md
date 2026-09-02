@@ -48,12 +48,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Strategy: Clarify scope, risk, and quality gates before testing starts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy/)
+- [Test Strategy Plus: Make scope, risk, and evidence truly traceable](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-plus/)
+- [Test Strategy Review: Review scope, risk, and release gates based on evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-review/)
 - [Acceptance Criteria Review: Identify ambiguous, missing, and unverifiable acceptance conditions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
 - [Requirement Gap Analysis: Find rule gaps, exception paths, and undefined states](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
 - [Testability Analysis: Determine whether requirements are truly testable, controllable, and verifiable](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
-- [Release Testing Workflow: Complete testing from release preparation to production verification](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-testing-workflow/)
-- [Requirements Analysis: Find requirement issues before designing tests](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis/)
-- [Requirements Analysis Plus: Trace requirement sources, differences, and changes across documents](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirements-analysis-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
