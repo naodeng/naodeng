@@ -47,12 +47,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [功能测试：从业务链路出发，系统化设计测试场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-functional-testing/)
+- [手动与探索性测试：需求持续变化，如何探索并留下测试证据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-manual-testing/)
+- [质量风险分析：识别、评估并排序真正值得关注的质量风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-risk-analysis/)
 - [测试策略：开测之前，先把范围、风险与质量门禁讲清楚](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy/)
 - [测试策略加强版：让范围、风险与证据真正可追溯](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-plus/)
 - [测试策略评审：基于证据审查范围、风险与发布门禁](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-review/)
-- [验收标准评审：找出歧义、缺失与不可验证的验收条件](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
-- [需求缺口分析：发现规则缺口、异常路径与未定义状态](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
-- [可测试性分析：判断需求是否真正可测、可控、可验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
