@@ -48,12 +48,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Functional Testing: Systematically design test scenarios from business flows](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-functional-testing/)
+- [Manual and Exploratory Testing: Explore changing requirements while preserving test evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-manual-testing/)
+- [Quality Risk Analysis: Identify, assess, and prioritize the risks that matter](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-risk-analysis/)
 - [Test Strategy: Clarify scope, risk, and quality gates before testing starts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy/)
 - [Test Strategy Plus: Make scope, risk, and evidence truly traceable](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-plus/)
 - [Test Strategy Review: Review scope, risk, and release gates based on evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-review/)
-- [Acceptance Criteria Review: Identify ambiguous, missing, and unverifiable acceptance conditions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-acceptance-criteria-review/)
-- [Requirement Gap Analysis: Find rule gaps, exception paths, and undefined states](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-gap-analysis/)
-- [Testability Analysis: Determine whether requirements are truly testable, controllable, and verifiable](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testability-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
