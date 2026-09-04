@@ -48,12 +48,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accessibility Testing: Systematically validate the full user experience from keyboard operation onward](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-accessibility-testing/)
+- [Mobile Testing: Cover weak networks, permissions, and app lifecycle scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mobile-testing/)
+- [Test Case Writing: Turn acceptance criteria into executable, verifiable test cases](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-writing/)
 - [Functional Testing: Systematically design test scenarios from business flows](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-functional-testing/)
 - [Manual and Exploratory Testing: Explore changing requirements while preserving test evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-manual-testing/)
 - [Quality Risk Analysis: Identify, assess, and prioritize the risks that matter](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-risk-analysis/)
-- [Test Strategy: Clarify scope, risk, and quality gates before testing starts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy/)
-- [Test Strategy Plus: Make scope, risk, and evidence truly traceable](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-plus/)
-- [Test Strategy Review: Review scope, risk, and release gates based on evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-strategy-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
