@@ -47,12 +47,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [测试用例评审：找出覆盖缺口、模糊断言与高风险场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-reviewer/)
+- [测试用例评审加强版：跨需求、用例与证据追踪高风险缺口](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-reviewer-plus/)
+- [测试用例编写加强版：让需求、规则与测试用例全程可追溯](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testcase-writer-plus/)
 - [可访问性测试：从键盘操作到完整用户体验的系统化验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-accessibility-testing/)
 - [移动端测试：系统覆盖弱网、权限与应用生命周期场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mobile-testing/)
 - [测试用例编写：从验收标准到可执行、可验证的测试用例](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-writing/)
-- [功能测试：从业务链路出发，系统化设计测试场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-functional-testing/)
-- [手动与探索性测试：需求持续变化，如何探索并留下测试证据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-manual-testing/)
-- [质量风险分析：识别、评估并排序真正值得关注的质量风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-risk-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
