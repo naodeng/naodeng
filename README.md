@@ -54,12 +54,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bug Reporting: Turn “it sometimes fails” into a defect developers can reproduce reliably](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-bug-reporting/)
+- [Test Data Generation: Systematically cover normal, boundary, exceptional, and permission scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-generation/)
+- [Test Reporting: Turn test results into actionable quality conclusions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-reporting/)
 - [Test Case Review: Find coverage gaps, ambiguous assertions, and high-risk scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-reviewer/)
 - [Test Case Review Plus: Trace high-risk gaps across requirements, cases, and evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-reviewer-plus/)
 - [Test Case Writing Plus: Keep requirements, rules, and test cases traceable end to end](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testcase-writer-plus/)
-- [Accessibility Testing: Systematically validate the full user experience from keyboard operation onward](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-accessibility-testing/)
-- [Mobile Testing: Cover weak networks, permissions, and app lifecycle scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mobile-testing/)
-- [Test Case Writing: Turn acceptance criteria into executable, verifiable test cases](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-writing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
