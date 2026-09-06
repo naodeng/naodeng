@@ -13,15 +13,16 @@
 
 ## 关于我
 
-- 当前主要在做双语 QA 资源、AI 测试工具
+- 当前主要在做双语 QA 资源、基于证据的 AI 质量工具
   和学习型站点，包括
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)、
-  [skills](https://github.com/naodeng/skills)、
+  [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents)、
+  [QCov](https://github.com/naodeng/QCov)、
+  [ai-test-auditor](https://github.com/naodeng/ai-test-auditor)、
   [dsh-qa](https://github.com/naodeng/dsh-qa)、
-  [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
-  以及 [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
-- 目前重点放在 **AI 辅助测试**、**QA 工作台**、
-  **提示词设计** 和 **测试知识内容沉淀**
+  以及 [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
+- 目前重点放在 **AI 原生质量工程**、**质量证据**、
+  **测试质量审计** 和 **测试知识内容沉淀**
 - 定期在 [inaodeng.com](https://inaodeng.com) 发布技术文章
 - 联系方式：**dengnao@gmail.com**
 - Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
@@ -30,6 +31,11 @@
 
 ## 当前 GitHub 重点方向
 
+- 构建基于证据的 AI 原生质量 Agent，使用受控运行时、
+  确定性检查、有边界的模型推理和验证关卡
+- 开发质量证据工具：`QCov` 识别需求、风险或变更中
+  尚未被证明的部分，`ai-test-auditor` 发现 JavaScript 和
+  TypeScript 测试中确定性的无效或薄弱信号
 - 建设可复用的 Codex Skills，支持结构化工作流，
   包括以 Markdown 为核心的双语 30 天学习计划项目
 - 持续把 `dsh-qa` 做成面向 DeepSeek Harness 的
@@ -86,6 +92,9 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills-0F766E?style=for-the-badge)
+![AI Quality Agents](https://img.shields.io/badge/AI_Quality_Agents-0F766E?style=for-the-badge)
+![Quality Evidence](https://img.shields.io/badge/Quality_Evidence-0E7490?style=for-the-badge)
+![Test Quality Audit](https://img.shields.io/badge/Test_Quality_Audit-B45309?style=for-the-badge)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-2563EB?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge)
@@ -116,33 +125,33 @@
 
 ## 精选项目
 
+### [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents)
+
+一个面向 AI 原生质量 Agent 的证据驱动参考架构，
+通过受控运行时、确定性分析、有边界的模型推理和验证关卡，
+覆盖软件交付全生命周期。
+
+### [QCov](https://github.com/naodeng/QCov)
+
+一个质量证据缺口引擎，用于发现测试和报告对于需求、
+风险或代码变更尚未能证明的部分。
+
+### [ai-test-auditor](https://github.com/naodeng/ai-test-auditor)
+
+一个本地优先的 CLI，审计 JavaScript 和 TypeScript 测试源码，
+在不可靠测试进入代码库前发现确定性的 `FAKE` 和 `WEAK` 信号。
+
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
 一个双语 AI 测试技能库，
 包含 4 个工作流、25 类测试技能、58 个保持中英文一致的技能目录、
 安装脚本和评测能力。
 
-### [skills](https://github.com/naodeng/skills)
-
-一个可复用的 Codex Skills 集合，
-包含用于创建 Markdown 双语 30 天学习计划项目的 Skill。
-
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 一个面向 DeepSeek Harness 的本地 QA 工作台插件，
 覆盖 AI 辅助需求、用例、缺陷、里程碑、报告、
 看板和日历视图。
-
-### [30-day-qa-deepseek-learning-plan](https://github.com/naodeng/30-day-qa-deepseek-learning-plan)
-
-一个面向 QA 工程师和 AI Agent 构建者的
-DeepSeek 30 天实战学习计划，覆盖 API、工具调用、评测、
-DeepSeek Harness 和 QA Agent 综合实践。
-
-### [ai_agent_30_day_learning_plan](https://github.com/naodeng/ai_agent_30_day_learning_plan)
-
-一个 30 天 AI Agent 学习计划，覆盖 Agent 循环、
-上下文工程、记忆、RAG、工具、MCP、评测和多 Agent 协作。
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 

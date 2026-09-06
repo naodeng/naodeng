@@ -13,15 +13,16 @@
 
 ## About Me
 
-- Currently building bilingual QA resources, AI testing tools,
+- Currently building bilingual QA resources, evidence-driven AI quality tools,
   and learning sites around
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills),
-  [skills](https://github.com/naodeng/skills),
+  [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents),
+  [QCov](https://github.com/naodeng/QCov),
+  [ai-test-auditor](https://github.com/naodeng/ai-test-auditor),
   [dsh-qa](https://github.com/naodeng/dsh-qa),
-  [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn),
-  and [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
-- Focused on **AI-assisted Testing**, **QA workbenches**,
-  **prompt design**, and **practical testing knowledge sharing**
+  and [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
+- Focused on **AI-native quality engineering**, **quality evidence**,
+  **test quality auditing**, and **practical testing knowledge sharing**
 - I regularly write articles on [https://inaodeng.com](https://inaodeng.com)
 - How to reach me: **dengnao@gmail.com**
 - Twitter: **[@inaodeng](https://twitter.com/inaodeng)**
@@ -30,6 +31,11 @@
 
 ## Current GitHub Focus
 
+- Building evidence-driven AI-native quality agents with controlled runtimes,
+  deterministic checks, bounded model reasoning, and verification gates
+- Developing quality evidence tools: `QCov` exposes unproven requirements
+  and risks, while `ai-test-auditor` finds deterministic signs of ineffective
+  JavaScript and TypeScript tests
 - Building reusable Codex Skills for structured workflows,
   including Markdown-first 30-day learning plan projects
 - Building `dsh-qa` as a QA workbench plugin for DeepSeek Harness,
@@ -87,6 +93,9 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills-0F766E?style=for-the-badge)
+![AI Quality Agents](https://img.shields.io/badge/AI_Quality_Agents-0F766E?style=for-the-badge)
+![Quality Evidence](https://img.shields.io/badge/Quality_Evidence-0E7490?style=for-the-badge)
+![Test Quality Audit](https://img.shields.io/badge/Test_Quality_Audit-B45309?style=for-the-badge)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-2563EB?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge)
@@ -117,34 +126,33 @@
 
 ## Featured Projects
 
+### [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents)
+
+An evidence-driven reference architecture for AI-native quality agents,
+with controlled runtimes, deterministic analysis, bounded model reasoning,
+and verification gates across the delivery lifecycle.
+
+### [QCov](https://github.com/naodeng/QCov)
+
+A Quality Evidence Gap Engine that shows what tests and reports
+still do not prove about a requirement, risk, or code change.
+
+### [ai-test-auditor](https://github.com/naodeng/ai-test-auditor)
+
+A local-first CLI that audits JavaScript and TypeScript test source
+for deterministic `FAKE` and `WEAK` signals before false confidence ships.
+
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
 A bilingual AI testing skills library with 4 workflows,
 25 testing-type skills, 58 skill folders with language parity,
 install scripts, and eval-ready checks.
 
-### [skills](https://github.com/naodeng/skills)
-
-A reusable Codex Skills collection, including a Skill for creating
-Markdown-first bilingual 30-day learning plan projects.
-
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 A local QA workbench plugin for DeepSeek Harness,
 covering AI-assisted requirements, cases, defects,
 milestones, reports, kanban, and calendar views.
-
-### [30-day-qa-deepseek-learning-plan](https://github.com/naodeng/30-day-qa-deepseek-learning-plan)
-
-A hands-on 30-day DeepSeek learning plan for QA engineers and
-AI-agent builders, covering APIs, tool calling, evals,
-DeepSeek Harness, and a QA Agent capstone.
-
-### [ai_agent_30_day_learning_plan](https://github.com/naodeng/ai_agent_30_day_learning_plan)
-
-A 30-day AI Agent learning plan covering agent loops,
-context engineering, memory, RAG, tools, MCP, evals,
-and multi-agent collaboration.
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 
