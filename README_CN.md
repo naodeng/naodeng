@@ -53,12 +53,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [自动化测试：先决定什么值得自动化，再选择工具与框架](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-testing/)
+- [测试报告评审：核对结论、证据与发布影响是否一致](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-report-review/)
+- [Playwright UI 自动化测试：用稳定定位与受控数据构建可靠回归](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-playwright/)
+- [dsh-qa v0.2.0 更新：从测试看板走向可追溯的质量控制工作台](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-v020-qa-control-workbench/)
 - [缺陷上报：把“偶尔失败”变成开发可以稳定复现的问题](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-bug-reporting/)
 - [测试数据生成：系统覆盖正常、边界、异常与权限场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-generation/)
-- [测试报告：从测试结果到真正可执行的质量结论](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-reporting/)
-- [测试用例评审：找出覆盖缺口、模糊断言与高风险场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-reviewer/)
-- [测试用例评审加强版：跨需求、用例与证据追踪高风险缺口](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-case-reviewer-plus/)
-- [测试用例编写加强版：让需求、规则与测试用例全程可追溯](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testcase-writer-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
