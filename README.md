@@ -54,12 +54,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cypress UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-cypress/)
+- [Selenium UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selenium/)
+- [WebdriverIO UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-webdriverio/)
 - [Automation Testing: Decide what to automate before choosing tools and frameworks](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-testing/)
 - [Test Report Review: Check whether conclusions, evidence, and release impact align](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-report-review/)
 - [Playwright UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-playwright/)
-- [dsh-qa v0.2.0: From Test Board to Traceable QA Control Workbench](https://inaodeng.com/en/blog/ai-testing/dsh-qa-v020-qa-control-workbench/)
-- [Bug Reporting: Turn “it sometimes fails” into a defect developers can reproduce reliably](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-bug-reporting/)
-- [Test Data Generation: Systematically cover normal, boundary, exceptional, and permission scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
