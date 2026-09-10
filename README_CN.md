@@ -53,12 +53,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [API 测试：从接口清单走向授权、契约、异常与幂等性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-testing/)
+- [Puppeteer UI 自动化测试：从浏览器控制到真实场景验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-puppeteer/)
+- [TestCafe UI 自动化测试：用更少配置构建稳定的端到端测试](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-testcafe/)
 - [Cypress UI 测试 Skill：从用户旅程到稳定回归的测试实践](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-cypress/)
 - [Selenium UI 测试 Skill：构建可维护的跨浏览器测试体系](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selenium/)
 - [WebdriverIO UI 测试 Skill：从脚本执行走向工程化测试实践](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-webdriverio/)
-- [自动化测试：先决定什么值得自动化，再选择工具与框架](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-testing/)
-- [测试报告评审：核对结论、证据与发布影响是否一致](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-report-review/)
-- [Playwright UI 自动化测试：用稳定定位与受控数据构建可靠回归](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-playwright/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
