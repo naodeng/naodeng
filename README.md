@@ -54,12 +54,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Testing: Move from an endpoint list to authorization, contracts, exceptions, and idempotency validation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-testing/)
+- [Puppeteer UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-puppeteer/)
+- [TestCafe UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-testcafe/)
 - [Cypress UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-cypress/)
 - [Selenium UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selenium/)
 - [WebdriverIO UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-webdriverio/)
-- [Automation Testing: Decide what to automate before choosing tools and frameworks](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-testing/)
-- [Test Report Review: Check whether conclusions, evidence, and release impact align](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-report-review/)
-- [Playwright UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-playwright/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
