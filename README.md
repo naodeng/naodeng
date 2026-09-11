@@ -54,12 +54,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Contract Testing: Identify consumer compatibility and migration risk from API changes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-contract-testing/)
+- [Bruno API Automation: Turn API definitions into sustainable CI regression](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-bruno/)
+- [Postman API Testing: Turn API definitions into sustainable CI regression](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-postman/)
 - [API Testing: Move from an endpoint list to authorization, contracts, exceptions, and idempotency validation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-testing/)
 - [Puppeteer UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-puppeteer/)
 - [TestCafe UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-testcafe/)
-- [Cypress UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-cypress/)
-- [Selenium UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selenium/)
-- [WebdriverIO UI Automation Testing: Build reliable regression with stable locators and controlled data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-webdriverio/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
