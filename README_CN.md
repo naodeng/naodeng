@@ -53,12 +53,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [一次 404 背后的插件兼容性问题：dsh-qa 如何适配 DeepSeek Harness 的 API 演进](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-harness-api-compatibility-404/)
 - [AI Test Auditor：别急着相信 AI 生成的测试，先检查它到底测了什么](https://inaodeng.com/zh-cn/blog/ai-testing/ai-test-auditor-static-evidence-for-ai-generated-tests/)
 - [API 契约测试：提前发现接口变更带来的兼容性风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-contract-testing/)
 - [Bruno 接口自动化：让 API 测试像代码一样进入 Git 与 CI](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-bruno/)
 - [Postman API 测试：从接口调试走向自动化回归实践](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-postman/)
 - [API 测试：从接口清单走向授权、契约、异常与幂等性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-testing/)
-- [Puppeteer UI 自动化测试：从浏览器控制到真实场景验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-puppeteer/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
