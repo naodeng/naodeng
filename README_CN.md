@@ -54,11 +54,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [REST Assured API 测试 Skill：把接口场景落成可执行自动化](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-restassure/)
-- [Supertest API 测试 Skill：把接口场景落成可执行自动化](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-supertest/)
+- [Supertest API 测试 Skill：从服务接口到自动化集成测试](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-supertest/)
+- [QCov：从测试通过走向可审查的质量证据](https://inaodeng.com/zh-cn/blog/ai-testing/qcov-quality-evidence-gap-engine/)
 - [Pytest 接口自动化：构建可维护、可扩展的 API 测试体系](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-pytest/)
 - [一次 404 背后的插件兼容性问题：dsh-qa 如何适配 DeepSeek Harness 的 API 演进](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-harness-api-compatibility-404/)
 - [AI Test Auditor：别急着相信 AI 生成的测试，先检查它到底测了什么](https://inaodeng.com/zh-cn/blog/ai-testing/ai-test-auditor-static-evidence-for-ai-generated-tests/)
-- [API 契约测试：提前发现接口变更带来的兼容性风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-contract-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
