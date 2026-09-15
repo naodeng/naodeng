@@ -56,10 +56,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [REST Assured API Automation: Turn API definitions into sustainable CI regression](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-restassure/)
 - [Supertest API Automation: Turn API definitions into sustainable CI regression](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-supertest/)
+- [QCov: From Passing Tests to Reviewable Quality Evidence](https://inaodeng.com/en/blog/ai-testing/qcov-quality-evidence-gap-engine/)
 - [Pytest API Automation: Turn API definitions into sustainable CI regression](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-pytest/)
 - [What a 404 Revealed About Plugin Compatibility: dsh-qa and DeepSeek Harness API Evolution](https://inaodeng.com/en/blog/ai-testing/dsh-qa-harness-api-compatibility-404/)
 - [AI Test Auditor: Inspect what AI-generated tests actually verify](https://inaodeng.com/en/blog/ai-testing/ai-test-auditor-static-evidence-for-ai-generated-tests/)
-- [API Contract Testing: Identify consumer compatibility and migration risk from API changes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-contract-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
