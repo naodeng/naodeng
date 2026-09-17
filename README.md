@@ -54,12 +54,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flaky Test Analysis: Why do flaky tests fail intermittently?](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-flaky-test-analysis/)
+- [Regression Scope Analysis: Define regression boundaries from changes, dependencies, and past defects](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-scope-analysis/)
+- [Regression Test Selection: Find the smallest sufficient regression suite](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-test-selection/)
 - [Change Impact Analysis: Trace service, data, test, and release impact from a code change](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-change-impact-analysis/)
 - [Code Review: Look beyond code changes to behavior and risk](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-code-review/)
 - [PR Test Impact Analysis: Quickly locate affected test scope from code changes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-pr-test-impact-analysis/)
-- [REST Assured API Automation: Turn API definitions into sustainable CI regression](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-restassure/)
-- [Supertest API Automation: Turn API definitions into sustainable CI regression](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-test-supertest/)
-- [QCov: From Passing Tests to Reviewable Quality Evidence](https://inaodeng.com/en/blog/ai-testing/qcov-quality-evidence-gap-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
