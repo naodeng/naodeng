@@ -53,12 +53,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [k6 性能测试 Skill：从负载模型到性能阈值验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-k6/)
+- [性能测试 Skill：把性能目标变成可验证的测试指标](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-testing/)
+- [性能负载建模 Skill：生产流量怎样变成可复现的性能负载](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-workload-modeling/)
 - [不稳定测试分析 Skill：同一个测试为什么只在某些运行里失败](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-flaky-test-analysis/)
 - [回归范围分析 Skill：这次改动到底影响哪些边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-scope-analysis/)
 - [回归测试选择 Skill：时间不够时怎样挑出最值得跑的用例](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-test-selection/)
-- [变更影响分析 Skill：一行代码改了之后要重新拿哪些证据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-change-impact-analysis/)
-- [代码审查 Skill：代码改完了，要确认行为和风险真的没变](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-code-review/)
-- [PR 测试影响分析 Skill：一个 PR 该跑哪些测试](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-pr-test-impact-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
