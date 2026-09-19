@@ -54,12 +54,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance Result Analysis: Read load-test results from throughput and tail latency to errors and resource use](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-result-analysis/)
+- [Gatling Performance Testing: Turn real workload models into executable load-test scripts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-gatling/)
+- [JMeter Performance Testing: Turn real workload models into executable load-test scripts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-jmeter/)
 - [k6 Performance Testing: Turn real workload models into executable load-test scripts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-k6/)
 - [Performance Testing: Turn “the system must be fast” into executable, verifiable goals](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-testing/)
 - [Performance Workload Modeling: Build realistic workload models from production traffic and user behavior](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-workload-modeling/)
-- [Flaky Test Analysis: Why do flaky tests fail intermittently?](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-flaky-test-analysis/)
-- [Regression Scope Analysis: Define regression boundaries from changes, dependencies, and past defects](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-scope-analysis/)
-- [Regression Test Selection: Find the smallest sufficient regression suite](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-test-selection/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
