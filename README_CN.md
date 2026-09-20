@@ -53,12 +53,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [容量规划分析 Skill：流量再涨一倍，系统先会在哪条曲线拐弯](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-capacity-planning-analysis/)
+- [性能瓶颈分析 Skill：压测、指标和 Trace 对不上时从哪里下手](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-bottleneck-analysis/)
+- [性能回归分析 Skill：区分环境波动与真实性能退化](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-regression-analysis/)
 - [性能结果分析 Skill：从吞吐与延迟中识别系统性能风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-result-analysis/)
 - [Gatling 性能测试 Skill：用注入模型还原真实业务负载](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-gatling/)
 - [JMeter 性能测试 Skill：让 JTL 成为可复核的性能证据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-jmeter/)
-- [k6 性能测试 Skill：从负载模型到性能阈值验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-k6/)
-- [性能测试 Skill：把性能目标变成可验证的测试指标](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-testing/)
-- [性能负载建模 Skill：生产流量怎样变成可复现的性能负载](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-workload-modeling/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
