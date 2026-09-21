@@ -13,8 +13,10 @@
 
 ## 关于我
 
-- 当前主要在做双语 QA 资源、基于证据的 AI 质量工具
-  和学习型站点，包括
+- 当前主要在做双语 QA 资源、基于证据的 AI 质量工具、
+  AI 原生质量工程工作台和学习型站点，重点围绕
+  [AI-Native-QA-Workbench](https://github.com/naodeng/AI-Native-QA-Workbench)、
+  [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter)、
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)、
   [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents)、
   [QCov](https://github.com/naodeng/QCov)、
@@ -31,22 +33,26 @@
 
 ## 当前 GitHub 重点方向
 
-- 构建基于证据的 AI 原生质量 Agent，使用受控运行时、
-  确定性检查、有边界的模型推理和验证关卡
-- 开发质量证据工具：`QCov` 识别需求、风险或变更中
-  尚未被证明的部分，`ai-test-auditor` 发现 JavaScript 和
-  TypeScript 测试中确定性的无效或薄弱信号
+- 开发 `AI-Native-QA-Workbench` 本地优先的质量工程工作台，
+  把需求、质量风险、测试、执行、证据与人工控制的决策串成可追踪链路；
+  当前已完成 v0.1 MVP 主体
+- 开发 `ai-automation-test-starter`，交付 v0.1 确定性的 Pytest API
+  垂直切片，保持测试框架原生行为并覆盖 Learn、Build、Verify、Ship 流程
+- 推进 `ai-native-qa-agents` v0.4 测试有效性与变异测试，
+  增加有边界的变异证据、有效性评分、Trace 持久化和质量关卡
+- 持续交付质量证据工具：`QCov` 在 v1.0 增加变更到测试义务的影响分析
+  和 Adapter SDK，`ai-test-auditor` v1.2.1 保持 JavaScript/TypeScript
+  源码审计以及 advisory workflow 语义
+- 推进 `awesome-qa-skills` v1.5.2 Skill Router 与 Evaluation Pilot 加固，
+  提供双语 Composition 路由和可验证的离线评测 Trace
+- 持续把 `dsh-qa` 做成面向 DeepSeek Harness 的 QA 工作台插件；
+  v0.5.0 已切换到官方 Panel/Slot API，支持原生宿主集成
 - 建设可复用的 Codex Skills，支持结构化工作流，
-  包括以 Markdown 为核心的双语 30 天学习计划项目
-- 持续把 `dsh-qa` 做成面向 DeepSeek Harness 的
-  QA 工作台插件，覆盖需求、用例、缺陷、报告、
-  看板和日历等 AI 辅助质量流程
-- 发布 DeepSeek QA 和 AI Agent 工程实践学习计划，
-  覆盖 API、工具调用、MCP、RAG、评测和多 Agent 协作
-- 维护适配 Codex、Cursor、Claude Code、
-  Kiro、OpenCode 和 Trae 的双语 QA 技能与提示词
+  包括 Markdown 双语学习计划、版本发布和版本 DoD 证据
+- 维护适配 Codex、Cursor、Claude Code、Kiro、OpenCode 和 Trae
+  的双语 QA 技能与提示词
 - 持续建设 [inaodeng.com](https://inaodeng.com)
-  这个双语测试站点，补充学习路径、术语内容和系列文章
+  这个双语测试站点，补充学习路径、术语内容，以及性能、可观测性和质量工程系列文章
 
 ---
 
@@ -125,33 +131,50 @@
 
 ## 精选项目
 
+### [AI-Native-QA-Workbench](https://github.com/naodeng/AI-Native-QA-Workbench)
+
+一个 AI 原生、本地优先的质量工程工作台，
+把需求、质量风险、测试、执行和证据连接成可追踪的质量决策。
+v0.1 MVP 已包含本地契约、确定性校验、受控 Agent 工作流、
+本地 API 和双语 UI。
+
+### [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter)
+
+一个面向初学者的 AI 原生测试自动化工具包。
+v0.1 Pytest API 切片保持测试框架原生行为，
+并通过确定性检查和明确的证据边界连接 Learn、Build、Verify、Ship。
+
 ### [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents)
 
 一个面向 AI 原生质量 Agent 的证据驱动参考架构，
 通过受控运行时、确定性分析、有边界的模型推理和验证关卡，
-覆盖软件交付全生命周期。
+覆盖软件交付全生命周期。v0.4 增加了有边界、
+  带变异证据追踪的测试有效性与变异测试工作流。
 
 ### [QCov](https://github.com/naodeng/QCov)
 
 一个质量证据缺口引擎，用于发现测试和报告对于需求、
-风险或代码变更尚未能证明的部分。
+风险或代码变更尚未能证明的部分。v1.0 增加了变更到测试义务的影响分析
+和公开 Adapter SDK。
 
 ### [ai-test-auditor](https://github.com/naodeng/ai-test-auditor)
 
 一个本地优先的 CLI，审计 JavaScript 和 TypeScript 测试源码，
 在不可靠测试进入代码库前发现确定性的 `FAKE` 和 `WEAK` 信号。
+当前稳定版本为 v1.2.1。
 
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
-一个双语 AI 测试技能库，
-包含 4 个工作流、25 类测试技能、58 个保持中英文一致的技能目录、
-安装脚本和评测能力。
+一个双语 AI 原生质量工程技能系统，包含 328 个技能（中英文）、
+10 个工作流、149 类测试类型和 5 个 Skill 工程技能。
+v1.5.2 增加了 Composition Router 与 Evaluation Pilot 加固能力。
 
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 一个面向 DeepSeek Harness 的本地 QA 工作台插件，
 覆盖 AI 辅助需求、用例、缺陷、里程碑、报告、
-看板和日历视图。
+看板和日历视图。v0.5.0 已使用官方 Panel/Slot API
+实现原生宿主集成。
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 
@@ -160,8 +183,8 @@
 
 ### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
 
-一个面向 QA 的提示词库，
-覆盖 15 个测试模块和 3 个工作流，并提供多种版本形态。
+一个双语 QA Prompt Baseline，覆盖需求、测试设计、自动化、性能、
+安全、发布、生产质量和 AI 测试等 256 项能力与模块。
 
 ---
 

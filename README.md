@@ -14,7 +14,9 @@
 ## About Me
 
 - Currently building bilingual QA resources, evidence-driven AI quality tools,
-  and learning sites around
+  an AI-native Quality Engineering workbench, and learning sites across
+  [AI-Native-QA-Workbench](https://github.com/naodeng/AI-Native-QA-Workbench),
+  [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter),
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills),
   [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents),
   [QCov](https://github.com/naodeng/QCov),
@@ -31,23 +33,28 @@
 
 ## Current GitHub Focus
 
-- Building evidence-driven AI-native quality agents with controlled runtimes,
-  deterministic checks, bounded model reasoning, and verification gates
-- Developing quality evidence tools: `QCov` exposes unproven requirements
-  and risks, while `ai-test-auditor` finds deterministic signs of ineffective
-  JavaScript and TypeScript tests
-- Building reusable Codex Skills for structured workflows,
-  including Markdown-first 30-day learning plan projects
-- Building `dsh-qa` as a QA workbench plugin for DeepSeek Harness,
-  covering AI-assisted requirements, test cases, defects, reports,
-  kanban, and calendar workflows
-- Publishing hands-on learning plans for DeepSeek QA and AI Agent
-  engineering, covering APIs, tool calling, MCP, RAG, evals,
-  and multi-agent collaboration
-- Maintaining bilingual QA skills and prompts for Codex, Cursor,
-  Claude Code, Kiro, OpenCode, and Trae
+- Building `AI-Native-QA-Workbench` as a local-first Quality Engineering
+  workbench that connects requirements, quality risks, tests, execution,
+  evidence, and human-controlled decisions; its v0.1 MVP is now in place
+- Developing `ai-automation-test-starter` with a v0.1 deterministic Pytest API
+  vertical slice and framework-native Learn, Build, Verify, and Ship flows
+- Advancing `ai-native-qa-agents` through v0.4 Test Effectiveness & Mutation,
+  with bounded mutation evidence, effectiveness scoring, trace persistence,
+  and quality gates
+- Shipping quality evidence tools: `QCov` reached v1.0 with change-to-obligation
+  impact analysis and adapter SDKs, while `ai-test-auditor` v1.2.1 keeps
+  source-only JavaScript/TypeScript auditing and advisory workflow semantics
+- Evolving `awesome-qa-skills` through v1.5.2 Skill Router & Evaluation Pilot
+  Hardening, with bilingual composition routes and verifiable offline eval traces
+- Building `dsh-qa` as a QA workbench plugin for DeepSeek Harness; v0.5.0 now
+  uses the official Panel/Slot API for native integration
+- Building reusable Codex Skills for structured workflows, including
+  Markdown-first learning plans, release delivery, and version DoD evidence
+- Maintaining bilingual QA skills and prompts for Codex, Cursor, Claude Code,
+  Kiro, OpenCode, and Trae
 - Growing [inaodeng.com](https://inaodeng.com) as a bilingual testing site
-  with structured learning paths, glossary content, and blog series
+  with structured learning paths, glossary content, and blog series on
+  performance, observability, and quality engineering
 
 ---
 
@@ -126,33 +133,50 @@
 
 ## Featured Projects
 
+### [AI-Native-QA-Workbench](https://github.com/naodeng/AI-Native-QA-Workbench)
+
+An AI-native, local-first Quality Engineering workbench that connects
+requirements, quality risks, tests, executions, and evidence into traceable
+quality decisions. The v0.1 MVP includes local contracts, deterministic
+validation, controlled agent workflows, a local API, and a bilingual UI.
+
+### [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter)
+
+A beginner-first, AI-native test automation kit. Its v0.1 Pytest API slice
+keeps framework-native behavior and connects Learn, Build, Verify, and Ship
+with deterministic checks and explicit evidence boundaries.
+
 ### [ai-native-qa-agents](https://github.com/naodeng/ai-native-qa-agents)
 
 An evidence-driven reference architecture for AI-native quality agents,
 with controlled runtimes, deterministic analysis, bounded model reasoning,
-and verification gates across the delivery lifecycle.
+and verification gates across the delivery lifecycle. v0.4 adds a bounded
+Test Effectiveness & Mutation workflow with traceable mutation evidence.
 
 ### [QCov](https://github.com/naodeng/QCov)
 
 A Quality Evidence Gap Engine that shows what tests and reports
-still do not prove about a requirement, risk, or code change.
+still do not prove about a requirement, risk, or code change. v1.0 adds
+change-to-obligation impact analysis and a public adapter SDK.
 
 ### [ai-test-auditor](https://github.com/naodeng/ai-test-auditor)
 
 A local-first CLI that audits JavaScript and TypeScript test source
 for deterministic `FAKE` and `WEAK` signals before false confidence ships.
+The current stable release is v1.2.1.
 
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
-A bilingual AI testing skills library with 4 workflows,
-25 testing-type skills, 58 skill folders with language parity,
-install scripts, and eval-ready checks.
+A bilingual AI-native Quality Engineering skill system with 328 skills
+(zh+en), 10 workflows, 149 testing types, and 5 skill-engineering skills.
+The v1.5.2 release adds Composition Router and Evaluation Pilot hardening.
 
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 A local QA workbench plugin for DeepSeek Harness,
 covering AI-assisted requirements, cases, defects,
-milestones, reports, kanban, and calendar views.
+milestones, reports, kanban, and calendar views. v0.5.0 uses the official
+Panel/Slot API for native host integration.
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 
@@ -162,8 +186,9 @@ structured series, and searchable QA resources.
 
 ### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
 
-A QA prompt library covering 15 testing modules and 3 workflows,
-with standard, framework, and platform-specific variants.
+A bilingual QA Prompt Baseline covering 256 capabilities and modules across
+requirements, test design, automation, performance, security, release,
+production quality, and AI testing.
 
 ---
 
