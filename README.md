@@ -54,12 +54,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Trace Analysis: Use a trace to locate cross-service latency and error propagation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-distributed-trace-analysis/)
+- [Log Analysis: Cluster errors at scale and locate post-release issues](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-log-analysis/)
+- [Metrics Anomaly Analysis: Use anomalous metrics to locate the time window, impact, and candidate causes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metrics-anomaly-analysis/)
 - [Capacity Planning Analysis: Use business growth and resource curves to judge remaining system capacity](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-capacity-planning-analysis/)
 - [Performance Bottleneck Analysis: Combine load tests, metrics, and traces to find the real limiting resource](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-bottleneck-analysis/)
 - [Performance Regression Analysis: Compare versions to determine whether performance really regressed](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-regression-analysis/)
-- [Performance Result Analysis: Read load-test results from throughput and tail latency to errors and resource use](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-result-analysis/)
-- [Gatling Performance Testing: Turn real workload models into executable load-test scripts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-gatling/)
-- [JMeter Performance Testing: Turn real workload models into executable load-test scripts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-test-jmeter/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
