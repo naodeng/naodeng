@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [生产事故分析 Skill：从事故时间线走向止损与复盘](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-incident-analysis/)
+- [生产验证 Skill：用业务信号验证发布后的真实状态](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-verification/)
+- [根因分析 Skill：从问题假设走向可验证的根因结论](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-root-cause-analysis/)
 - [分布式链路分析 Skill：沿 Trace 定位跨服务性能瓶颈](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-distributed-trace-analysis/)
 - [日志分析 Skill：从海量错误中聚类异常并定位根因](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-log-analysis/)
 - [指标异常分析 Skill：从时间窗口与影响范围定位异常信号](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metrics-anomaly-analysis/)
-- [容量规划分析 Skill：流量再涨一倍，系统先会在哪条曲线拐弯](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-capacity-planning-analysis/)
-- [性能瓶颈分析 Skill：压测、指标和 Trace 对不上时从哪里下手](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-bottleneck-analysis/)
-- [性能回归分析 Skill：区分环境波动与真实性能退化](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-regression-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
