@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Production Incident Analysis: From incident timeline to containment, validation, and retrospective actions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-incident-analysis/)
+- [Production Verification: Verify business flows, metrics, logs, and rollback conditions after release](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-verification/)
+- [Root Cause Analysis: Move from symptoms to hypotheses and find a verifiable root cause](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-root-cause-analysis/)
 - [Distributed Trace Analysis: Use a trace to locate cross-service latency and error propagation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-distributed-trace-analysis/)
 - [Log Analysis: Cluster errors at scale and locate post-release issues](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-log-analysis/)
 - [Metrics Anomaly Analysis: Use anomalous metrics to locate the time window, impact, and candidate causes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metrics-anomaly-analysis/)
-- [Capacity Planning Analysis: Use business growth and resource curves to judge remaining system capacity](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-capacity-planning-analysis/)
-- [Performance Bottleneck Analysis: Combine load tests, metrics, and traces to find the real limiting resource](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-bottleneck-analysis/)
-- [Performance Regression Analysis: Compare versions to determine whether performance really regressed](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-performance-regression-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
