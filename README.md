@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Product Quality Perspective: Bring user value and business impact into quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-product-quality-perspective/)
+- [QA Quality Perspective: Use coverage, risk, and evidence to support quality conclusions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-qa-quality-perspective/)
 - [Production Incident Analysis: From incident timeline to containment, validation, and retrospective actions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-incident-analysis/)
 - [Production Verification: Verify business flows, metrics, logs, and rollback conditions after release](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-verification/)
 - [Root Cause Analysis: Move from symptoms to hypotheses and find a verifiable root cause](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-root-cause-analysis/)
 - [Distributed Trace Analysis: Use a trace to locate cross-service latency and error propagation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-distributed-trace-analysis/)
-- [Log Analysis: Cluster errors at scale and locate post-release issues](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-log-analysis/)
-- [Metrics Anomaly Analysis: Use anomalous metrics to locate the time window, impact, and candidate causes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metrics-anomaly-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
