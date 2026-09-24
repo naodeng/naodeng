@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [多角色质量汇总 Skill：不同角色意见冲突时，决策材料怎么写](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-role-quality-synthesis/)
+- [项目交付视角 Skill：范围和依赖都在变，承诺还能不能兑现](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-project-delivery-perspective/)
+- [技术质量视角 Skill：从代码可运行到系统稳定性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-technical-quality-perspective/)
+- [UX 质量视角 Skill：从失败场景中验证用户体验连续性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ux-quality-perspective/)
+- [dsh-qa v0.5.3 更新：从 Harness 兼容到原生 QA 工作台](https://inaodeng.com/zh-cn/blog/ai-testing/dsh-qa-v053-native-qa-workbench/)
 - [产品质量视角 Skill：从用户旅程中识别业务质量风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-product-quality-perspective/)
-- [QA 质量视角 Skill：测试全绿之后还要判断哪些发布风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-qa-quality-perspective/)
-- [生产事故分析 Skill：从事故时间线走向止损与复盘](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-incident-analysis/)
-- [生产验证 Skill：用业务信号验证发布后的真实状态](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-production-verification/)
-- [根因分析 Skill：从问题假设走向可验证的根因结论](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-root-cause-analysis/)
-- [分布式链路分析 Skill：沿 Trace 定位跨服务性能瓶颈](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-distributed-trace-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
