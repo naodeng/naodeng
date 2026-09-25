@@ -63,10 +63,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [Multi-Role Quality Synthesis: Preserve different perspectives and reach actionable quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-role-quality-synthesis/)
 - [Project Delivery Perspective: Include scope, dependencies, and delivery risk in quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-project-delivery-perspective/)
+- [Awesome QA Skills Update: From a QA Skill Collection to a Governed AI QA Skills Ecosystem](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-update/)
 - [Technical Quality Perspective: Include architecture, reliability, and maintainability in quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-technical-quality-perspective/)
 - [UX Quality Perspective: Bring user task flows and usability issues into quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ux-quality-perspective/)
 - [dsh-qa v0.5.3: From Harness Compatibility to a Native QA Workbench](https://inaodeng.com/en/blog/ai-testing/dsh-qa-v053-native-qa-workbench/)
-- [Product Quality Perspective: Bring user value and business impact into quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-product-quality-perspective/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
