@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Assisted Testing: Improve testing efficiency while retaining test evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-assisted-testing/)
+- [Prompt Testing: Systematically validate prompt accuracy, boundaries, and multi-turn consistency](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-testing/)
+- [Security Testing: Systematically identify security risk from assets, permissions, and attack surfaces](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-testing/)
 - [Multi-Role Quality Synthesis: Preserve different perspectives and reach actionable quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-role-quality-synthesis/)
 - [Project Delivery Perspective: Include scope, dependencies, and delivery risk in quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-project-delivery-perspective/)
 - [Awesome QA Skills Update: From a QA Skill Collection to a Governed AI QA Skills Ecosystem](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-update/)
-- [Technical Quality Perspective: Include architecture, reliability, and maintainability in quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-technical-quality-perspective/)
-- [UX Quality Perspective: Bring user task flows and usability issues into quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ux-quality-perspective/)
-- [dsh-qa v0.5.3: From Harness Compatibility to a Native QA Workbench](https://inaodeng.com/en/blog/ai-testing/dsh-qa-v053-native-qa-workbench/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
