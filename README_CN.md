@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek Harness 官方桌面端预览版上线，dsh-qa 已完成适配](https://inaodeng.com/zh-cn/blog/ai-testing/deepseek-harness-desktop-dsh-qa/)
 - [AI 辅助测试 Skill：从可追溯证据走向可靠提效](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-assisted-testing/)
 - [提示词测试 Skill：从 Prompt 变更中识别多轮行为漂移](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-testing/)
 - [安全测试 Skill：从攻击面分析到可利用性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-testing/)
 - [多角色质量汇总 Skill：整合质量分歧形成可决策结论](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-role-quality-synthesis/)
 - [项目交付视角 Skill：从范围与依赖变化评估交付风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-project-delivery-perspective/)
-- [Awesome QA Skills 更新：从 QA Skill 集合到可治理的 AI QA Skills 体系](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-update/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
