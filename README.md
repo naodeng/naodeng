@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Evaluation Design: From task sets and scoring criteria to model regression gates](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-evaluation-design/)
+- [LLM Testing: Systematically validate factual accuracy, refusal behavior, and safety boundaries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-testing/)
 - [DeepSeek Harness Official Desktop Preview Is Available — dsh-qa Now Supports It](https://inaodeng.com/en/blog/ai-testing/deepseek-harness-desktop-dsh-qa/)
 - [AI-Assisted Testing: Improve testing efficiency while retaining test evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-assisted-testing/)
 - [Prompt Testing: Systematically validate prompt accuracy, boundaries, and multi-turn consistency](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-testing/)
 - [Security Testing: Systematically identify security risk from assets, permissions, and attack surfaces](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-testing/)
-- [Multi-Role Quality Synthesis: Preserve different perspectives and reach actionable quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-role-quality-synthesis/)
-- [Project Delivery Perspective: Include scope, dependencies, and delivery risk in quality decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-project-delivery-perspective/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
