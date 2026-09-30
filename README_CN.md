@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [需求冲突检测 Skill：从表面差异中识别真实需求矛盾](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-conflict-detection/)
+- [需求一致性分析 Skill：验证多份材料中的术语、状态与规则一致性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-consistency-analysis/)
+- [Skill 也需要测试：从能用走向质量可信](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-01-testing-agent-skills/)
 - [需求歧义分析 Skill：识别模糊表述并推动需求澄清](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-ambiguity-analysis/)
 - [需求质量复核 Skill：判断需求是否达到研发与测试条件](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-quality-review/)
 - [LLM 评测设计 Skill：先定评分规则，再谈模型回归门禁](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-evaluation-design/)
-- [LLM 测试 Skill：从事实正确性到拒答与安全边界验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-testing/)
-- [DeepSeek Harness 官方桌面端预览版上线，dsh-qa 已完成适配](https://inaodeng.com/zh-cn/blog/ai-testing/deepseek-harness-desktop-dsh-qa/)
-- [AI 辅助测试 Skill：从可追溯证据走向可靠提效](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-assisted-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
