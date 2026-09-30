@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Requirement Conflict Detection Skill: Separate Real Contradictions from Scope Differences](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-conflict-detection/)
+- [Requirement Consistency Analysis Skill: Compare Terms, States, and Rules Across Artifacts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-consistency-analysis/)
+- [Testing Agent Skills: Why “It Works” Does Not Mean “It’s Good”](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-01-testing-agent-skills/)
 - [Requirement Ambiguity Analysis Skill: Turn Vague Wording into Closeable Questions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-ambiguity-analysis/)
 - [Requirement Quality Review Skill: Prepare a Requirement for Design and Testing](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-quality-review/)
 - [LLM Evaluation Design: From task sets and scoring criteria to model regression gates](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-evaluation-design/)
-- [LLM Testing: Systematically validate factual accuracy, refusal behavior, and safety boundaries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-testing/)
-- [DeepSeek Harness Official Desktop Preview Is Available — dsh-qa Now Supports It](https://inaodeng.com/en/blog/ai-testing/deepseek-harness-desktop-dsh-qa/)
-- [AI-Assisted Testing: Improve testing efficiency while retaining test evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-assisted-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
