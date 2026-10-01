@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Requirement Conflict Detection Skill: Separate Real Contradictions from Scope Differences](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-conflict-detection/)
-- [Requirement Consistency Analysis Skill: Compare Terms, States, and Rules Across Artifacts](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-consistency-analysis/)
-- [Testing Agent Skills: Why “It Works” Does Not Mean “It’s Good”](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-01-testing-agent-skills/)
-- [Requirement Ambiguity Analysis Skill: Turn Vague Wording into Closeable Questions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-ambiguity-analysis/)
-- [Requirement Quality Review Skill: Prepare a Requirement for Design and Testing](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-quality-review/)
-- [LLM Evaluation Design: From task sets and scoring criteria to model regression gates](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-evaluation-design/)
+- [Risk-Based Testing Skill: Turn Risk Evidence into Test Depth and Scope](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-risk-based-testing/)
+- [Test Scope Analysis Skill: Make Inclusion, Exclusion, and Expansion Boundaries Explicit](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-scope-analysis/)
+- [How Can You Test a System You Don&#39;t Understand?](https://inaodeng.com/en/blog/ai-testing/how-to-test-a-system-you-dont-understand/)
+- [Defining Agent Skill Quality: The SQEM Model](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
+- [Business Rule Extraction Skill: Turn policy prose into rules a team can actually verify](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-business-rule-extraction/)
+- [Requirement Traceability Analysis Skill: Build a Bidirectional Evidence Trail](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-traceability-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
