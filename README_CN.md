@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [需求冲突检测 Skill：从表面差异中识别真实需求矛盾](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-conflict-detection/)
-- [需求一致性分析 Skill：验证多份材料中的术语、状态与规则一致性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-consistency-analysis/)
-- [Skill 也需要测试：从能用走向质量可信](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-01-testing-agent-skills/)
-- [需求歧义分析 Skill：识别模糊表述并推动需求澄清](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-ambiguity-analysis/)
-- [需求质量复核 Skill：判断需求是否达到研发与测试条件](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-quality-review/)
-- [LLM 评测设计 Skill：先定评分规则，再谈模型回归门禁](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-evaluation-design/)
+- [基于风险的测试 Skill：用风险证据决定测试深度与优先级](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-risk-based-testing/)
+- [测试范围分析 Skill：明确测试边界与纳入排除范围](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-scope-analysis/)
+- [如何测试一个你不理解的系统？从“不懂”开始的测试方法](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-a-system-you-dont-understand/)
+- [如何定义 Skill Quality：建立 SQEM 质量模型](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
+- [业务规则提取 Skill：把政策文本转化为可验证的业务规则](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-business-rule-extraction/)
+- [需求可追溯性分析 Skill：构建双向可验证的需求证据链](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-traceability-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
