@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge Case Discovery Skill: Find the awkward states a happy-path requirement leaves behind](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-edge-case-discovery/)
+- [Negative Scenario Discovery Skill: Find the failure paths the happy journey carefully avoids](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-negative-scenario-discovery/)
+- [It&#39;s Always a People Problem: The Reality Behind AI in Testing](https://inaodeng.com/en/blog/ai-testing/its-always-a-people-problem-ai-testing/)
+- [Defining Agent Skill Quality: The SQEM Model](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
 - [Risk-Based Testing Skill: Turn Risk Evidence into Test Depth and Scope](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-risk-based-testing/)
 - [Test Scope Analysis Skill: Make Inclusion, Exclusion, and Expansion Boundaries Explicit](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-scope-analysis/)
-- [How Can You Test a System You Don&#39;t Understand?](https://inaodeng.com/en/blog/ai-testing/how-to-test-a-system-you-dont-understand/)
-- [Defining Agent Skill Quality: The SQEM Model](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
-- [Business Rule Extraction Skill: Turn policy prose into rules a team can actually verify](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-business-rule-extraction/)
-- [Requirement Traceability Analysis Skill: Build a Bidirectional Evidence Trail](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-traceability-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
