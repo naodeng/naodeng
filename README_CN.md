@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [边界场景发现 Skill：识别临界条件下的异常行为与状态](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-edge-case-discovery/)
+- [异常场景发现 Skill：找出顺利流程刻意绕开的失败路径](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-negative-scenario-discovery/)
+- [永远是人的问题：AI 测试背后的真相](https://inaodeng.com/zh-cn/blog/ai-testing/its-always-a-people-problem-ai-testing/)
+- [如何定义 Skill Quality：建立 SQEM 质量模型](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
 - [基于风险的测试 Skill：用风险证据决定测试深度与优先级](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-risk-based-testing/)
 - [测试范围分析 Skill：明确测试边界与纳入排除范围](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-scope-analysis/)
-- [如何测试一个你不理解的系统？从“不懂”开始的测试方法](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-a-system-you-dont-understand/)
-- [如何定义 Skill Quality：建立 SQEM 质量模型](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
-- [业务规则提取 Skill：把政策文本转化为可验证的业务规则](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-business-rule-extraction/)
-- [需求可追溯性分析 Skill：构建双向可验证的需求证据链](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-requirement-traceability-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
