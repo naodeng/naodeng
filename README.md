@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boundary Value Testing Skill: Make the edge of a rule explicit before the data crosses it](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-boundary-value-testing/)
+- [Equivalence Partitioning Skill: Reduce input space without losing the rule that matters](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-equivalence-partitioning/)
+- [The Skill Testing Pyramid: How Much Testing Is Enough?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-04-testing-pyramid/)
 - [Edge Case Discovery Skill: Find the awkward states a happy-path requirement leaves behind](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-edge-case-discovery/)
 - [Negative Scenario Discovery Skill: Find the failure paths the happy journey carefully avoids](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-negative-scenario-discovery/)
 - [It&#39;s Always a People Problem: The Reality Behind AI in Testing](https://inaodeng.com/en/blog/ai-testing/its-always-a-people-problem-ai-testing/)
-- [Defining Agent Skill Quality: The SQEM Model](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
-- [Risk-Based Testing Skill: Turn Risk Evidence into Test Depth and Scope](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-risk-based-testing/)
-- [Test Scope Analysis Skill: Make Inclusion, Exclusion, and Expansion Boundaries Explicit](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-scope-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
