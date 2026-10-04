@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [边界值测试设计 Skill：围绕规则临界点设计有效测试](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-boundary-value-testing/)
+- [等价类划分测试设计 Skill：用代表性输入覆盖关键业务规则](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-equivalence-partitioning/)
+- [Skill 测试金字塔：构建分层的 Skill 测试体系](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-04-testing-pyramid/)
 - [边界场景发现 Skill：识别临界条件下的异常行为与状态](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-edge-case-discovery/)
 - [异常场景发现 Skill：找出顺利流程刻意绕开的失败路径](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-negative-scenario-discovery/)
 - [永远是人的问题：AI 测试背后的真相](https://inaodeng.com/zh-cn/blog/ai-testing/its-always-a-people-problem-ai-testing/)
-- [如何定义 Skill Quality：建立 SQEM 质量模型](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-03-sqem-quality-model/)
-- [基于风险的测试 Skill：用风险证据决定测试深度与优先级](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-risk-based-testing/)
-- [测试范围分析 Skill：明确测试边界与纳入排除范围](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-scope-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
