@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skill Behavior Testing: Evaluate Contracts, Not Exact Answers](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-06-behavior-testing/)
+- [Combinatorial Testing Skill: Cover interacting factors without multiplying every possibility](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-combinatorial-testing/)
+- [Pairwise Testing Skill: Cover the interactions most likely to expose a defect](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-pairwise-testing/)
 - [Decision Table Testing Skill: Expose rule combinations before they become production exceptions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-decision-table-testing/)
 - [State Transition Testing Skill: Derive Reachable and Abnormal Paths from Real Rules](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-state-transition-testing/)
 - [Skill Trigger Testing: Can the Agent Select the Right Skill?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-05-trigger-testing/)
-- [Boundary Value Testing Skill: Make the edge of a rule explicit before the data crosses it](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-boundary-value-testing/)
-- [Equivalence Partitioning Skill: Reduce input space without losing the rule that matters](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-equivalence-partitioning/)
-- [The Skill Testing Pyramid: How Much Testing Is Enough?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-04-testing-pyramid/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
