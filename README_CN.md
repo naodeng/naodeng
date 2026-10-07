@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 时代测试的信号与噪音：别只让 AI 帮你做得更快](https://inaodeng.com/zh-cn/blog/ai-testing/signal-vs-noise-ai-testing/)
 - [Skill 行为测试：从固定答案验证转向行为契约测试](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-06-behavior-testing/)
 - [组合测试设计 Skill：控制组合爆炸并覆盖关键因素交互](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-combinatorial-testing/)
 - [成对组合测试设计 Skill：用两两交互覆盖降低组合测试成本](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-pairwise-testing/)
 - [决策表测试设计 Skill：用规则组合覆盖复杂业务条件](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-decision-table-testing/)
 - [状态迁移测试 Skill：从状态规则推导有效与异常路径](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-state-transition-testing/)
-- [Skill Trigger Testing：如何测试 Skill 的发现、选择与触发](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-05-trigger-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
