@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 时代测试的信号与噪音：别只让 AI 帮你做得更快](https://inaodeng.com/zh-cn/blog/ai-testing/signal-vs-noise-ai-testing/)
-- [Skill 行为测试：从固定答案验证转向行为契约测试](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-06-behavior-testing/)
-- [组合测试设计 Skill：控制组合爆炸并覆盖关键因素交互](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-combinatorial-testing/)
-- [成对组合测试设计 Skill：用两两交互覆盖降低组合测试成本](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-pairwise-testing/)
-- [决策表测试设计 Skill：用规则组合覆盖复杂业务条件](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-decision-table-testing/)
-- [状态迁移测试 Skill：从状态规则推导有效与异常路径](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-state-transition-testing/)
+- [蜕变测试设计 Skill：用蜕变关系解决测试预言机难题](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metamorphic-testing/)
+- [变异测试分析 Skill：用代码变异检验测试的缺陷发现能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mutation-testing-analysis/)
+- [测试数据需求分析 Skill：从业务场景识别数据准备与安全约束](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-requirement-analysis/)
+- [测试有效性分析 Skill：从覆盖指标走向真实缺陷检测能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-effectiveness-analysis/)
+- [基于模型的测试设计 Skill：从状态模型推导可解释的测试覆盖](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-model-based-testing/)
+- [属性测试设计 Skill：从示例验证走向业务不变量验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-property-based-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
