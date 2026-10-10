@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [测试代码评审 Skill：从断言质量到测试执行可靠性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-code-review/)
+- [测试缺口分析 Skill：发现需求与测试覆盖之间的关键缺口](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-gap-analysis/)
+- [思维模式质量模型：用 12 种视角发现 AI 测试中的盲区](https://inaodeng.com/zh-cn/blog/ai-testing/the-mindsets-quality-model/)
 - [蜕变测试设计 Skill：用蜕变关系解决测试预言机难题](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metamorphic-testing/)
 - [变异测试分析 Skill：用代码变异检验测试的缺陷发现能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mutation-testing-analysis/)
 - [测试数据需求分析 Skill：从业务场景识别数据准备与安全约束](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-requirement-analysis/)
-- [测试有效性分析 Skill：从覆盖指标走向真实缺陷检测能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-effectiveness-analysis/)
-- [基于模型的测试设计 Skill：从状态模型推导可解释的测试覆盖](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-model-based-testing/)
-- [属性测试设计 Skill：从示例验证走向业务不变量验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-property-based-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
