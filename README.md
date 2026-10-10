@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Code Review Skill: Find Assertion, Isolation, and Determinism Risks](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-code-review/)
+- [Test Gap Analysis Skill: Turn Unprotected Obligations into Actionable TG Findings](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-gap-analysis/)
+- [The Mindsets Quality Model: 12 Perspectives for Finding Blind Spots in AI-Assisted Testing](https://inaodeng.com/en/blog/ai-testing/the-mindsets-quality-model/)
 - [Metamorphic Testing Skill: Test transformations when a single expected answer is not enough](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metamorphic-testing/)
 - [Mutation Testing Analysis Skill: Learn which tests notice a meaningful rule change](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mutation-testing-analysis/)
 - [Test Data Requirement Analysis Skill: Specify the Data a Test Can Safely Consume](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-requirement-analysis/)
-- [Test Effectiveness Analysis Skill: Connect Test Signals to Risk and Defects](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-effectiveness-analysis/)
-- [Model-Based Testing Skill: Turn states and transitions into coverage you can explain](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-model-based-testing/)
-- [Property-Based Testing Skill: Test invariants across many generated inputs](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-property-based-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
