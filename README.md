@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyday AI Coding for Testers: Skills, Guardrails, and a Human-Reviewed Workflow](https://inaodeng.com/en/blog/ai-testing/everyday-ai-coding-skills-for-testers/)
+- [Designing Skill Evals: From Success Criteria to Evidence](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-07-eval-design/)
+- [Mock Quality Review Skill: Keep test doubles useful without making the system look healthier than it is](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mock-quality-review/)
+- [Test Suite Health Analysis Skill: Diagnose Flakiness, Duplication, and Quarantine Debt](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-suite-health-analysis/)
 - [Test Code Review Skill: Find Assertion, Isolation, and Determinism Risks](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-code-review/)
 - [Test Gap Analysis Skill: Turn Unprotected Obligations into Actionable TG Findings](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-gap-analysis/)
-- [The Mindsets Quality Model: 12 Perspectives for Finding Blind Spots in AI-Assisted Testing](https://inaodeng.com/en/blog/ai-testing/the-mindsets-quality-model/)
-- [Metamorphic Testing Skill: Test transformations when a single expected answer is not enough](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metamorphic-testing/)
-- [Mutation Testing Analysis Skill: Learn which tests notice a meaningful rule change](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mutation-testing-analysis/)
-- [Test Data Requirement Analysis Skill: Specify the Data a Test Can Safely Consume](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-requirement-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
