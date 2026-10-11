@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [测试人员如何把 AI 编码融入日常工作：从 Skill 到可治理的工作流](https://inaodeng.com/zh-cn/blog/ai-testing/everyday-ai-coding-skills-for-testers/)
+- [Skill 评测设计：从成功标准到可验证的评估证据](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-07-eval-design/)
+- [Mock 质量评审 Skill：防止测试替身掩盖真实系统风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mock-quality-review/)
+- [测试套件健康度分析 Skill：诊断不稳定测试与维护债务](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-suite-health-analysis/)
 - [测试代码评审 Skill：从断言质量到测试执行可靠性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-code-review/)
 - [测试缺口分析 Skill：发现需求与测试覆盖之间的关键缺口](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-gap-analysis/)
-- [思维模式质量模型：用 12 种视角发现 AI 测试中的盲区](https://inaodeng.com/zh-cn/blog/ai-testing/the-mindsets-quality-model/)
-- [蜕变测试设计 Skill：用蜕变关系解决测试预言机难题](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-metamorphic-testing/)
-- [变异测试分析 Skill：用代码变异检验测试的缺陷发现能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mutation-testing-analysis/)
-- [测试数据需求分析 Skill：从业务场景识别数据准备与安全约束](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-data-requirement-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
