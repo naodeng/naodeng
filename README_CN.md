@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [超时测试 Skill：识别超时控制与重试带来的隐藏风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-timeout-testing/)
+- [UI 测试策略 Skill：用流程、状态与平台构建测试覆盖](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-strategy/)
+- [如何构建 AI 测试策略：用五个转变建立可信的质量证据](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-build-ai-testing-strategy/)
+- [Skill 基准测试：这个 Skill 真的比不使用 Skill 更好吗](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-08-benchmarking/)
 - [重试测试 Skill：验证退避机制、幂等性与重复执行风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-retry-testing/)
 - [测试维护成本分析 Skill：评估测试维护投入与长期成本](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-maintenance-cost-analysis/)
-- [测试人员如何把 AI 编码融入日常工作：从 Skill 到可治理的工作流](https://inaodeng.com/zh-cn/blog/ai-testing/everyday-ai-coding-skills-for-testers/)
-- [Skill 评测设计：从成功标准到可验证的评估证据](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-07-eval-design/)
-- [Mock 质量评审 Skill：防止测试替身掩盖真实系统风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mock-quality-review/)
-- [测试套件健康度分析 Skill：诊断不稳定测试与维护债务](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-suite-health-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
