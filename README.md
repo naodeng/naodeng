@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Timeout Testing Skill: Connect Budgets, Cancellation, Feedback, and Retries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-timeout-testing/)
+- [UI Test Strategy Skill: Map Journeys, States, Platforms, and Risk Before Automation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-strategy/)
+- [How to Build an AI Testing Strategy: Five Shifts Toward Evidence-Based Confidence](https://inaodeng.com/en/blog/ai-testing/how-to-build-ai-testing-strategy/)
+- [Skill Benchmarking: Is the Skill Actually Better Than the Baseline?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-08-benchmarking/)
 - [Retry Testing Skill: Prove Backoff and Idempotency Before Duplicates Multiply](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-retry-testing/)
 - [Test Maintenance Cost Analysis Skill: Make Repair Effort and Flaky Cost Visible](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-maintenance-cost-analysis/)
-- [Everyday AI Coding for Testers: Skills, Guardrails, and a Human-Reviewed Workflow](https://inaodeng.com/en/blog/ai-testing/everyday-ai-coding-skills-for-testers/)
-- [Designing Skill Evals: From Success Criteria to Evidence](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-07-eval-design/)
-- [Mock Quality Review Skill: Keep test doubles useful without making the system look healthier than it is](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-mock-quality-review/)
-- [Test Suite Health Analysis Skill: Diagnose Flakiness, Duplication, and Quarantine Debt](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-suite-health-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
