@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [UI 测试选择器评审 Skill：从脆弱定位到稳定元素识别](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selector-review/)
+- [UI 测试等待策略评审 Skill：从固定延迟到条件驱动的同步](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-wait-strategy-review/)
+- [如何测试聊天机器人：五个质量维度与可执行检查清单](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-a-chatbot/)
 - [超时测试 Skill：识别超时控制与重试带来的隐藏风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-timeout-testing/)
 - [UI 测试策略 Skill：用流程、状态与平台构建测试覆盖](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-strategy/)
 - [如何构建 AI 测试策略：用五个转变建立可信的质量证据](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-build-ai-testing-strategy/)
-- [Skill 基准测试：这个 Skill 真的比不使用 Skill 更好吗](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-08-benchmarking/)
-- [重试测试 Skill：验证退避机制、幂等性与重复执行风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-retry-testing/)
-- [测试维护成本分析 Skill：评估测试维护投入与长期成本](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-maintenance-cost-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
