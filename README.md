@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UI Test Selector Review Skill: Replace Brittle Locators with Stable Intent](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selector-review/)
+- [UI Test Wait Strategy Review Skill: Replace Sleeps with Observable Conditions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-wait-strategy-review/)
+- [How to Test a Chatbot: Five Quality Dimensions and a Practical QA Checklist](https://inaodeng.com/en/blog/ai-testing/how-to-test-a-chatbot/)
 - [Timeout Testing Skill: Connect Budgets, Cancellation, Feedback, and Retries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-timeout-testing/)
 - [UI Test Strategy Skill: Map Journeys, States, Platforms, and Risk Before Automation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-strategy/)
 - [How to Build an AI Testing Strategy: Five Shifts Toward Evidence-Based Confidence](https://inaodeng.com/en/blog/ai-testing/how-to-build-ai-testing-strategy/)
-- [Skill Benchmarking: Is the Skill Actually Better Than the Baseline?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-08-benchmarking/)
-- [Retry Testing Skill: Prove Backoff and Idempotency Before Duplicates Multiply](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-retry-testing/)
-- [Test Maintenance Cost Analysis Skill: Make Repair Effort and Flaky Cost Visible](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-maintenance-cost-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
