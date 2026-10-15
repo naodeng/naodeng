@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [跨浏览器测试 Skill：基于兼容性风险构建浏览器覆盖矩阵](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-cross-browser-testing/)
+- [视觉回归测试 Skill：从视觉基线到真实缺陷识别](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-visual-regression-testing/)
+- [Skill 兼容性：换个智能体或模型还能正常工作吗](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-09-compatibility/)
+- [如何管理分布式 QA 团队：从协作约定到持续改进](https://inaodeng.com/zh-cn/blog/ai-testing/managing-distributed-qa-teams/)
 - [UI 测试选择器评审 Skill：从脆弱定位到稳定元素识别](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selector-review/)
 - [UI 测试等待策略评审 Skill：从固定延迟到条件驱动的同步](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-wait-strategy-review/)
-- [如何测试聊天机器人：五个质量维度与可执行检查清单](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-a-chatbot/)
-- [超时测试 Skill：识别超时控制与重试带来的隐藏风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-timeout-testing/)
-- [UI 测试策略 Skill：用流程、状态与平台构建测试覆盖](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-strategy/)
-- [如何构建 AI 测试策略：用五个转变建立可信的质量证据](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-build-ai-testing-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
