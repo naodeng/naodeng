@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Browser Testing: Evidence-Based Coverage Matrix](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-cross-browser-testing/)
+- [Visual Regression Testing Skill: Define Baselines Before Calling a Diff a Defect](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-visual-regression-testing/)
+- [Agent Skill Compatibility: Agents, Models, Tools, and Environments](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-09-compatibility/)
+- [Managing Distributed QA Teams: Agreements, Evidence, and Continuous Improvement](https://inaodeng.com/en/blog/ai-testing/managing-distributed-qa-teams/)
 - [UI Test Selector Review Skill: Replace Brittle Locators with Stable Intent](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selector-review/)
 - [UI Test Wait Strategy Review Skill: Replace Sleeps with Observable Conditions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-wait-strategy-review/)
-- [How to Test a Chatbot: Five Quality Dimensions and a Practical QA Checklist](https://inaodeng.com/en/blog/ai-testing/how-to-test-a-chatbot/)
-- [Timeout Testing Skill: Connect Budgets, Cancellation, Feedback, and Retries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-timeout-testing/)
-- [UI Test Strategy Skill: Map Journeys, States, Platforms, and Risk Before Automation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-strategy/)
-- [How to Build an AI Testing Strategy: Five Shifts Toward Evidence-Based Confidence](https://inaodeng.com/en/blog/ai-testing/how-to-build-ai-testing-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
