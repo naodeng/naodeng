@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CI Test Optimization Skill: Spend pipeline time where feedback changes the decision](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ci-test-optimization/)
+- [Regression Optimization Skill: Cut Feedback Time Without Dropping Risk](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-optimization/)
+- [Safe AI Self-Healing Automation: Keep Locator Recovery Under Control](https://inaodeng.com/en/blog/ai-testing/safe-ai-self-healing-automation/)
+- [Skill Regression Testing: Proving Changes Did Not Break Existing Behavior](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-10-regression-testing/)
 - [Cross-Browser Testing: Evidence-Based Coverage Matrix](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-cross-browser-testing/)
 - [Visual Regression Testing Skill: Define Baselines Before Calling a Diff a Defect](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-visual-regression-testing/)
-- [Agent Skill Compatibility: Agents, Models, Tools, and Environments](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-09-compatibility/)
-- [Managing Distributed QA Teams: Agreements, Evidence, and Continuous Improvement](https://inaodeng.com/en/blog/ai-testing/managing-distributed-qa-teams/)
-- [UI Test Selector Review Skill: Replace Brittle Locators with Stable Intent](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selector-review/)
-- [UI Test Wait Strategy Review Skill: Replace Sleeps with Observable Conditions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-wait-strategy-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
