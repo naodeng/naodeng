@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [CI 测试流水线优化 Skill：从执行耗时到有效质量反馈](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ci-test-optimization/)
+- [回归优化 Skill：基于变更风险优化测试范围与执行效率](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-optimization/)
+- [安全的 AI 自愈自动化：把定位器恢复控制在可验证范围内](https://inaodeng.com/zh-cn/blog/ai-testing/safe-ai-self-healing-automation/)
+- [Skill 回归测试：修改后如何证明没有破坏原有行为](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-10-regression-testing/)
 - [跨浏览器测试 Skill：基于兼容性风险构建浏览器覆盖矩阵](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-cross-browser-testing/)
 - [视觉回归测试 Skill：从视觉基线到真实缺陷识别](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-visual-regression-testing/)
-- [Skill 兼容性：换个智能体或模型还能正常工作吗](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-09-compatibility/)
-- [如何管理分布式 QA 团队：从协作约定到持续改进](https://inaodeng.com/zh-cn/blog/ai-testing/managing-distributed-qa-teams/)
-- [UI 测试选择器评审 Skill：从脆弱定位到稳定元素识别](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-selector-review/)
-- [UI 测试等待策略评审 Skill：从固定延迟到条件驱动的同步](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ui-test-wait-strategy-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
