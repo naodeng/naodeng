@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [自动化投资回报分析 Skill：量化投入产出与投资回收周期](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-roi-analysis/)
+- [测试运行时间优化 Skill：识别执行瓶颈并验证优化收益](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-runtime-optimization/)
+- [当质量工程制造混乱：QE 转型为什么需要系统变革](https://inaodeng.com/zh-cn/blog/ai-testing/when-quality-engineering-creates-chaos/)
 - [CI 测试流水线优化 Skill：从执行耗时到有效质量反馈](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ci-test-optimization/)
 - [回归优化 Skill：基于变更风险优化测试范围与执行效率](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-optimization/)
 - [安全的 AI 自愈自动化：把定位器恢复控制在可验证范围内](https://inaodeng.com/zh-cn/blog/ai-testing/safe-ai-self-healing-automation/)
-- [Skill 回归测试：修改后如何证明没有破坏原有行为](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-10-regression-testing/)
-- [跨浏览器测试 Skill：基于兼容性风险构建浏览器覆盖矩阵](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-cross-browser-testing/)
-- [视觉回归测试 Skill：从视觉基线到真实缺陷识别](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-visual-regression-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
