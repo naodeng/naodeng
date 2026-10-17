@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automation ROI Analysis Skill: Costs, Savings and Break-Even](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-roi-analysis/)
+- [Test Runtime Optimization Skill: Shorten Slow Feedback with a Trusted Baseline](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-runtime-optimization/)
+- [When Quality Engineering Creates Chaos: Why QE Transformation Requires System Change](https://inaodeng.com/en/blog/ai-testing/when-quality-engineering-creates-chaos/)
 - [CI Test Optimization Skill: Spend pipeline time where feedback changes the decision](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ci-test-optimization/)
 - [Regression Optimization Skill: Cut Feedback Time Without Dropping Risk](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-optimization/)
 - [Safe AI Self-Healing Automation: Keep Locator Recovery Under Control](https://inaodeng.com/en/blog/ai-testing/safe-ai-self-healing-automation/)
-- [Skill Regression Testing: Proving Changes Did Not Break Existing Behavior](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-10-regression-testing/)
-- [Cross-Browser Testing: Evidence-Based Coverage Matrix](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-cross-browser-testing/)
-- [Visual Regression Testing Skill: Define Baselines Before Calling a Diff a Defect](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-visual-regression-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
