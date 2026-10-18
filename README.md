@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Design Quality Review: Define Contracts Before Build](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-design-quality-review/)
+- [API Schema Validation Skill: Keep real payloads aligned with the contract at the edges](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-schema-validation/)
+- [Rethinking the Testing Pyramid: From Test Ratios to Feedback Economics](https://inaodeng.com/en/blog/ai-testing/rethinking-the-testing-pyramid/)
 - [Automation ROI Analysis Skill: Costs, Savings and Break-Even](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-roi-analysis/)
 - [Test Runtime Optimization Skill: Shorten Slow Feedback with a Trusted Baseline](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-runtime-optimization/)
 - [When Quality Engineering Creates Chaos: Why QE Transformation Requires System Change](https://inaodeng.com/en/blog/ai-testing/when-quality-engineering-creates-chaos/)
-- [CI Test Optimization Skill: Spend pipeline time where feedback changes the decision](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ci-test-optimization/)
-- [Regression Optimization Skill: Cut Feedback Time Without Dropping Risk](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-regression-optimization/)
-- [Safe AI Self-Healing Automation: Keep Locator Recovery Under Control](https://inaodeng.com/en/blog/ai-testing/safe-ai-self-healing-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
