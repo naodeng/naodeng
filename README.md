@@ -61,12 +61,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Error Contract Testing: Check Responses and Meaning](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-error-contract-testing/)
+- [API Negative Testing: Design Rejection and Safety Checks](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-negative-testing/)
 - [API Design Quality Review: Define Contracts Before Build](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-design-quality-review/)
 - [API Schema Validation Skill: Keep real payloads aligned with the contract at the edges](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-schema-validation/)
 - [Rethinking the Testing Pyramid: From Test Ratios to Feedback Economics](https://inaodeng.com/en/blog/ai-testing/rethinking-the-testing-pyramid/)
 - [Automation ROI Analysis Skill: Costs, Savings and Break-Even](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-roi-analysis/)
-- [Test Runtime Optimization Skill: Shorten Slow Feedback with a Trusted Baseline](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-runtime-optimization/)
-- [When Quality Engineering Creates Chaos: Why QE Transformation Requires System Change](https://inaodeng.com/en/blog/ai-testing/when-quality-engineering-creates-chaos/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
