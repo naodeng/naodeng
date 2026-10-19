@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Idempotency Testing: Build a Replay Test Plan](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-idempotency-testing/)
+- [API Pagination Testing Skill: Catch gaps, duplicates, and unstable ordering across changing data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-pagination-testing/)
+- [Building Reliable Background Agent Automations: State, Failure, and Permissions](https://inaodeng.com/en/blog/ai-testing/agent-automation/)
+- [Why AI-written test cases miss the business—and how to give a Skill the right context](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-context-first-test-case-workflow/)
 - [API Error Contract Testing: Check Responses and Meaning](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-error-contract-testing/)
 - [API Negative Testing: Design Rejection and Safety Checks](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-negative-testing/)
-- [API Design Quality Review: Define Contracts Before Build](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-design-quality-review/)
-- [API Schema Validation Skill: Keep real payloads aligned with the contract at the edges](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-schema-validation/)
-- [Rethinking the Testing Pyramid: From Test Ratios to Feedback Economics](https://inaodeng.com/en/blog/ai-testing/rethinking-the-testing-pyramid/)
-- [Automation ROI Analysis Skill: Costs, Savings and Break-Even](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-roi-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
