@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [API 幂等性测试 Skill：从请求重放到业务状态一致性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-idempotency-testing/)
+- [API 分页测试 Skill：从分页边界到数据一致性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-pagination-testing/)
+- [从自动执行到可靠运行：后台智能体的工程化设计](https://inaodeng.com/zh-cn/blog/ai-testing/agent-automation/)
+- [AI 生成的测试用例为何不贴业务？关键在项目上下文](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-context-first-test-case-workflow/)
 - [API 错误契约测试 Skill：验证错误响应语义与消费方兼容性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-error-contract-testing/)
 - [API 异常测试 Skill：从异常输入到安全拒绝与状态验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-negative-testing/)
-- [API 设计质量评审 Skill：在实现前识别契约缺陷与设计风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-design-quality-review/)
-- [API 结构校验 Skill：验证请求响应与接口契约的一致性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-schema-validation/)
-- [重新思考测试金字塔：从测试比例到反馈经济学](https://inaodeng.com/zh-cn/blog/ai-testing/rethinking-the-testing-pyramid/)
-- [自动化投资回报分析 Skill：量化投入产出与投资回收周期](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-roi-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
