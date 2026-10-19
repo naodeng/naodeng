@@ -59,12 +59,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [API 错误契约测试 Skill：验证错误响应语义与消费方兼容性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-error-contract-testing/)
+- [API 异常测试 Skill：从异常输入到安全拒绝与状态验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-negative-testing/)
 - [API 设计质量评审 Skill：在实现前识别契约缺陷与设计风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-design-quality-review/)
 - [API 结构校验 Skill：验证请求响应与接口契约的一致性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-schema-validation/)
 - [重新思考测试金字塔：从测试比例到反馈经济学](https://inaodeng.com/zh-cn/blog/ai-testing/rethinking-the-testing-pyramid/)
 - [自动化投资回报分析 Skill：量化投入产出与投资回收周期](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-automation-roi-analysis/)
-- [测试运行时间优化 Skill：识别执行瓶颈并验证优化收益](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-test-runtime-optimization/)
-- [当质量工程制造混乱：QE 转型为什么需要系统变革](https://inaodeng.com/zh-cn/blog/ai-testing/when-quality-engineering-creates-chaos/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
