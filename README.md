@@ -14,7 +14,7 @@
 ## About Me
 
 - Currently building bilingual QA resources, evidence-driven AI quality tools,
-  an AI-native Quality Engineering workbench, and learning sites across
+  local-first Quality Engineering workbenches, and learning products around
   [AI-Native-QA-Workbench](https://github.com/naodeng/AI-Native-QA-Workbench),
   [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter),
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills),
@@ -23,6 +23,9 @@
   [ai-test-auditor](https://github.com/naodeng/ai-test-auditor),
   [dsh-qa](https://github.com/naodeng/dsh-qa),
   and [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
+- Also building practical web products such as
+  [tidemail](https://github.com/naodeng/tidemail) and
+  [starry-island](https://github.com/naodeng/starry-island)
 - Focused on **AI-native quality engineering**, **quality evidence**,
   **test quality auditing**, and **practical testing knowledge sharing**
 - I regularly write articles on [https://inaodeng.com](https://inaodeng.com)
@@ -35,7 +38,9 @@
 
 - Building `AI-Native-QA-Workbench` as a local-first Quality Engineering
   workbench that connects requirements, quality risks, tests, execution,
-  evidence, and human-controlled decisions; its v0.1 MVP is now in place
+  evidence, and human-controlled decisions; v0.3 now adds the event-driven
+  Quality Engineering Loop, deterministic QualityAssessment/QualityGate
+  evaluation, and an explicit HumanDecision boundary
 - Developing `ai-automation-test-starter` with a v0.1 deterministic Pytest API
   vertical slice and framework-native Learn, Build, Verify, and Ship flows
 - Advancing `ai-native-qa-agents` through v0.4 Test Effectiveness & Mutation,
@@ -43,18 +48,27 @@
   and quality gates
 - Shipping quality evidence tools: `QCov` reached v1.0 with change-to-obligation
   impact analysis and adapter SDKs, while `ai-test-auditor` v1.2.1 keeps
-  source-only JavaScript/TypeScript auditing and advisory workflow semantics
-- Evolving `awesome-qa-skills` through v1.5.2 Skill Router & Evaluation Pilot
-  Hardening, with bilingual composition routes and verifiable offline eval traces
-- Building `dsh-qa` as a QA workbench plugin for DeepSeek Harness; v0.5.0 now
-  uses the official Panel/Slot API for native integration
+  source-only JavaScript/TypeScript auditing and continues to improve static
+  audit precision and coverage
+- Evolving `awesome-qa-skills` through v1.6 Phase 1 Match Review and
+  Evidence-Bounded Governance, with 330 bilingual skills, 10 workflows,
+  150 testing types, and evidence-bounded evaluation contracts
+- Building `dsh-qa` as a QA workbench plugin for DeepSeek Harness; v0.7.2
+  supports the `dsh-v0.2.0-rc.2` host, restores project-local DSH history,
+  and documents the bilingual user guides
 - Building reusable Codex Skills for structured workflows, including
-  Markdown-first learning plans, release delivery, and version DoD evidence
+  Markdown-first learning plans, release delivery, version DoD evidence,
+  and the source-backed bilingual `ai-qa-weekly` digest
 - Maintaining bilingual QA skills and prompts for Codex, Cursor, Claude Code,
   Kiro, OpenCode, and Trae
 - Growing [inaodeng.com](https://inaodeng.com) as a bilingual testing site
-  with structured learning paths, glossary content, and blog series on
-  performance, observability, and quality engineering
+  with structured learning paths, glossary content, bilingual QA workflow
+  series, and weekly testing articles
+- Shipping `tidemail` v0.2.0 as a bilingual Cloudflare Workers/D1 temporary
+  email service with responsive UI and resilient inbox refresh behavior
+- Building `starry-island` v0.2.0, a learning platform for ages 7–12 with
+  158 grade 1–3 Chinese, math, and English curriculum items and reviewed
+  practice content
 
 ---
 
@@ -137,8 +151,9 @@
 
 An AI-native, local-first Quality Engineering workbench that connects
 requirements, quality risks, tests, executions, and evidence into traceable
-quality decisions. The v0.1 MVP includes local contracts, deterministic
-validation, controlled agent workflows, a local API, and a bilingual UI.
+quality decisions. The v0.3 release adds an event-driven Quality Engineering
+Loop, deterministic QualityAssessment/QualityGate evaluation, explicit
+HumanDecision records, a local API, and a bilingual UI.
 
 ### [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter)
 
@@ -167,28 +182,41 @@ The current stable release is v1.2.1.
 
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
-A bilingual AI-native Quality Engineering skill system with 328 skills
-(zh+en), 10 workflows, 149 testing types, and 5 skill-engineering skills.
-The v1.5.2 release adds Composition Router and Evaluation Pilot hardening.
+A bilingual AI-native Quality Engineering skill system with 330 Skills
+(zh+en), 10 workflows, 150 testing types, and 5 skill-engineering skills.
+The v1.6 release adds Phase 1 Match Review and Evidence-Bounded Governance.
 
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 A local QA workbench plugin for DeepSeek Harness,
 covering AI-assisted requirements, cases, defects,
-milestones, reports, kanban, and calendar views. v0.5.0 uses the official
-Panel/Slot API for native host integration.
+milestones, reports, kanban, and calendar views. v0.7.2 supports the
+`dsh-v0.2.0-rc.2` host and restores project-local DSH conversation history.
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 
 A bilingual testing blog and learning site built around
-automation practice, testing encyclopedia content,
-structured series, and searchable QA resources.
+automation practice, testing encyclopedia content, bilingual QA workflow
+series, and searchable QA resources. It is built with Astro 7.x and deployed
+on Cloudflare Workers.
 
 ### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
 
 A bilingual QA Prompt Baseline covering 256 capabilities and modules across
 requirements, test design, automation, performance, security, release,
 production quality, and AI testing.
+
+### [tidemail](https://github.com/naodeng/tidemail)
+
+A lightweight bilingual temporary email service built with Cloudflare Workers
+and D1. v0.2 improves responsive layouts, localized legal pages, and cached
+inbox behavior when a refresh fails.
+
+### [starry-island](https://github.com/naodeng/starry-island)
+
+A playful learning platform for ages 7–12 with interactive practice across
+Chinese, math, and English. v0.2 aligns and reviews grade 1–3 curriculum
+content and adds course-quality checks.
 
 ---
 

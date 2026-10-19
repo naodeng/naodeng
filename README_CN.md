@@ -14,7 +14,7 @@
 ## 关于我
 
 - 当前主要在做双语 QA 资源、基于证据的 AI 质量工具、
-  AI 原生质量工程工作台和学习型站点，重点围绕
+  本地优先的质量工程工作台和学习型产品，重点围绕
   [AI-Native-QA-Workbench](https://github.com/naodeng/AI-Native-QA-Workbench)、
   [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter)、
   [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)、
@@ -23,6 +23,8 @@
   [ai-test-auditor](https://github.com/naodeng/ai-test-auditor)、
   [dsh-qa](https://github.com/naodeng/dsh-qa)、
   以及 [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
+- 也在建设 [tidemail](https://github.com/naodeng/tidemail) 和
+  [starry-island](https://github.com/naodeng/starry-island) 等实用 Web 产品
 - 目前重点放在 **AI 原生质量工程**、**质量证据**、
   **测试质量审计** 和 **测试知识内容沉淀**
 - 定期在 [inaodeng.com](https://inaodeng.com) 发布技术文章
@@ -35,24 +37,31 @@
 
 - 开发 `AI-Native-QA-Workbench` 本地优先的质量工程工作台，
   把需求、质量风险、测试、执行、证据与人工控制的决策串成可追踪链路；
-  当前已完成 v0.1 MVP 主体
+  v0.3 增加事件驱动的 Quality Engineering Loop、确定性的
+  QualityAssessment/QualityGate 评估和明确的 HumanDecision 边界
 - 开发 `ai-automation-test-starter`，交付 v0.1 确定性的 Pytest API
   垂直切片，保持测试框架原生行为并覆盖 Learn、Build、Verify、Ship 流程
 - 推进 `ai-native-qa-agents` v0.4 测试有效性与变异测试，
   增加有边界的变异证据、有效性评分、Trace 持久化和质量关卡
 - 持续交付质量证据工具：`QCov` 在 v1.0 增加变更到测试义务的影响分析
   和 Adapter SDK，`ai-test-auditor` v1.2.1 保持 JavaScript/TypeScript
-  源码审计以及 advisory workflow 语义
-- 推进 `awesome-qa-skills` v1.5.2 Skill Router 与 Evaluation Pilot 加固，
-  提供双语 Composition 路由和可验证的离线评测 Trace
+  源码审计，并持续提升静态审计精度与覆盖范围
+- 推进 `awesome-qa-skills` v1.6 Phase 1 Match Review 与证据边界治理，
+  当前包含 330 个双语 Skill、10 个工作流、150 类测试类型和证据边界评测契约
 - 持续把 `dsh-qa` 做成面向 DeepSeek Harness 的 QA 工作台插件；
-  v0.5.0 已切换到官方 Panel/Slot API，支持原生宿主集成
+  v0.7.2 支持 `dsh-v0.2.0-rc.2` 宿主、恢复项目内 DSH 历史对话，
+  并补充双语用户指南
 - 建设可复用的 Codex Skills，支持结构化工作流，
-  包括 Markdown 双语学习计划、版本发布和版本 DoD 证据
+  包括 Markdown 双语学习计划、版本发布、版本 DoD 证据，
+  以及基于来源的双语 `ai-qa-weekly` 周报
 - 维护适配 Codex、Cursor、Claude Code、Kiro、OpenCode 和 Trae
   的双语 QA 技能与提示词
 - 持续建设 [inaodeng.com](https://inaodeng.com)
-  这个双语测试站点，补充学习路径、术语内容，以及性能、可观测性和质量工程系列文章
+  这个双语测试站点，补充学习路径、术语内容、双语 QA 工作流系列和测试周报文章
+- 发布 `tidemail` v0.2.0，一个基于 Cloudflare Workers/D1 的双语临时邮箱服务，
+  增加响应式界面和收件箱刷新失败时的缓存保留行为
+- 建设 `starry-island` v0.2.0，一个面向 7–12 岁学生的学习平台，
+  已登记一至三年级语文、数学和英语共 158 个课程条目，并完成题目审校
 
 ---
 
@@ -135,7 +144,8 @@
 
 一个 AI 原生、本地优先的质量工程工作台，
 把需求、质量风险、测试、执行和证据连接成可追踪的质量决策。
-v0.1 MVP 已包含本地契约、确定性校验、受控 Agent 工作流、
+v0.3 增加了事件驱动的 Quality Engineering Loop、确定性的
+QualityAssessment/QualityGate 评估、明确的 HumanDecision 记录、
 本地 API 和双语 UI。
 
 ### [ai-automation-test-starter](https://github.com/naodeng/ai-automation-test-starter)
@@ -149,7 +159,7 @@ v0.1 Pytest API 切片保持测试框架原生行为，
 一个面向 AI 原生质量 Agent 的证据驱动参考架构，
 通过受控运行时、确定性分析、有边界的模型推理和验证关卡，
 覆盖软件交付全生命周期。v0.4 增加了有边界、
-  带变异证据追踪的测试有效性与变异测试工作流。
+带变异证据追踪的测试有效性与变异测试工作流。
 
 ### [QCov](https://github.com/naodeng/QCov)
 
@@ -165,26 +175,37 @@ v0.1 Pytest API 切片保持测试框架原生行为，
 
 ### [awesome-qa-skills](https://github.com/naodeng/awesome-qa-skills)
 
-一个双语 AI 原生质量工程技能系统，包含 328 个技能（中英文）、
-10 个工作流、149 类测试类型和 5 个 Skill 工程技能。
-v1.5.2 增加了 Composition Router 与 Evaluation Pilot 加固能力。
+一个双语 AI 原生质量工程技能系统，包含 330 个 Skill 目录（中英文合计）、
+10 个工作流、150 类测试类型和 5 个 Skill 工程技能。
+v1.6 增加了 Phase 1 Match Review 与证据边界治理能力。
 
 ### [dsh-qa](https://github.com/naodeng/dsh-qa)
 
 一个面向 DeepSeek Harness 的本地 QA 工作台插件，
 覆盖 AI 辅助需求、用例、缺陷、里程碑、报告、
-看板和日历视图。v0.5.0 已使用官方 Panel/Slot API
-实现原生宿主集成。
+看板和日历视图。v0.7.2 支持 `dsh-v0.2.0-rc.2` 宿主，
+并恢复项目内 DSH 历史对话展示。
 
 ### [naodeng.com.cn](https://github.com/naodeng/naodeng.com.cn)
 
 一个双语测试博客和学习站点，
-围绕自动化实践、测试百科、系列文章和可搜索资源展开。
+围绕自动化实践、测试百科、双语 QA 工作流系列和可搜索资源展开。
+站点基于 Astro 7.x 构建并部署在 Cloudflare Workers 上。
 
 ### [awesome-qa-prompt](https://github.com/naodeng/awesome-qa-prompt)
 
 一个双语 QA Prompt Baseline，覆盖需求、测试设计、自动化、性能、
 安全、发布、生产质量和 AI 测试等 256 项能力与模块。
+
+### [tidemail](https://github.com/naodeng/tidemail)
+
+一个基于 Cloudflare Workers 和 D1 的轻量双语临时邮箱服务。
+v0.2 改进了响应式布局、双语法律页面，以及刷新失败时保留缓存收件内容的行为。
+
+### [starry-island](https://github.com/naodeng/starry-island)
+
+一个面向 7–12 岁学生的趣味学习平台，提供语文、数学和英语互动练习。
+v0.2 完成一至三年级课程内容对齐与题目审校，并增加课程质量检查。
 
 ---
 
