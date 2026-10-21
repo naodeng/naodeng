@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [API 限流测试 Skill：从配额边界到突发流量与恢复验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-rate-limit-testing/)
+- [API 版本兼容性测试 Skill：从版本变更到消费者兼容性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-version-compatibility-testing/)
+- [从测试用例到适用于 AI 的质量数据：让测试成为有效上下文](https://inaodeng.com/zh-cn/blog/ai-testing/ai-ready-quality-data/)
+- [用 Awesome QA Skills 跑好每天的测试：计划、执行、交接](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-daily-quality-loop/)
+- [做真实的自己，把乐趣带回质量工作：从一次质量对谈看 QA 的成长与协作](https://inaodeng.com/zh-cn/blog/ai-testing/quality-guidance-be-yourself-bring-fun/)
 - [API 幂等性测试 Skill：从请求重放到业务状态一致性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-idempotency-testing/)
-- [API 分页测试 Skill：从分页边界到数据一致性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-pagination-testing/)
-- [从自动执行到可靠运行：后台智能体的工程化设计](https://inaodeng.com/zh-cn/blog/ai-testing/agent-automation/)
-- [AI 生成的测试用例为何不贴业务？关键在项目上下文](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-context-first-test-case-workflow/)
-- [API 错误契约测试 Skill：验证错误响应语义与消费方兼容性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-error-contract-testing/)
-- [API 异常测试 Skill：从异常输入到安全拒绝与状态验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-negative-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
