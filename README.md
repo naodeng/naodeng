@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API Rate Limit Testing: Quota, Burst, and Recovery](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-rate-limit-testing/)
+- [API Version Compatibility Testing Skill: Find the consumer break before the rollout does](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-version-compatibility-testing/)
+- [From Test Cases to AI-Ready Quality Data: Making Tests Useful Context for AI](https://inaodeng.com/en/blog/ai-testing/ai-ready-quality-data/)
+- [A daily QA loop with Awesome QA Skills: plan, test, report](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-daily-quality-loop/)
+- [Be Yourself and Bring the Fun Back to Quality Work](https://inaodeng.com/en/blog/ai-testing/quality-guidance-be-yourself-bring-fun/)
 - [API Idempotency Testing: Build a Replay Test Plan](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-idempotency-testing/)
-- [API Pagination Testing Skill: Catch gaps, duplicates, and unstable ordering across changing data](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-pagination-testing/)
-- [Building Reliable Background Agent Automations: State, Failure, and Permissions](https://inaodeng.com/en/blog/ai-testing/agent-automation/)
-- [Why AI-written test cases miss the business—and how to give a Skill the right context](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-context-first-test-case-workflow/)
-- [API Error Contract Testing: Check Responses and Meaning](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-error-contract-testing/)
-- [API Negative Testing: Design Rejection and Safety Checks](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-negative-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
