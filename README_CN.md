@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Skill 证据：PASS 之前先问证据能证明什么](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-11-evidence-boundaries/)
+- [AI 功能测试 Skill：验证异常降级与隐私保护边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-feature-testing/)
+- [RAG 检索测试 Skill：识别召回缺失与排序偏差](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-retrieval-testing/)
+- [用不同 Skills 做探索性测试：从测试章程到可追溯证据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-exploratory-testing-session/)
+- [AI 加速开发之后：哪些工程阻力值得保留？](https://inaodeng.com/zh-cn/blog/ai-testing/when-building-things-was-the-fun-part/)
 - [API 限流测试 Skill：从配额边界到突发流量与恢复验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-rate-limit-testing/)
-- [API 版本兼容性测试 Skill：从版本变更到消费者兼容性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-version-compatibility-testing/)
-- [从测试用例到适用于 AI 的质量数据：让测试成为有效上下文](https://inaodeng.com/zh-cn/blog/ai-testing/ai-ready-quality-data/)
-- [用 Awesome QA Skills 跑好每天的测试：计划、执行、交接](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-daily-quality-loop/)
-- [做真实的自己，把乐趣带回质量工作：从一次质量对谈看 QA 的成长与协作](https://inaodeng.com/zh-cn/blog/ai-testing/quality-guidance-be-yourself-bring-fun/)
-- [API 幂等性测试 Skill：从请求重放到业务状态一致性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-idempotency-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
