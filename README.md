@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skill Evidence: What Does PASS Actually Prove?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-11-evidence-boundaries/)
+- [AI Feature Testing: Validate AI product functionality, degradation, privacy, and feedback mechanisms](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-feature-testing/)
+- [RAG Retrieval Testing Skill: Find Recall and Ranking Gaps Before They Reach Answers](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-retrieval-testing/)
+- [Exploratory testing with Skills: a mission, a time box, and usable evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-exploratory-testing-session/)
+- [When AI Makes Building Faster: Which Friction Should We Keep?](https://inaodeng.com/en/blog/ai-testing/when-building-things-was-the-fun-part/)
 - [API Rate Limit Testing: Quota, Burst, and Recovery](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-rate-limit-testing/)
-- [API Version Compatibility Testing Skill: Find the consumer break before the rollout does](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-version-compatibility-testing/)
-- [From Test Cases to AI-Ready Quality Data: Making Tests Useful Context for AI](https://inaodeng.com/en/blog/ai-testing/ai-ready-quality-data/)
-- [A daily QA loop with Awesome QA Skills: plan, test, report](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-daily-quality-loop/)
-- [Be Yourself and Bring the Fun Back to Quality Work](https://inaodeng.com/en/blog/ai-testing/quality-guidance-be-yourself-bring-fun/)
-- [API Idempotency Testing: Build a Replay Test Plan](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-idempotency-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
