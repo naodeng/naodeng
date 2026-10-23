@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Skill 质量循环：用 QA 方法持续治理 Agent Skills](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-12-quality-loop/)
+- [AI 生成测试评审 Skill：识别需求覆盖缺口与虚假质量信心](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-generated-test-review/)
+- [RAG 质量测试 Skill：验证回答依据、相关性与安全拒答](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-quality-testing/)
+- [用 Skills 做发布测试：构建从发布范围到 Go/No-Go 的质量证据链](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-readiness-with-skills/)
+- [如何测试因国家而异的 Cookie 横幅：验证同意选择与实际追踪行为](https://inaodeng.com/zh-cn/blog/ai-testing/testing-country-specific-cookie-banners/)
 - [Skill 证据：PASS 之前先问证据能证明什么](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-11-evidence-boundaries/)
-- [AI 功能测试 Skill：验证异常降级与隐私保护边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-feature-testing/)
-- [RAG 检索测试 Skill：识别召回缺失与排序偏差](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-retrieval-testing/)
-- [用不同 Skills 做探索性测试：从测试章程到可追溯证据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-exploratory-testing-session/)
-- [AI 加速开发之后：哪些工程阻力值得保留？](https://inaodeng.com/zh-cn/blog/ai-testing/when-building-things-was-the-fun-part/)
-- [API 限流测试 Skill：从配额边界到突发流量与恢复验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-rate-limit-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
