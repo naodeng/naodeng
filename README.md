@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Skill Quality Loop: Applying QA Engineering to Agent Skills](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-12-quality-loop/)
+- [AI-Generated Test Review: Traceability and False Confidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-generated-test-review/)
+- [RAG Quality Testing Skill: Check Grounding, Relevance, and Safe Abstention](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-quality-testing/)
+- [Release testing with Skills: each handoff from scope to Go/No-Go](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-readiness-with-skills/)
+- [Testing Country-Specific Cookie Banners: From UI Promises to Network Evidence](https://inaodeng.com/en/blog/ai-testing/testing-country-specific-cookie-banners/)
 - [Skill Evidence: What Does PASS Actually Prove?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-11-evidence-boundaries/)
-- [AI Feature Testing: Validate AI product functionality, degradation, privacy, and feedback mechanisms](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-feature-testing/)
-- [RAG Retrieval Testing Skill: Find Recall and Ranking Gaps Before They Reach Answers](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-retrieval-testing/)
-- [Exploratory testing with Skills: a mission, a time box, and usable evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-exploratory-testing-session/)
-- [When AI Makes Building Faster: Which Friction Should We Keep?](https://inaodeng.com/en/blog/ai-testing/when-building-things-was-the-fun-part/)
-- [API Rate Limit Testing: Quota, Burst, and Recovery](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-rate-limit-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
