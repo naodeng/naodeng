@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM 一致性测试 Skill：识别输出波动与行为契约违背](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-consistency-testing/)
+- [LLM 幻觉测试 Skill：识别看似可信却缺乏依据的回答](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-hallucination-testing/)
+- [AI 敏捷测试贯穿一个迭代：每个 Skill 在交接中的具体用法](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-sprint-quality-handoffs/)
+- [从功能出发开展安全研究：漏洞赏金研究方法对 QA 的启示](https://inaodeng.com/zh-cn/blog/ai-testing/feature-led-security-research/)
 - [Skill 质量循环：用 QA 方法持续治理 Agent Skills](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-12-quality-loop/)
 - [AI 生成测试评审 Skill：识别需求覆盖缺口与虚假质量信心](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-generated-test-review/)
-- [RAG 质量测试 Skill：验证回答依据、相关性与安全拒答](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-quality-testing/)
-- [用 Skills 做发布测试：构建从发布范围到 Go/No-Go 的质量证据链](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-readiness-with-skills/)
-- [如何测试因国家而异的 Cookie 横幅：验证同意选择与实际追踪行为](https://inaodeng.com/zh-cn/blog/ai-testing/testing-country-specific-cookie-banners/)
-- [Skill 证据：PASS 之前先问证据能证明什么](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-11-evidence-boundaries/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
