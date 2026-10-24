@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM Consistency Testing Skill: Tell useful variation from a broken output contract](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-consistency-testing/)
+- [LLM Hallucination Testing Skill: Catch unsupported claims before they become trusted answers](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-hallucination-testing/)
+- [Agile testing across a sprint: what each Skill does at each handoff](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-sprint-quality-handoffs/)
+- [Feature-Led Security Research: What QA Can Learn from a Bug Bounty Researcher](https://inaodeng.com/en/blog/ai-testing/feature-led-security-research/)
 - [The Skill Quality Loop: Applying QA Engineering to Agent Skills](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-12-quality-loop/)
 - [AI-Generated Test Review: Traceability and False Confidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-generated-test-review/)
-- [RAG Quality Testing Skill: Check Grounding, Relevance, and Safe Abstention](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-rag-quality-testing/)
-- [Release testing with Skills: each handoff from scope to Go/No-Go](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-release-readiness-with-skills/)
-- [Testing Country-Specific Cookie Banners: From UI Promises to Network Evidence](https://inaodeng.com/en/blog/ai-testing/testing-country-specific-cookie-banners/)
-- [Skill Evidence: What Does PASS Actually Prove?](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-11-evidence-boundaries/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
