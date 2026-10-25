@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use AI for Software Testing: From Direct Questions to Prompts and Skills](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-from-chat-to-skills/)
+- [AI Safety Testing: Policy, Abuse, and Escalation Review](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-safety-testing/)
+- [Agentic PR Reviews: Code Review Does Not Have to Wait for a PR](https://inaodeng.com/en/blog/ai-testing/agentic-pr-reviews/)
+- [Are LLMs Making Developers Lazy? Code Taste, Judgment, and Engineering Ownership](https://inaodeng.com/en/blog/ai-testing/llm-coding-agency/)
 - [LLM Consistency Testing Skill: Tell useful variation from a broken output contract](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-consistency-testing/)
 - [LLM Hallucination Testing Skill: Catch unsupported claims before they become trusted answers](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-hallucination-testing/)
-- [Agile testing across a sprint: what each Skill does at each handoff](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-sprint-quality-handoffs/)
-- [Feature-Led Security Research: What QA Can Learn from a Bug Bounty Researcher](https://inaodeng.com/en/blog/ai-testing/feature-led-security-research/)
-- [The Skill Quality Loop: Applying QA Engineering to Agent Skills](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-12-quality-loop/)
-- [AI-Generated Test Review: Traceability and False Confidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-generated-test-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
