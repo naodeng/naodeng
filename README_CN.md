@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [如何用 AI 进行软件测试？从直接提问到 Prompt，再到 Skills](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-from-chat-to-skills/)
+- [AI 安全测试 Skill：验证安全策略、拒答机制与升级边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-safety-testing/)
+- [智能体代码审查：让质量反馈发生在 PR 之前](https://inaodeng.com/zh-cn/blog/ai-testing/agentic-pr-reviews/)
+- [LLM 让程序员变懒了吗？真正需要警惕的是工程判断力退化](https://inaodeng.com/zh-cn/blog/ai-testing/llm-coding-agency/)
 - [LLM 一致性测试 Skill：识别输出波动与行为契约违背](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-consistency-testing/)
 - [LLM 幻觉测试 Skill：识别看似可信却缺乏依据的回答](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-hallucination-testing/)
-- [AI 敏捷测试贯穿一个迭代：每个 Skill 在交接中的具体用法](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-sprint-quality-handoffs/)
-- [从功能出发开展安全研究：漏洞赏金研究方法对 QA 的启示](https://inaodeng.com/zh-cn/blog/ai-testing/feature-led-security-research/)
-- [Skill 质量循环：用 QA 方法持续治理 Agent Skills](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-12-quality-loop/)
-- [AI 生成测试评审 Skill：识别需求覆盖缺口与虚假质量信心](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-generated-test-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
