@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Injection Testing: Validate how agents resist injection, data leakage, and unauthorized calls](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-injection-testing/)
+- [How Much Testing Is Enough? Decide by Risk and Evidence](https://inaodeng.com/en/blog/ai-testing/how-much-testing-is-enough-risk-evidence/)
 - [How to Use AI for Software Testing: From Direct Questions to Prompts and Skills](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-from-chat-to-skills/)
 - [AI Safety Testing: Policy, Abuse, and Escalation Review](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-safety-testing/)
 - [Agentic PR Reviews: Code Review Does Not Have to Wait for a PR](https://inaodeng.com/en/blog/ai-testing/agentic-pr-reviews/)
 - [Are LLMs Making Developers Lazy? Code Taste, Judgment, and Engineering Ownership](https://inaodeng.com/en/blog/ai-testing/llm-coding-agency/)
-- [LLM Consistency Testing Skill: Tell useful variation from a broken output contract](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-consistency-testing/)
-- [LLM Hallucination Testing Skill: Catch unsupported claims before they become trusted answers](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-hallucination-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
