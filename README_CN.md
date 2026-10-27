@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [提示词注入测试 Skill：识别指令劫持、越权与信息泄露风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-injection-testing/)
+- [测试做多少才算够？用风险与证据判断何时停止](https://inaodeng.com/zh-cn/blog/ai-testing/how-much-testing-is-enough-risk-evidence/)
 - [如何用 AI 进行软件测试？从直接提问到 Prompt，再到 Skills](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-from-chat-to-skills/)
 - [AI 安全测试 Skill：验证安全策略、拒答机制与升级边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-safety-testing/)
 - [智能体代码审查：让质量反馈发生在 PR 之前](https://inaodeng.com/zh-cn/blog/ai-testing/agentic-pr-reviews/)
 - [LLM 让程序员变懒了吗？真正需要警惕的是工程判断力退化](https://inaodeng.com/zh-cn/blog/ai-testing/llm-coding-agency/)
-- [LLM 一致性测试 Skill：识别输出波动与行为契约违背](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-consistency-testing/)
-- [LLM 幻觉测试 Skill：识别看似可信却缺乏依据的回答](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-llm-hallucination-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
