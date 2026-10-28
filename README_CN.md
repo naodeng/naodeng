@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [直接用 AI 做软件测试：从需求分析到测试用例生成](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-direct-chat-requirements-to-cases/)
+- [智能体工具调用测试 Skill：验证执行权限与业务副作用](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-tool-testing/)
 - [提示词注入测试 Skill：识别指令劫持、越权与信息泄露风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-injection-testing/)
 - [测试做多少才算够？用风险与证据判断何时停止](https://inaodeng.com/zh-cn/blog/ai-testing/how-much-testing-is-enough-risk-evidence/)
 - [如何用 AI 进行软件测试？从直接提问到 Prompt，再到 Skills](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-from-chat-to-skills/)
 - [AI 安全测试 Skill：验证安全策略、拒答机制与升级边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-safety-testing/)
-- [智能体代码审查：让质量反馈发生在 PR 之前](https://inaodeng.com/zh-cn/blog/ai-testing/agentic-pr-reviews/)
-- [LLM 让程序员变懒了吗？真正需要警惕的是工程判断力退化](https://inaodeng.com/zh-cn/blog/ai-testing/llm-coding-agency/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
