@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [用 Prompt 做软件测试：让 AI 输出更符合测试需求](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-test-design/)
+- [智能体权限测试 Skill：验证身份授权、工具访问与越权拒绝](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-permission-testing/)
 - [直接用 AI 做软件测试：从需求分析到测试用例生成](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-direct-chat-requirements-to-cases/)
 - [智能体工具调用测试 Skill：验证执行权限与业务副作用](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-tool-testing/)
 - [提示词注入测试 Skill：识别指令劫持、越权与信息泄露风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-injection-testing/)
 - [测试做多少才算够？用风险与证据判断何时停止](https://inaodeng.com/zh-cn/blog/ai-testing/how-much-testing-is-enough-risk-evidence/)
-- [如何用 AI 进行软件测试？从直接提问到 Prompt，再到 Skills](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-from-chat-to-skills/)
-- [AI 安全测试 Skill：验证安全策略、拒答机制与升级边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-safety-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
