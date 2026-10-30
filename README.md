@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Skills for Software Testing: Turning Test Methods into Reusable Workflows](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-skills-reusable-workflow/)
+- [Authorization Testing Skill: Prove the right identity can take the right action on the right resource](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authorization-testing/)
 - [Using Prompts for Software Testing: Getting More Useful AI Outputs](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-test-design/)
 - [Agent Permission Testing Skill: Verify tool access, identity, and refusal at every boundary](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-permission-testing/)
 - [Direct Chat for Software Testing: From Requirements to Test Cases](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-direct-chat-requirements-to-cases/)
 - [Agent Tool Call Testing: Focus on parameters, permissions, idempotency, and side effects](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-tool-testing/)
-- [Prompt Injection Testing: Validate how agents resist injection, data leakage, and unauthorized calls](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-prompt-injection-testing/)
-- [How Much Testing Is Enough? Decide by Risk and Evidence](https://inaodeng.com/en/blog/ai-testing/how-much-testing-is-enough-risk-evidence/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
