@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Testing: Validate AI-Generated Software Through Test Intent](https://inaodeng.com/en/blog/ai-testing/vibe-testing-intent-driven-quality/)
 - [Authentication Testing: Credential and Session Lifecycles](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authentication-testing/)
 - [When Roles Overlap: How QA Can Develop New Specialisations](https://inaodeng.com/en/blog/ai-testing/role-overlap-and-quality-engineering-specialisation/)
 - [RSAT Migration: From Test Inventory to Coverage Equivalence](https://inaodeng.com/en/blog/ai-testing/rsat-migration/)
 - [Using Skills for Software Testing: Turning Test Methods into Reusable Workflows](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-skills-reusable-workflow/)
 - [Authorization Testing Skill: Prove the right identity can take the right action on the right resource](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authorization-testing/)
-- [Using Prompts for Software Testing: Getting More Useful AI Outputs](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-test-design/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
