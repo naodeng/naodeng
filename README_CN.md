@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Testing：用测试意图验证 AI 生成的软件](https://inaodeng.com/zh-cn/blog/ai-testing/vibe-testing-intent-driven-quality/)
 - [身份认证测试 Skill：验证凭据安全与会话生命周期](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authentication-testing/)
 - [当岗位边界逐渐模糊：QA 如何建立新的专业竞争力？](https://inaodeng.com/zh-cn/blog/ai-testing/role-overlap-and-quality-engineering-specialisation/)
 - [RSAT 迁移指南：从用例盘点到覆盖等价性验证](https://inaodeng.com/zh-cn/blog/ai-testing/rsat-migration/)
 - [用 Skills 做软件测试：让测试方法成为可复用的工作流程](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-skills-reusable-workflow/)
 - [授权测试 Skill：验证身份、资源与操作的权限边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authorization-testing/)
-- [用 Prompt 做软件测试：让 AI 输出更符合测试需求](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-test-design/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
