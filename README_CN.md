@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [API 安全测试 Skill：识别接口认证、授权与数据暴露风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-security-testing/)
+- [会话安全测试 Skill：验证会话生命周期与跨设备安全边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-session-security-testing/)
+- [AI 生成的测试用例靠谱吗？如何发现遗漏和错误](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-review-generated-test-cases/)
+- [从测试用例到自动化测试：如何让 AI 帮你写和运行测试](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-test-cases-to-automation/)
 - [Vibe Testing：用测试意图验证 AI 生成的软件](https://inaodeng.com/zh-cn/blog/ai-testing/vibe-testing-intent-driven-quality/)
 - [身份认证测试 Skill：验证凭据安全与会话生命周期](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authentication-testing/)
-- [当岗位边界逐渐模糊：QA 如何建立新的专业竞争力？](https://inaodeng.com/zh-cn/blog/ai-testing/role-overlap-and-quality-engineering-specialisation/)
-- [RSAT 迁移指南：从用例盘点到覆盖等价性验证](https://inaodeng.com/zh-cn/blog/ai-testing/rsat-migration/)
-- [用 Skills 做软件测试：让测试方法成为可复用的工作流程](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-skills-reusable-workflow/)
-- [授权测试 Skill：验证身份、资源与操作的权限边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authorization-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
