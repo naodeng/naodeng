@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Compare Direct Chat, Prompts, and Skills on One Requirement](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-compare-chat-prompt-skills/)
+- [From Test Management to Quality Management Systems: Finding Friction in the Work System](https://inaodeng.com/en/blog/ai-testing/from-test-management-to-quality-management-systems/)
 - [API Security Testing Skill: Verify the Security Boundary from Identity to Object](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-security-testing/)
 - [Session-Security Testing Skill: Review Creation, Revocation, Expiry, and Device Boundaries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-session-security-testing/)
 - [Can You Trust AI-Generated Test Cases? Finding Gaps and Weak Assertions](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-review-generated-test-cases/)
 - [From Test Cases to Test Automation: Let AI Help Write and Run Tests](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-test-cases-to-automation/)
-- [Vibe Testing: Validate AI-Generated Software Through Test Intent](https://inaodeng.com/en/blog/ai-testing/vibe-testing-intent-driven-quality/)
-- [Authentication Testing: Credential and Session Lifecycles](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-authentication-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
