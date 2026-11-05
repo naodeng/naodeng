@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [智能体记忆测试 Skill：让记住的事实有范围、有时效，也能安全复用](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-memory-testing/)
+- [如何用屏幕阅读器做测试](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-with-a-screen-reader/)
+- [从 Prompt 到 Skills：让 AI 测试经验成为可复用的工作方法](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-to-team-skills/)
+- [敏感信息暴露审查 Skill：识别配置、日志与凭证管理中的泄露风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-secrets-exposure-review/)
 - [同一份需求，三种 AI 测试方式：直接提问、Prompt 与 Skill 效果对比](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-compare-chat-prompt-skills/)
 - [从测试管理到质量管理体系：识别并改善系统性质量问题](https://inaodeng.com/zh-cn/blog/ai-testing/from-test-management-to-quality-management-systems/)
-- [API 安全测试 Skill：识别接口认证、授权与数据暴露风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-security-testing/)
-- [会话安全测试 Skill：验证会话生命周期与跨设备安全边界](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-session-security-testing/)
-- [AI 生成的测试用例靠谱吗？如何发现遗漏和错误](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-review-generated-test-cases/)
-- [从测试用例到自动化测试：如何让 AI 帮你写和运行测试](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-test-cases-to-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
