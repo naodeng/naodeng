@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Memory Testing Skill: Keep remembered facts scoped, current, and safe to reuse](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-memory-testing/)
+- [How to Test with a Screen Reader](https://inaodeng.com/en/blog/ai-testing/how-to-test-with-a-screen-reader/)
+- [From Prompts to Skills: Turning Personal AI Testing Practices into Team Workflows](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-to-team-skills/)
+- [Secrets-Exposure Review Skill: Trace Credentials Across Config, Logs, and Rotation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-secrets-exposure-review/)
 - [How to Compare Direct Chat, Prompts, and Skills on One Requirement](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-compare-chat-prompt-skills/)
 - [From Test Management to Quality Management Systems: Finding Friction in the Work System](https://inaodeng.com/en/blog/ai-testing/from-test-management-to-quality-management-systems/)
-- [API Security Testing Skill: Verify the Security Boundary from Identity to Object](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-api-security-testing/)
-- [Session-Security Testing Skill: Review Creation, Revocation, Expiry, and Device Boundaries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-session-security-testing/)
-- [Can You Trust AI-Generated Test Cases? Finding Gaps and Weak Assertions](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-review-generated-test-cases/)
-- [From Test Cases to Test Automation: Let AI Help Write and Run Tests](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-test-cases-to-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
