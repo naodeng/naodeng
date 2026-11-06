@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Testing: Systematically validate planning, memory, tool use, and failure recovery](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-agent-testing/)
+- [PHP2Shell: How AI Helped Uncover Long-Lived PHP Vulnerabilities](https://inaodeng.com/en/blog/ai-testing/php2shell-ai-assisted-vulnerability-discovery/)
 - [Agent Memory Testing Skill: Keep remembered facts scoped, current, and safe to reuse](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-memory-testing/)
 - [How to Test with a Screen Reader](https://inaodeng.com/en/blog/ai-testing/how-to-test-with-a-screen-reader/)
 - [From Prompts to Skills: Turning Personal AI Testing Practices into Team Workflows](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-to-team-skills/)
 - [Secrets-Exposure Review Skill: Trace Credentials Across Config, Logs, and Rotation](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-secrets-exposure-review/)
-- [How to Compare Direct Chat, Prompts, and Skills on One Requirement](https://inaodeng.com/en/blog/ai-testing/ai-testing-getting-started/ai-testing-compare-chat-prompt-skills/)
-- [From Test Management to Quality Management Systems: Finding Friction in the Work System](https://inaodeng.com/en/blog/ai-testing/from-test-management-to-quality-management-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
