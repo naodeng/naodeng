@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 智能体测试 Skill：验证记忆、规划与失败恢复的可靠性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-agent-testing/)
+- [PHP php2shell 漏洞事件：AI 如何发现旧漏洞，组织如何应对](https://inaodeng.com/zh-cn/blog/ai-testing/php2shell-ai-assisted-vulnerability-discovery/)
 - [智能体记忆测试 Skill：让记住的事实有范围、有时效，也能安全复用](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-memory-testing/)
 - [如何用屏幕阅读器做测试](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-with-a-screen-reader/)
 - [从 Prompt 到 Skills：让 AI 测试经验成为可复用的工作方法](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-prompt-to-team-skills/)
 - [敏感信息暴露审查 Skill：识别配置、日志与凭证管理中的泄露风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-secrets-exposure-review/)
-- [同一份需求，三种 AI 测试方式：直接提问、Prompt 与 Skill 效果对比](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-getting-started/ai-testing-compare-chat-prompt-skills/)
-- [从测试管理到质量管理体系：识别并改善系统性质量问题](https://inaodeng.com/zh-cn/blog/ai-testing/from-test-management-to-quality-management-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
