@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [智能体循环测试 Skill：验证任务进展、循环控制与安全终止](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-loop-testing/)
+- [战略不是计划，而是持续进化：用 OODA 与战略内核建立学习闭环](https://inaodeng.com/zh-cn/blog/ai-testing/strategy-is-a-loop-not-a-plan/)
 - [智能体故障恢复测试 Skill：验证安全重试、状态恢复与人工接管](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-failure-recovery-testing/)
 - [从脚本编写者到测试策略师：AI 如何改变 QA 的工作重心](https://inaodeng.com/zh-cn/blog/ai-testing/from-script-writer-to-test-strategist/)
 - [Skill 质量工程全景指南：评估模型、实践方法与 12 篇系列文章](https://inaodeng.com/zh-cn/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-model-overview/)
 - [AI 智能体测试 Skill：验证记忆、规划与失败恢复的可靠性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-agent-testing/)
-- [PHP php2shell 漏洞事件：AI 如何发现旧漏洞，组织如何应对](https://inaodeng.com/zh-cn/blog/ai-testing/php2shell-ai-assisted-vulnerability-discovery/)
-- [智能体记忆测试 Skill：让记住的事实有范围、有时效，也能安全复用](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-memory-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
