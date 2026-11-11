@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Long-Running Testing Skill: Keep progress, leases, and cancellation visible during long jobs](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-long-running-testing/)
+- [Multi-Agent Testing Skill: Check handoffs, authority, and disagreement across agent roles](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-agent-testing/)
 - [Agent Loop Testing: Measure Progress and Stop Safely](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-loop-testing/)
 - [Strategy Is a Loop, Not a Plan: Combining OODA with the Strategic Kernel](https://inaodeng.com/en/blog/ai-testing/strategy-is-a-loop-not-a-plan/)
 - [Agent Failure Recovery Testing: Plan Safe Retries](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-failure-recovery-testing/)
 - [From Script Writer to Test Strategist: How AI Shifts QA&#39;s Work](https://inaodeng.com/en/blog/ai-testing/from-script-writer-to-test-strategist/)
-- [Skill Quality Engineering: The Model, a Practical Guide, and 12 Articles](https://inaodeng.com/en/blog/ai-testing/skill-quality-engineering/skill-quality-engineering-model-overview/)
-- [AI Agent Testing: Systematically validate planning, memory, tool use, and failure recovery](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-ai-agent-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
