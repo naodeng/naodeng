@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 测试的真实价值：哪些场景真正有效，哪些只是看起来有效？](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-real-value-vs-hype/)
+- [熔断器测试 Skill：验证熔断触发、半开探测与服务恢复](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-circuit-breaker-testing/)
+- [依赖故障测试 Skill：验证超时、陈旧数据与部分失败的系统韧性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-dependency-failure-testing/)
 - [长运行智能体测试 Skill：让长任务的进度、租约和取消路径可核对](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-long-running-testing/)
 - [多智能体协作测试 Skill：检查智能体角色之间的交接、权限和分歧](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-agent-testing/)
 - [智能体循环测试 Skill：验证任务进展、循环控制与安全终止](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-loop-testing/)
-- [战略不是计划，而是持续进化：用 OODA 与战略内核建立学习闭环](https://inaodeng.com/zh-cn/blog/ai-testing/strategy-is-a-loop-not-a-plan/)
-- [智能体故障恢复测试 Skill：验证安全重试、状态恢复与人工接管](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-failure-recovery-testing/)
-- [从脚本编写者到测试策略师：AI 如何改变 QA 的工作重心](https://inaodeng.com/zh-cn/blog/ai-testing/from-script-writer-to-test-strategist/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
