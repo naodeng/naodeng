@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disaster Recovery Testing Skill: Connect RTO and RPO to a recovery path someone can verify](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-disaster-recovery-testing/)
+- [Failover Testing Skill: Prove the active path changes without losing the business state](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-failover-testing/)
 - [Where AI Actually Helps in Testing—and Where It Only Looks Like It Does](https://inaodeng.com/en/blog/ai-testing/ai-testing-real-value-vs-hype/)
 - [Circuit Breaker Testing Skill: Verify open, half-open, and recovery behavior under dependency failure](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-circuit-breaker-testing/)
 - [Dependency Failure Testing Skill: Make timeout, stale data, and partial failure observable](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-dependency-failure-testing/)
 - [Agent Long-Running Testing Skill: Keep progress, leases, and cancellation visible during long jobs](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-long-running-testing/)
-- [Multi-Agent Testing Skill: Check handoffs, authority, and disagreement across agent roles](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-agent-testing/)
-- [Agent Loop Testing: Measure Progress and Stop Safely](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-loop-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
