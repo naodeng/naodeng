@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [灾备测试 Skill：验证 RTO、RPO 与业务恢复能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-disaster-recovery-testing/)
+- [故障切换测试 Skill：验证服务切换与业务状态一致性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-failover-testing/)
 - [AI 测试的真实价值：哪些场景真正有效，哪些只是看起来有效？](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-real-value-vs-hype/)
 - [熔断器测试 Skill：验证熔断触发、半开探测与服务恢复](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-circuit-breaker-testing/)
 - [依赖故障测试 Skill：验证超时、陈旧数据与部分失败的系统韧性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-dependency-failure-testing/)
 - [长运行智能体测试 Skill：让长任务的进度、租约和取消路径可核对](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-long-running-testing/)
-- [多智能体协作测试 Skill：检查智能体角色之间的交接、权限和分歧](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-multi-agent-testing/)
-- [智能体循环测试 Skill：验证任务进展、循环控制与安全终止](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-loop-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
