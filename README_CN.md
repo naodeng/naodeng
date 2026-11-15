@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [恢复测试 Skill：验证故障恢复流程、状态一致性与人工接管](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-recovery-testing/)
+- [可靠性测试 Skill：从故障模式到系统可用性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-reliability-testing/)
+- [Hotfix 应该怎么测？从 Bug 修复验证到基于风险的发布决策](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-a-hotfix/)
 - [灾备测试 Skill：验证 RTO、RPO 与业务恢复能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-disaster-recovery-testing/)
 - [故障切换测试 Skill：验证服务切换与业务状态一致性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-failover-testing/)
 - [AI 测试的真实价值：哪些场景真正有效，哪些只是看起来有效？](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-real-value-vs-hype/)
-- [熔断器测试 Skill：验证熔断触发、半开探测与服务恢复](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-circuit-breaker-testing/)
-- [依赖故障测试 Skill：验证超时、陈旧数据与部分失败的系统韧性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-dependency-failure-testing/)
-- [长运行智能体测试 Skill：让长任务的进度、租约和取消路径可核对](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-agent-long-running-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
