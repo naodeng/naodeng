@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Faster AI-Assisted Development Can Leave Testing Teams Busier](https://inaodeng.com/en/blog/ai-testing/ai-testing-backlog-and-culture/)
+- [Chaos Testing: Plan Bounded Failure Experiments](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-chaos-testing/)
+- [Resilience Testing Skill: Review Degradation, Isolation, and Residual Risk](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-resilience-testing/)
 - [Recovery Testing Skill: Prove Restore Steps, RPO/RTO, and Human Takeover](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-recovery-testing/)
 - [Reliability Testing Skill: Connect Failure Modes to Availability Evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-reliability-testing/)
 - [How Should You Test a Hotfix? From Bug Verification to Risk-Based Release Decisions](https://inaodeng.com/en/blog/ai-testing/how-to-test-a-hotfix/)
-- [Disaster Recovery Testing Skill: Connect RTO and RPO to a recovery path someone can verify](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-disaster-recovery-testing/)
-- [Failover Testing Skill: Prove the active path changes without losing the business state](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-failover-testing/)
-- [Where AI Actually Helps in Testing—and Where It Only Looks Like It Does](https://inaodeng.com/en/blog/ai-testing/ai-testing-real-value-vs-hype/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
