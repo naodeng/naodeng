@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 让开发提速，测试却越来越忙：问题可能出在团队文化](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-backlog-and-culture/)
+- [混沌测试 Skill：从稳态假设到受控故障实验](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-chaos-testing/)
+- [韧性测试 Skill：验证故障降级、隔离能力与残余风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-resilience-testing/)
 - [恢复测试 Skill：验证故障恢复流程、状态一致性与人工接管](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-recovery-testing/)
 - [可靠性测试 Skill：从故障模式到系统可用性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-reliability-testing/)
 - [Hotfix 应该怎么测？从 Bug 修复验证到基于风险的发布决策](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-a-hotfix/)
-- [灾备测试 Skill：验证 RTO、RPO 与业务恢复能力](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-disaster-recovery-testing/)
-- [故障切换测试 Skill：验证服务切换与业务状态一致性](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-failover-testing/)
-- [AI 测试的真实价值：哪些场景真正有效，哪些只是看起来有效？](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-real-value-vs-hype/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
