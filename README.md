@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security Requirement Review Skill: Turn Protection Goals into Testable Requirements](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-requirement-review/)
+- [Threat Modeling Skill: Turn Assets and Trust Boundaries into Reviewable Scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-threat-modeling/)
+- [Why More AI-Generated Tests Can Make Risks Harder to See](https://inaodeng.com/en/blog/ai-testing/signal-ignorance-ai-testing/)
+- [Why Bugs Still Escape Thorough Testing: Unknown Unknowns and System Resilience](https://inaodeng.com/en/blog/ai-testing/unknown-unknowns-and-system-resilience/)
 - [Why Faster AI-Assisted Development Can Leave Testing Teams Busier](https://inaodeng.com/en/blog/ai-testing/ai-testing-backlog-and-culture/)
 - [Chaos Testing: Plan Bounded Failure Experiments](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-chaos-testing/)
-- [Resilience Testing Skill: Review Degradation, Isolation, and Residual Risk](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-resilience-testing/)
-- [Recovery Testing Skill: Prove Restore Steps, RPO/RTO, and Human Takeover](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-recovery-testing/)
-- [Reliability Testing Skill: Connect Failure Modes to Availability Evidence](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-reliability-testing/)
-- [How Should You Test a Hotfix? From Bug Verification to Risk-Based Release Decisions](https://inaodeng.com/en/blog/ai-testing/how-to-test-a-hotfix/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
