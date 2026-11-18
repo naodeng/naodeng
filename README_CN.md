@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [安全需求复核 Skill：从安全目标到可验证的安全要求](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-requirement-review/)
+- [威胁建模 Skill：从资产与信任边界到可验证的威胁场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-threat-modeling/)
+- [AI 生成的测试越来越多，为什么团队反而看不见风险？](https://inaodeng.com/zh-cn/blog/ai-testing/signal-ignorance-ai-testing/)
+- [测试再全面，为什么上线后仍会出 Bug？从未知风险到系统韧性](https://inaodeng.com/zh-cn/blog/ai-testing/unknown-unknowns-and-system-resilience/)
 - [AI 让开发提速，测试却越来越忙：问题可能出在团队文化](https://inaodeng.com/zh-cn/blog/ai-testing/ai-testing-backlog-and-culture/)
 - [混沌测试 Skill：从稳态假设到受控故障实验](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-chaos-testing/)
-- [韧性测试 Skill：验证故障降级、隔离能力与残余风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-resilience-testing/)
-- [恢复测试 Skill：验证故障恢复流程、状态一致性与人工接管](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-recovery-testing/)
-- [可靠性测试 Skill：从故障模式到系统可用性验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-reliability-testing/)
-- [Hotfix 应该怎么测？从 Bug 修复验证到基于风险的发布决策](https://inaodeng.com/zh-cn/blog/ai-testing/how-to-test-a-hotfix/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
