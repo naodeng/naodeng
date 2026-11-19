@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Database Design Quality Review Skill: Constraints &amp; Migrations](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-database-design-quality-review/)
+- [Error Handling Design Review Skill: Failure Modes and Recovery](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-error-handling-design-review/)
 - [Security Requirement Review Skill: Turn Protection Goals into Testable Requirements](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-requirement-review/)
 - [Threat Modeling Skill: Turn Assets and Trust Boundaries into Reviewable Scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-threat-modeling/)
 - [Why More AI-Generated Tests Can Make Risks Harder to See](https://inaodeng.com/en/blog/ai-testing/signal-ignorance-ai-testing/)
 - [Why Bugs Still Escape Thorough Testing: Unknown Unknowns and System Resilience](https://inaodeng.com/en/blog/ai-testing/unknown-unknowns-and-system-resilience/)
-- [Why Faster AI-Assisted Development Can Leave Testing Teams Busier](https://inaodeng.com/en/blog/ai-testing/ai-testing-backlog-and-culture/)
-- [Chaos Testing: Plan Bounded Failure Experiments](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-chaos-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
