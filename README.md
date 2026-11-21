@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quality Gate Design Skill: Make release decisions explicit without pretending every signal is complete](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-gate-design/)
+- [Quality Maturity Assessment Skill: Turn QA Practice Evidence into an Improvement Roadmap](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-maturity-assessment/)
 - [Observability Design Review Skill: Make Failures Explainable Before They Happen](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-observability-design-review/)
 - [Technical Design Quality Review Skill: Expose Design Risks Before the First Line of Code](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-technical-design-quality-review/)
 - [Database Design Quality Review Skill: Constraints &amp; Migrations](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-database-design-quality-review/)
 - [Error Handling Design Review Skill: Failure Modes and Recovery](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-error-handling-design-review/)
-- [Security Requirement Review Skill: Turn Protection Goals into Testable Requirements](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-requirement-review/)
-- [Threat Modeling Skill: Turn Assets and Trust Boundaries into Reviewable Scenarios](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-threat-modeling/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
