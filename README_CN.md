@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [质量门禁设计 Skill：从质量证据到可解释的发布决策](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-gate-design/)
+- [质量成熟度评估 Skill：基于 QA 实践证据制定持续改进路线图](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-maturity-assessment/)
 - [可观测性设计评审 Skill：从监控信号到故障诊断能力验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-observability-design-review/)
 - [技术设计质量评审 Skill：在第一行代码之前发现设计风险](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-technical-design-quality-review/)
 - [数据库设计质量评审 Skill：从数据约束到访问性能与迁移安全](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-database-design-quality-review/)
 - [错误处理设计评审 Skill：从失败模式到安全恢复策略](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-error-handling-design-review/)
-- [安全需求复核 Skill：从安全目标到可验证的安全要求](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-security-requirement-review/)
-- [威胁建模 Skill：从资产与信任边界到可验证的威胁场景](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-threat-modeling/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
