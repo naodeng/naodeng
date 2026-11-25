@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 时代，如何成为一名优秀且成功的软件测试人员？](https://inaodeng.com/zh-cn/blog/ai-testing/ai-era-successful-software-tester/)
+- [AI 让软件研发更快了，但质量真的变得更好了吗？从 Bugberg 到质量瓶颈的思考](https://inaodeng.com/zh-cn/blog/ai-testing/ai-quality-bugberg-bottlenecks/)
+- [质量仪表盘设计 Skill：从质量信号到可执行的决策依据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-dashboard-design/)
+- [质量债务分析 Skill：从累积风险识别到债务偿还优先级](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-debt-analysis/)
 - [质量指标设计 Skill：构建可解释、可复核的质量度量体系](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-metrics-design/)
 - [质量生产力指标 Skill：从 QA 交付效率到真实质量成效](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-productivity-metrics/)
-- [Java4Shell（CVE-2026-114938）：从漏洞原理到修复验证与 QA 安全回归](https://inaodeng.com/zh-cn/blog/ai-testing/java4shell-business-impact-and-qa-regression/)
-- [质量门禁设计 Skill：从质量证据到可解释的发布决策](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-gate-design/)
-- [质量成熟度评估 Skill：基于 QA 实践证据制定持续改进路线图](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-maturity-assessment/)
-- [可观测性设计评审 Skill：从监控信号到故障诊断能力验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-observability-design-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
