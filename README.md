@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Become a Successful Software Tester in the Age of AI](https://inaodeng.com/en/blog/ai-testing/ai-era-successful-software-tester/)
+- [AI Has Made Software Development Faster. Has Quality Improved? From Bugbergs to Bottlenecks](https://inaodeng.com/en/blog/ai-testing/ai-quality-bugberg-bottlenecks/)
+- [Quality Dashboard Design Skill: Make Quality Signals Useful for Decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-dashboard-design/)
+- [Quality Debt Analysis Skill: Assess Risk and Paydown Priorities](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-debt-analysis/)
 - [Quality Metrics Design Skill: Build Clear, Reviewable Metrics](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-metrics-design/)
 - [Quality Productivity Metrics Skill: Balance QA Delivery and Quality Outcomes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-productivity-metrics/)
-- [Java4Shell（CVE-2026-114938）: Mechanism, Business Impact, and QA Regression](https://inaodeng.com/en/blog/ai-testing/java4shell-business-impact-and-qa-regression/)
-- [Quality Gate Design Skill: Make release decisions explicit without pretending every signal is complete](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-gate-design/)
-- [Quality Maturity Assessment Skill: Turn QA Practice Evidence into an Improvement Roadmap](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-maturity-assessment/)
-- [Observability Design Review Skill: Make Failures Explainable Before They Happen](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-observability-design-review/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
