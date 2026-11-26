@@ -75,12 +75,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skill Change Verification: Check the Contract After an Edit](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-skill-change-verification/)
+- [Testing Bottleneck Analysis Skill: Separate Wait, Execution, and Rework](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testing-bottleneck-analysis/)
 - [How to Become a Successful Software Tester in the Age of AI](https://inaodeng.com/en/blog/ai-testing/ai-era-successful-software-tester/)
 - [AI Has Made Software Development Faster. Has Quality Improved? From Bugbergs to Bottlenecks](https://inaodeng.com/en/blog/ai-testing/ai-quality-bugberg-bottlenecks/)
 - [Quality Dashboard Design Skill: Make Quality Signals Useful for Decisions](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-dashboard-design/)
 - [Quality Debt Analysis Skill: Assess Risk and Paydown Priorities](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-debt-analysis/)
-- [Quality Metrics Design Skill: Build Clear, Reviewable Metrics](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-metrics-design/)
-- [Quality Productivity Metrics Skill: Balance QA Delivery and Quality Outcomes](https://inaodeng.com/en/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-productivity-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 [View all articles](https://inaodeng.com)
