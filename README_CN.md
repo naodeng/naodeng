@@ -68,12 +68,12 @@
 ## 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Skill 更新后，如何确保原有能力没有退化？从触发、输出到约束验证](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-skill-change-verification/)
+- [测试进度总是被拖慢？如何从等待、执行与返工中找到真正的瓶颈](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-testing-bottleneck-analysis/)
 - [AI 时代，如何成为一名优秀且成功的软件测试人员？](https://inaodeng.com/zh-cn/blog/ai-testing/ai-era-successful-software-tester/)
 - [AI 让软件研发更快了，但质量真的变得更好了吗？从 Bugberg 到质量瓶颈的思考](https://inaodeng.com/zh-cn/blog/ai-testing/ai-quality-bugberg-bottlenecks/)
 - [质量仪表盘设计 Skill：从质量信号到可执行的决策依据](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-dashboard-design/)
 - [质量债务分析 Skill：从累积风险识别到债务偿还优先级](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-debt-analysis/)
-- [质量指标设计 Skill：构建可解释、可复核的质量度量体系](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-metrics-design/)
-- [质量生产力指标 Skill：从 QA 交付效率到真实质量成效](https://inaodeng.com/zh-cn/blog/ai-testing/awesome-qa-skills/awesome-qa-skills-quality-productivity-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 [查看所有文章](https://inaodeng.com)
